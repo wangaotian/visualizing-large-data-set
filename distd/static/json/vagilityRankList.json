@@ -1,0 +1,104 @@
+{
+	"rows": 5,
+	"content": [
+		{
+			"totalcount": 14594,
+			"uv": 56928000,
+			"wid": 62,
+			"at": 76,
+			"rate": 34.8,
+			"pv": 330297600,
+			"webname": "红网",
+			"originalycount": 5085,
+			"typename": "省级网站",
+			"bzcount": 6583,
+			"pcvagility": 692
+		},{
+			"totalcount": 13325,
+			"uv": 56928000,
+			"wid": 13,
+			"at": 76,
+			"rate": 34.8,
+			"pv": 330297600,
+			"webname": "新华网",
+			"originalycount": 3362,
+			"typename": "省级网站",
+			"bzcount": 2001,
+			"pcvagility": 539
+		},{
+			"totalcount": 300921,
+			"uv": 82880000,
+			"wid": 42,
+			"at": 97,
+			"rate": 1,
+			"pv": 621216000,
+			"webname": "东方网",
+			"originalycount": 2993,
+			"typename": "省级网站",
+			"bzcount": 15118,
+			"pcvagility": 662
+		},{
+			"totalcount": 13325,
+			"uv": 56928000,
+			"wid": 12,
+			"at": 76,
+			"rate": 34.8,
+			"pv": 330297600,
+			"webname": "凤凰网",
+			"originalycount": 3362,
+			"typename": "省级网站",
+			"bzcount": 2001,
+			"pcvagility": 539
+		},{
+			"totalcount": 13325,
+			"uv": 56928000,
+			"wid": 72,
+			"at": 76,
+			"rate": 34.8,
+			"pv": 330297600,
+			"webname": "人民网",
+			"originalycount": 3362,
+			"typename": "省级网站",
+			"bzcount": 2001,
+			"pcvagility": 539
+		},{
+			"totalcount": 13325,
+			"uv": 56928000,
+			"wid": 23,
+			"at": 76,
+			"rate": 34.8,
+			"pv": 330297600,
+			"webname": "央视网",
+			"originalycount": 3362,
+			"typename": "省级网站",
+			"bzcount": 2001,
+			"pcvagility": 539
+		},{
+			"totalcount": 13325,
+			"uv": 56928000,
+			"wid": 23,
+			"at": 76,
+			"rate": 34.8,
+			"pv": 330297600,
+			"webname": "中国网",
+			"originalycount": 3362,
+			"typename": "省级网站",
+			"bzcount": 2001,
+			"pcvagility": 539
+		},{
+			"totalcount": 13325,
+			"uv": 56928000,
+			"wid": 23,
+			"at": 76,
+			"rate": 34.8,
+			"pv": 330297600,
+			"webname": "中国信息网",
+			"originalycount": 3362,
+			"typename": "省级网站",
+			"bzcount": 2001,
+			"pcvagility": 539
+		}
+	],
+	"totalRows": 5,
+	"totalPages": 2
+}

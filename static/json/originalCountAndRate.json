@@ -1,0 +1,54 @@
+{
+    "result": "1",
+    "msg": "成功",
+    "data": [
+        {
+            "cdate": "2017-03-27",
+            "OriginalCount": 7983,
+            "originalrate": "17.57%",
+            "ReprintCount": 37443
+        },
+        {
+            "cdate": "2017-03-28",
+            "OriginalCount": 7975,
+            "originalrate": "18.40%",
+            "ReprintCount": 35368
+        },
+        {
+            "cdate": "2017-03-29",
+            "OriginalCount": 8190,
+            "originalrate": "17.75%",
+            "ReprintCount": 37948
+        },
+        {
+            "cdate": "2017-03-30",
+            "OriginalCount": 8942,
+            "originalrate": "19.86%",
+            "ReprintCount": 36090
+        },
+        {
+            "cdate": "2017-03-31",
+            "OriginalCount": 8719,
+            "originalrate": "19.22%",
+            "ReprintCount": 36647
+        },
+        {
+            "cdate": "2017-04-01",
+            "OriginalCount": 7561,
+            "originalrate": "19.59%",
+            "ReprintCount": 31039
+        },
+        {
+            "cdate": "2017-04-02",
+            "OriginalCount": 2369,
+            "originalrate": "15.98%",
+            "ReprintCount": 12457
+        },
+        {
+            "cdate": "2017-04-03",
+            "OriginalCount": 2375,
+            "originalrate": "16.28%",
+            "ReprintCount": 12210
+        }
+    ]
+}

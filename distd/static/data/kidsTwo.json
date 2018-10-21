@@ -1,0 +1,717 @@
+{
+  "page": 2,
+  "page_size": 20,
+  "martshows": [{
+    "type": "type_home_item_double",
+    "type_home_item_double": {
+      "items": [{
+        "iid": 28721519,
+        "event_id": 106056012,
+        "title": "悠扬之家2018新款男童秋装套装1一2二3三岁女宝宝韩版秋冬卫衣婴儿衣服潮",
+        "product_id": 3722567,
+        "square_img": "http:\/\/b1.hucdn.com\/upload\/item\/1708\/15\/88609672942075_1000x1000.jpg",
+        "white_bg_img": "http:\/\/b1.hucdn.com\/upload\/item\/1708\/15\/88609672942075_1000x1000.jpg",
+        "img": "http:\/\/b1.hucdn.com\/upload\/item\/1708\/15\/88609672942075_1000x1000.jpg",
+        "country_circle_icon": "",
+        "uid": 8592075,
+        "notify_class_id": "mart_home",
+        "stock": null,
+        "main_color": "#ff4965",
+        "price": 5990,
+        "origin_price": null,
+        "ext": "立即抢",
+        "buying_info": "1210人已抢",
+        "sale_num": 1210,
+        "target": "beibei:\/\/detail?iid=28721519&product_sale_num=1210&scene_tag=home",
+        "notify_target": "beibei:\/\/detail?iid=28721519&product_sale_num=1210&scene_tag=home",
+        "scene_tag": "home",
+        "group_avatars": [],
+        "icon_promotions": [],
+        "item_track_data": "",
+        "nezha": {
+          "单品列表": {
+            "iid": 28721519,
+            "nz_block": "频道",
+            "nz_id": 44,
+            "nz_ver": "1.0.0",
+            "track_id": "1.4.118.7.13.20.44"
+          }
+        }
+      }, {
+        "iid": 28759227,
+        "event_id": 106060625,
+        "title": "亲亲泥巴男童凉鞋2018新款童凉鞋韩版夏季儿童包头沙滩鞋女童鞋运动网鞋潮",
+        "product_id": 5583975,
+        "square_img": "http:\/\/b1.hucdn.com\/upload\/item\/1804\/03\/41418925880353_800x800.jpg",
+        "white_bg_img": "http:\/\/b1.hucdn.com\/upload\/item\/1804\/03\/41418925880353_800x800.jpg",
+        "img": "http:\/\/b1.hucdn.com\/upload\/item\/1804\/03\/41418925880353_800x800.jpg",
+        "country_circle_icon": "",
+        "uid": 36120353,
+        "notify_class_id": "mart_home",
+        "stock": null,
+        "main_color": "#ff4965",
+        "price": 3990,
+        "origin_price": null,
+        "ext": "立即抢",
+        "buying_info": "3399人已抢",
+        "sale_num": 3399,
+        "target": "beibei:\/\/detail?iid=28759227&product_sale_num=3399&scene_tag=home",
+        "notify_target": "beibei:\/\/detail?iid=28759227&product_sale_num=3399&scene_tag=home",
+        "scene_tag": "home",
+        "group_avatars": [],
+        "icon_promotions": [],
+        "item_track_data": "",
+        "nezha": {
+          "单品列表": {
+            "iid": 28759227,
+            "nz_block": "频道",
+            "nz_id": 44,
+            "nz_ver": "1.0.0",
+            "track_id": "1.4.118.7.13.21.44"
+          }
+        }
+      }]
+    }
+  }, {
+    "type": "type_home_item_double",
+    "type_home_item_double": {
+      "items": [{
+        "iid": 28805473,
+        "event_id": 106066375,
+        "title": "HelloKitty童装女童夏季圆领棉休闲公主连衣裙T恤裙",
+        "product_id": 2936213,
+        "square_img": "http:\/\/b1.hucdn.com\/upload\/item\/1804\/21\/79381561419272_800x800.jpg",
+        "white_bg_img": "http:\/\/b1.hucdn.com\/upload\/item\/1804\/21\/79381561419272_800x800.jpg",
+        "img": "http:\/\/b1.hucdn.com\/upload\/item\/1804\/21\/79381561419272_800x800.jpg",
+        "country_circle_icon": "",
+        "uid": 37259272,
+        "notify_class_id": "mart_home",
+        "stock": null,
+        "main_color": "#ff4965",
+        "price": 5600,
+        "origin_price": null,
+        "ext": "立即抢",
+        "buying_info": "596人已抢",
+        "sale_num": 596,
+        "target": "beibei:\/\/detail?iid=28805473&product_sale_num=596&scene_tag=home",
+        "notify_target": "beibei:\/\/detail?iid=28805473&product_sale_num=596&scene_tag=home",
+        "scene_tag": "home",
+        "group_avatars": [],
+        "icon_promotions": [],
+        "item_track_data": "",
+        "nezha": {
+          "单品列表": {
+            "iid": 28805473,
+            "nz_block": "频道",
+            "nz_id": 44,
+            "nz_ver": "1.0.0",
+            "track_id": "1.4.118.7.13.22.44"
+          }
+        }
+      }, {
+        "iid": 28768179,
+        "event_id": 106061312,
+        "title": "热销潮款2018年新品明地一族亲子装粉红豹一家三口吸汗透气短袖纯棉t恤",
+        "product_id": 5622038,
+        "square_img": "http:\/\/b1.hucdn.com\/upload\/item\/1804\/07\/11372356151435_800x800.jpg",
+        "white_bg_img": "http:\/\/b1.hucdn.com\/upload\/item\/1804\/07\/11372356151435_800x800.jpg",
+        "img": "http:\/\/b1.hucdn.com\/upload\/item\/1804\/07\/11372356151435_800x800.jpg",
+        "country_circle_icon": "",
+        "uid": 47861435,
+        "notify_class_id": "mart_home",
+        "stock": null,
+        "main_color": "#ff4965",
+        "price": 1680,
+        "origin_price": null,
+        "ext": "立即抢",
+        "buying_info": "2045人已抢",
+        "sale_num": 2045,
+        "target": "beibei:\/\/detail?iid=28768179&product_sale_num=2045&scene_tag=home",
+        "notify_target": "beibei:\/\/detail?iid=28768179&product_sale_num=2045&scene_tag=home",
+        "scene_tag": "home",
+        "group_avatars": [],
+        "icon_promotions": [],
+        "item_track_data": "",
+        "nezha": {
+          "单品列表": {
+            "iid": 28768179,
+            "nz_block": "频道",
+            "nz_id": 44,
+            "nz_ver": "1.0.0",
+            "track_id": "1.4.118.7.13.23.44"
+          }
+        }
+      }]
+    }
+  }, {
+    "type": "type_home_item_double",
+    "type_home_item_double": {
+      "items": [{
+        "iid": 28776536,
+        "event_id": 106061895,
+        "title": "babyfeet夏季宝宝机能凉鞋 防滑软底男女童婴儿鞋1-3岁运动鞋",
+        "product_id": 1401514,
+        "square_img": "http:\/\/b1.hucdn.com\/upload\/item\/1705\/26\/90948924285787_800x800.jpg",
+        "white_bg_img": "http:\/\/b1.hucdn.com\/upload\/item\/1705\/26\/90948924285787_800x800.jpg",
+        "img": "http:\/\/b1.hucdn.com\/upload\/item\/1705\/26\/90948924285787_800x800.jpg",
+        "country_circle_icon": "",
+        "uid": 665787,
+        "notify_class_id": "mart_home",
+        "stock": null,
+        "main_color": "#ff4965",
+        "price": 6900,
+        "origin_price": null,
+        "ext": "立即抢",
+        "buying_info": "3789人已抢",
+        "sale_num": 3789,
+        "target": "beibei:\/\/detail?iid=28776536&product_sale_num=3789&scene_tag=home",
+        "notify_target": "beibei:\/\/detail?iid=28776536&product_sale_num=3789&scene_tag=home",
+        "scene_tag": "home",
+        "group_avatars": [],
+        "icon_promotions": [],
+        "item_track_data": "",
+        "nezha": {
+          "单品列表": {
+            "iid": 28776536,
+            "nz_block": "频道",
+            "nz_id": 44,
+            "nz_ver": "1.0.0",
+            "track_id": "1.4.118.7.13.24.44"
+          }
+        }
+      }, {
+        "iid": 28674237,
+        "event_id": 106049036,
+        "title": "【4条装】桂诗兰儿童内裤女童纯棉中大童小孩全棉平角三角内裤",
+        "product_id": 980780,
+        "square_img": "http:\/\/b1.hucdn.com\/upload\/item\/1703\/02\/44174300180490_800x800.jpg",
+        "white_bg_img": "http:\/\/b1.hucdn.com\/upload\/item\/1703\/02\/44174300180490_800x800.jpg",
+        "img": "http:\/\/b1.hucdn.com\/upload\/item\/1703\/02\/44174300180490_800x800.jpg",
+        "country_circle_icon": "",
+        "uid": 2710490,
+        "notify_class_id": "mart_home",
+        "stock": null,
+        "main_color": "#ff4965",
+        "price": 2490,
+        "origin_price": null,
+        "ext": "立即抢",
+        "buying_info": "13320人已抢",
+        "sale_num": 13320,
+        "target": "beibei:\/\/detail?iid=28674237&product_sale_num=13320&scene_tag=home",
+        "notify_target": "beibei:\/\/detail?iid=28674237&product_sale_num=13320&scene_tag=home",
+        "scene_tag": "home",
+        "group_avatars": [],
+        "icon_promotions": [],
+        "item_track_data": "",
+        "nezha": {
+          "单品列表": {
+            "iid": 28674237,
+            "nz_block": "频道",
+            "nz_id": 44,
+            "nz_ver": "1.0.0",
+            "track_id": "1.4.118.7.13.25.44"
+          }
+        }
+      }]
+    }
+  }, {
+    "type": "type_home_item_double",
+    "type_home_item_double": {
+      "items": [{
+        "iid": 28736911,
+        "event_id": 106057750,
+        "title": "嗒笛熊童鞋 女童凉鞋2018夏季中大童韩版公主鞋新款防滑平底儿童凉鞋女孩鞋子",
+        "product_id": 5412307,
+        "square_img": "http:\/\/b1.hucdn.com\/upload\/item\/1803\/14\/35496335338337_800x800.jpg",
+        "white_bg_img": "http:\/\/b1.hucdn.com\/upload\/item\/1803\/14\/35496335338337_800x800.jpg",
+        "img": "http:\/\/b1.hucdn.com\/upload\/item\/1803\/14\/35496335338337_800x800.jpg",
+        "country_circle_icon": "",
+        "uid": 52878337,
+        "notify_class_id": "mart_home",
+        "stock": null,
+        "main_color": "#ff4965",
+        "price": 3990,
+        "origin_price": null,
+        "ext": "立即抢",
+        "buying_info": "1137人已抢",
+        "sale_num": 1137,
+        "target": "beibei:\/\/detail?iid=28736911&product_sale_num=1137&scene_tag=home",
+        "notify_target": "beibei:\/\/detail?iid=28736911&product_sale_num=1137&scene_tag=home",
+        "scene_tag": "home",
+        "group_avatars": [],
+        "icon_promotions": [],
+        "item_track_data": "",
+        "nezha": {
+          "单品列表": {
+            "iid": 28736911,
+            "nz_block": "频道",
+            "nz_id": 44,
+            "nz_ver": "1.0.0",
+            "track_id": "1.4.118.7.13.26.44"
+          }
+        }
+      }, {
+        "iid": 28776555,
+        "event_id": 106061898,
+        "title": "babyfeet宝宝凉鞋软底 真皮女童公主鞋春夏新款学步童鞋皮鞋防滑",
+        "product_id": 2830023,
+        "square_img": "http:\/\/b1.hucdn.com\/upload\/item\/1806\/11\/84832590595787_800x800.jpg",
+        "white_bg_img": "http:\/\/b1.hucdn.com\/upload\/item\/1806\/11\/84832590595787_800x800.jpg",
+        "img": "http:\/\/b1.hucdn.com\/upload\/item\/1806\/11\/84832590595787_800x800.jpg",
+        "country_circle_icon": "",
+        "uid": 665787,
+        "notify_class_id": "mart_home",
+        "stock": null,
+        "main_color": "#ff4965",
+        "price": 5900,
+        "origin_price": null,
+        "ext": "立即抢",
+        "buying_info": "1932人已抢",
+        "sale_num": 1932,
+        "target": "beibei:\/\/detail?iid=28776555&product_sale_num=1932&scene_tag=home",
+        "notify_target": "beibei:\/\/detail?iid=28776555&product_sale_num=1932&scene_tag=home",
+        "scene_tag": "home",
+        "group_avatars": [],
+        "icon_promotions": [],
+        "item_track_data": "",
+        "nezha": {
+          "单品列表": {
+            "iid": 28776555,
+            "nz_block": "频道",
+            "nz_id": 44,
+            "nz_ver": "1.0.0",
+            "track_id": "1.4.118.7.13.27.44"
+          }
+        }
+      }]
+    }
+  }, {
+    "type": "type_home_item_double",
+    "type_home_item_double": {
+      "items": [{
+        "iid": 28776361,
+        "event_id": 106061867,
+        "title": "DancingBear女童春装外套2018新款童装韩版草莓公主儿童拉链开衫中小童春秋薄款小女孩外出上衣女宝宝夹克衫潮",
+        "product_id": 2471125,
+        "square_img": "http:\/\/b1.hucdn.com\/upload\/item\/1703\/29\/54375404966490_700x700.jpg",
+        "white_bg_img": "http:\/\/b1.hucdn.com\/upload\/item\/1703\/29\/54375404966490_700x700.jpg",
+        "img": "http:\/\/b1.hucdn.com\/upload\/item\/1703\/29\/54375404966490_700x700.jpg",
+        "country_circle_icon": "",
+        "uid": 106490,
+        "notify_class_id": "mart_home",
+        "stock": null,
+        "main_color": "#ff4965",
+        "price": 2490,
+        "origin_price": null,
+        "ext": "立即抢",
+        "buying_info": "9011人已抢",
+        "sale_num": 9011,
+        "target": "beibei:\/\/detail?iid=28776361&product_sale_num=9011&scene_tag=home",
+        "notify_target": "beibei:\/\/detail?iid=28776361&product_sale_num=9011&scene_tag=home",
+        "scene_tag": "home",
+        "group_avatars": [],
+        "icon_promotions": [],
+        "item_track_data": "",
+        "nezha": {
+          "单品列表": {
+            "iid": 28776361,
+            "nz_block": "频道",
+            "nz_id": 44,
+            "nz_ver": "1.0.0",
+            "track_id": "1.4.118.7.13.28.44"
+          }
+        }
+      }, {
+        "iid": 28823448,
+        "event_id": 106073732,
+        "title": "咯咯小猪女童夏季韩版公主凉鞋儿童鞋",
+        "product_id": 2649405,
+        "square_img": "http:\/\/b1.hucdn.com\/upload\/item\/1703\/17\/18723875369465_520x520.png",
+        "white_bg_img": "http:\/\/b1.hucdn.com\/upload\/item\/1703\/17\/18723875369465_520x520.png",
+        "img": "http:\/\/b1.hucdn.com\/upload\/item\/1703\/17\/18723875369465_520x520.png",
+        "country_circle_icon": "",
+        "uid": 24039465,
+        "notify_class_id": "mart_home",
+        "stock": null,
+        "main_color": "#ff4965",
+        "price": 3790,
+        "origin_price": null,
+        "ext": "立即抢",
+        "buying_info": "9921人已抢",
+        "sale_num": 9921,
+        "target": "beibei:\/\/detail?iid=28823448&product_sale_num=9921&scene_tag=home",
+        "notify_target": "beibei:\/\/detail?iid=28823448&product_sale_num=9921&scene_tag=home",
+        "scene_tag": "home",
+        "group_avatars": [],
+        "icon_promotions": [],
+        "item_track_data": "",
+        "nezha": {
+          "单品列表": {
+            "iid": 28823448,
+            "nz_block": "频道",
+            "nz_id": 44,
+            "nz_ver": "1.0.0",
+            "track_id": "1.4.118.7.13.29.44"
+          }
+        }
+      }]
+    }
+  }, {
+    "type": "type_home_item_double",
+    "type_home_item_double": {
+      "items": [{
+        "iid": 28804537,
+        "event_id": 106066066,
+        "title": "棉寓言【2条装】夏季薄款婴儿连腿肚兜新生儿纯棉兜兜宝宝彩棉护肚围",
+        "product_id": 3318715,
+        "square_img": "http:\/\/b1.hucdn.com\/upload\/item\/1706\/29\/04417175880214_800x800.jpg",
+        "white_bg_img": "http:\/\/b1.hucdn.com\/upload\/item\/1706\/29\/04417175880214_800x800.jpg",
+        "img": "http:\/\/b1.hucdn.com\/upload\/item\/1706\/29\/04417175880214_800x800.jpg",
+        "country_circle_icon": "",
+        "uid": 44960214,
+        "notify_class_id": "mart_home",
+        "stock": null,
+        "main_color": "#ff4965",
+        "price": 1390,
+        "origin_price": null,
+        "ext": "立即抢",
+        "buying_info": "2642人已抢",
+        "sale_num": 2642,
+        "target": "beibei:\/\/detail?iid=28804537&product_sale_num=2642&scene_tag=home",
+        "notify_target": "beibei:\/\/detail?iid=28804537&product_sale_num=2642&scene_tag=home",
+        "scene_tag": "home",
+        "group_avatars": [],
+        "icon_promotions": [],
+        "item_track_data": "",
+        "nezha": {
+          "单品列表": {
+            "iid": 28804537,
+            "nz_block": "频道",
+            "nz_id": 44,
+            "nz_ver": "1.0.0",
+            "track_id": "1.4.118.7.13.30.44"
+          }
+        }
+      }, {
+        "iid": 28823756,
+        "event_id": 106073860,
+        "title": "海绵宝宝正品百搭小白鞋多色帆布鞋儿童休闲鞋小白鞋女童布鞋2018新款宝宝鞋子",
+        "product_id": 634553,
+        "square_img": "http:\/\/b1.hucdn.com\/upload\/item\/1709\/14\/79735414739996_800x800.jpg",
+        "white_bg_img": "http:\/\/b1.hucdn.com\/upload\/item\/1709\/14\/79735414739996_800x800.jpg",
+        "img": "http:\/\/b1.hucdn.com\/upload\/item\/1709\/14\/79735414739996_800x800.jpg",
+        "country_circle_icon": "",
+        "uid": 4499996,
+        "notify_class_id": "mart_home",
+        "stock": null,
+        "main_color": "#ff4965",
+        "price": 2990,
+        "origin_price": null,
+        "ext": "立即抢",
+        "buying_info": "55117人已抢",
+        "sale_num": 55117,
+        "target": "beibei:\/\/detail?iid=28823756&product_sale_num=55117&scene_tag=home",
+        "notify_target": "beibei:\/\/detail?iid=28823756&product_sale_num=55117&scene_tag=home",
+        "scene_tag": "home",
+        "group_avatars": [],
+        "icon_promotions": [],
+        "item_track_data": "",
+        "nezha": {
+          "单品列表": {
+            "iid": 28823756,
+            "nz_block": "频道",
+            "nz_id": 44,
+            "nz_ver": "1.0.0",
+            "track_id": "1.4.118.7.13.31.44"
+          }
+        }
+      }]
+    }
+  }, {
+    "type": "type_home_item_double",
+    "type_home_item_double": {
+      "items": [{
+        "iid": 28779712,
+        "event_id": 106062119,
+        "title": "【弹力牛仔短裤+纯棉T恤】【 免费试穿】两只泥鳅男童夏装套装儿童装牛仔短袖两件套",
+        "product_id": 5560358,
+        "square_img": "http:\/\/b1.hucdn.com\/upload\/item\/1803\/31\/11298334242892_800x800.jpg",
+        "white_bg_img": "http:\/\/b1.hucdn.com\/upload\/item\/1803\/31\/11298334242892_800x800.jpg",
+        "img": "http:\/\/b1.hucdn.com\/upload\/item\/1803\/31\/11298334242892_800x800.jpg",
+        "country_circle_icon": "",
+        "uid": 50342892,
+        "notify_class_id": "mart_home",
+        "stock": null,
+        "main_color": "#ff4965",
+        "price": 5500,
+        "origin_price": null,
+        "ext": "立即抢",
+        "buying_info": "4272人已抢",
+        "sale_num": 4272,
+        "target": "beibei:\/\/detail?iid=28779712&product_sale_num=4272&scene_tag=home",
+        "notify_target": "beibei:\/\/detail?iid=28779712&product_sale_num=4272&scene_tag=home",
+        "scene_tag": "home",
+        "group_avatars": [],
+        "icon_promotions": [],
+        "item_track_data": "",
+        "nezha": {
+          "单品列表": {
+            "iid": 28779712,
+            "nz_block": "频道",
+            "nz_id": 44,
+            "nz_ver": "1.0.0",
+            "track_id": "1.4.118.7.13.32.44"
+          }
+        }
+      }, {
+        "iid": 28653398,
+        "event_id": 106045004,
+        "title": "2018新款儿童防蚊裤薄款春秋宝宝睡裤女童装男童裤春装灯笼裤子夏",
+        "product_id": 5639146,
+        "square_img": "http:\/\/b1.hucdn.com\/upload\/item\/1804\/09\/57819416004603_800x800.jpg",
+        "white_bg_img": "http:\/\/b1.hucdn.com\/upload\/item\/1804\/09\/57819416004603_800x800.jpg",
+        "img": "http:\/\/b1.hucdn.com\/upload\/item\/1804\/09\/57819416004603_800x800.jpg",
+        "country_circle_icon": "",
+        "uid": 34224603,
+        "notify_class_id": "mart_home",
+        "stock": null,
+        "main_color": "#ff4965",
+        "price": 1790,
+        "origin_price": null,
+        "ext": "立即抢",
+        "buying_info": "1231人已抢",
+        "sale_num": 1231,
+        "target": "beibei:\/\/detail?iid=28653398&product_sale_num=1231&scene_tag=home",
+        "notify_target": "beibei:\/\/detail?iid=28653398&product_sale_num=1231&scene_tag=home",
+        "scene_tag": "home",
+        "group_avatars": [],
+        "icon_promotions": [],
+        "item_track_data": "",
+        "nezha": {
+          "单品列表": {
+            "iid": 28653398,
+            "nz_block": "频道",
+            "nz_id": 44,
+            "nz_ver": "1.0.0",
+            "track_id": "1.4.118.7.13.33.44"
+          }
+        }
+      }]
+    }
+  }, {
+    "type": "type_home_item_double",
+    "type_home_item_double": {
+      "items": [{
+        "iid": 28743934,
+        "event_id": 106058524,
+        "title": "淘喜 女童连衣裙2018新款夏装韩版时尚儿童女燕尾裙子中大童洋气A字裙3-15岁",
+        "product_id": 5461361,
+        "square_img": "http:\/\/b1.hucdn.com\/upload\/item\/1803\/20\/25492677611193_800x800.jpg",
+        "white_bg_img": "http:\/\/b1.hucdn.com\/upload\/item\/1803\/20\/25492677611193_800x800.jpg",
+        "img": "http:\/\/b1.hucdn.com\/upload\/item\/1803\/20\/25492677611193_800x800.jpg",
+        "country_circle_icon": "",
+        "uid": 20701193,
+        "notify_class_id": "mart_home",
+        "stock": null,
+        "main_color": "#ff4965",
+        "price": 2990,
+        "origin_price": null,
+        "ext": "立即抢",
+        "buying_info": "3784人已抢",
+        "sale_num": 3784,
+        "target": "beibei:\/\/detail?iid=28743934&product_sale_num=3784&scene_tag=home",
+        "notify_target": "beibei:\/\/detail?iid=28743934&product_sale_num=3784&scene_tag=home",
+        "scene_tag": "home",
+        "group_avatars": [],
+        "icon_promotions": [],
+        "item_track_data": "",
+        "nezha": {
+          "单品列表": {
+            "iid": 28743934,
+            "nz_block": "频道",
+            "nz_id": 44,
+            "nz_ver": "1.0.0",
+            "track_id": "1.4.118.7.13.34.44"
+          }
+        }
+      }, {
+        "iid": 28800875,
+        "event_id": 106065103,
+        "title": "（4条装）1小孩2儿童3女宝宝5女童6岁纯棉幼儿三角四角平角内裤头裤衩",
+        "product_id": 3233672,
+        "square_img": "http:\/\/b1.hucdn.com\/upload\/item\/1806\/13\/77441905561601_800x800.jpg",
+        "white_bg_img": "http:\/\/b1.hucdn.com\/upload\/item\/1806\/13\/77441905561601_800x800.jpg",
+        "img": "http:\/\/b1.hucdn.com\/upload\/item\/1806\/13\/77441905561601_800x800.jpg",
+        "country_circle_icon": "",
+        "uid": 37511601,
+        "notify_class_id": "mart_home",
+        "stock": null,
+        "main_color": "#ff4965",
+        "price": 1350,
+        "origin_price": null,
+        "ext": "立即抢",
+        "buying_info": "48162人已抢",
+        "sale_num": 48162,
+        "target": "beibei:\/\/detail?iid=28800875&product_sale_num=48162&scene_tag=home",
+        "notify_target": "beibei:\/\/detail?iid=28800875&product_sale_num=48162&scene_tag=home",
+        "scene_tag": "home",
+        "group_avatars": [],
+        "icon_promotions": [],
+        "item_track_data": "",
+        "nezha": {
+          "单品列表": {
+            "iid": 28800875,
+            "nz_block": "频道",
+            "nz_id": 44,
+            "nz_ver": "1.0.0",
+            "track_id": "1.4.118.7.13.35.44"
+          }
+        }
+      }]
+    }
+  }, {
+    "type": "type_home_item_double",
+    "type_home_item_double": {
+      "items": [{
+        "iid": 28795045,
+        "event_id": 106063428,
+        "title": "布兜糖果 女童短袖纯棉T恤2018新款时尚宝宝外贸纯棉上衣1-7岁宝宝纯棉背心",
+        "product_id": 2378150,
+        "square_img": "http:\/\/b1.hucdn.com\/upload\/item\/1702\/18\/10420108605624_800x800.jpg",
+        "white_bg_img": "http:\/\/b1.hucdn.com\/upload\/item\/1702\/18\/10420108605624_800x800.jpg",
+        "img": "http:\/\/b1.hucdn.com\/upload\/item\/1702\/18\/10420108605624_800x800.jpg",
+        "country_circle_icon": "",
+        "uid": 8235624,
+        "notify_class_id": "mart_home",
+        "stock": null,
+        "main_color": "#ff4965",
+        "price": 990,
+        "origin_price": null,
+        "ext": "立即抢",
+        "buying_info": "15243人已抢",
+        "sale_num": 15243,
+        "target": "beibei:\/\/detail?iid=28795045&product_sale_num=15243&scene_tag=home",
+        "notify_target": "beibei:\/\/detail?iid=28795045&product_sale_num=15243&scene_tag=home",
+        "scene_tag": "home",
+        "group_avatars": [],
+        "icon_promotions": [],
+        "item_track_data": "",
+        "nezha": {
+          "单品列表": {
+            "iid": 28795045,
+            "nz_block": "频道",
+            "nz_id": 44,
+            "nz_ver": "1.0.0",
+            "track_id": "1.4.118.7.13.36.44"
+          }
+        }
+      }, {
+        "iid": 28797615,
+        "event_id": 106064187,
+        "title": "【爆款直降 2套4件】夏季热卖儿童宝宝套装夏季童装夏季宝宝套装纯棉卡通时尚潮",
+        "product_id": 3035542,
+        "square_img": "http:\/\/b1.hucdn.com\/upload\/item\/1803\/20\/32221945501321_800x800.jpg",
+        "white_bg_img": "http:\/\/b1.hucdn.com\/upload\/item\/1803\/20\/32221945501321_800x800.jpg",
+        "img": "http:\/\/b1.hucdn.com\/upload\/item\/1803\/20\/32221945501321_800x800.jpg",
+        "country_circle_icon": "",
+        "uid": 46571321,
+        "notify_class_id": "mart_home",
+        "stock": null,
+        "main_color": "#ff4965",
+        "price": 2390,
+        "origin_price": null,
+        "ext": "立即抢",
+        "buying_info": "34641人已抢",
+        "sale_num": 34641,
+        "target": "beibei:\/\/detail?iid=28797615&product_sale_num=34641&scene_tag=home",
+        "notify_target": "beibei:\/\/detail?iid=28797615&product_sale_num=34641&scene_tag=home",
+        "scene_tag": "home",
+        "group_avatars": [],
+        "icon_promotions": [],
+        "item_track_data": "",
+        "nezha": {
+          "单品列表": {
+            "iid": 28797615,
+            "nz_block": "频道",
+            "nz_id": 44,
+            "nz_ver": "1.0.0",
+            "track_id": "1.4.118.7.13.37.44"
+          }
+        }
+      }]
+    }
+  }, {
+    "type": "type_home_item_double",
+    "type_home_item_double": {
+      "items": [{
+        "iid": 28751863,
+        "event_id": 106059910,
+        "title": "巴拉巴拉宝宝蕾丝短袖T恤女童吊带衫两件套夏",
+        "product_id": 2648711,
+        "square_img": "http:\/\/b1.hucdn.com\/upload\/item\/1705\/26\/88998008345476_800x800.jpg",
+        "white_bg_img": "http:\/\/b1.hucdn.com\/upload\/item\/1705\/26\/88998008345476_800x800.jpg",
+        "img": "http:\/\/b1.hucdn.com\/upload\/item\/1705\/26\/88998008345476_800x800.jpg",
+        "country_circle_icon": "",
+        "uid": 16945476,
+        "notify_class_id": "mart_home",
+        "stock": null,
+        "main_color": "#ff4965",
+        "price": 8900,
+        "origin_price": null,
+        "ext": "立即抢",
+        "buying_info": "272人已抢",
+        "sale_num": 272,
+        "target": "beibei:\/\/detail?iid=28751863&product_sale_num=272&scene_tag=home",
+        "notify_target": "beibei:\/\/detail?iid=28751863&product_sale_num=272&scene_tag=home",
+        "scene_tag": "home",
+        "group_avatars": [],
+        "icon_promotions": [],
+        "item_track_data": "",
+        "nezha": {
+          "单品列表": {
+            "iid": 28751863,
+            "nz_block": "频道",
+            "nz_id": 44,
+            "nz_ver": "1.0.0",
+            "track_id": "1.4.118.7.13.38.44"
+          }
+        }
+      }, {
+        "iid": 28865007,
+        "event_id": 106089674,
+        "title": "【春夏可选】毛毛虫童鞋男童春秋女童新款童鞋小童防滑1-3-6宝宝鞋儿童运动鞋",
+        "product_id": 3208826,
+        "square_img": "http:\/\/b1.hucdn.com\/upload\/item\/1807\/03\/22370305099007_800x800.jpg",
+        "white_bg_img": "http:\/\/b1.hucdn.com\/upload\/item\/1807\/03\/22370305099007_800x800.jpg",
+        "img": "http:\/\/b1.hucdn.com\/upload\/item\/1807\/03\/22370305099007_800x800.jpg",
+        "country_circle_icon": "",
+        "uid": 52228686,
+        "notify_class_id": "mart_home",
+        "stock": null,
+        "main_color": "#ff4965",
+        "price": 4900,
+        "origin_price": null,
+        "ext": "立即抢",
+        "buying_info": "18322人已抢",
+        "sale_num": 18322,
+        "target": "beibei:\/\/detail?iid=28865007&product_sale_num=18322&scene_tag=home",
+        "notify_target": "beibei:\/\/detail?iid=28865007&product_sale_num=18322&scene_tag=home",
+        "scene_tag": "home",
+        "group_avatars": [],
+        "icon_promotions": [],
+        "item_track_data": "",
+        "nezha": {
+          "单品列表": {
+            "iid": 28865007,
+            "nz_block": "频道",
+            "nz_id": 44,
+            "nz_ver": "1.0.0",
+            "track_id": "1.4.118.7.13.39.44"
+          }
+        }
+      }]
+    }
+  }],
+  "total_count": 400,
+  "has_more": 1
+}

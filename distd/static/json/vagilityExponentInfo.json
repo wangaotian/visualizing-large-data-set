@@ -1,0 +1,26 @@
+{
+    "result": "1",
+    "msg": "成功",
+    "data": [
+        {
+            "totalcount": 6958,
+            "max_totalcount": 11896,
+            "max_totalcount_webname":"中国信息网",
+            "max_portalcount": 1,
+            "at": 0,
+            "originalyrate": 0,
+            "originalycount": 0,
+            "newscount": 0,
+            "max_uv": 336000,
+            "max_pv": 638400,
+            "uv": 100,
+            "portalcount": 0,
+            "pv": 200,
+            "max_originalycount": 0,
+            "max_at": 1,
+            "max_originalyrate": 100,
+            "max_originalycount_webname":"中国信息网",
+            "max_newscount": 1
+        }
+    ]
+}

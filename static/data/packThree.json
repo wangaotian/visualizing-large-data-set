@@ -1,0 +1,78 @@
+{
+  "page": 3,
+  "page_size": 20,
+  "martshows": [{
+    "type": "type_home_item_double",
+    "type_home_item_double": {
+      "items": [{
+        "iid": 28709292,
+        "event_id": 106054094,
+        "title": "知淑 2018年夏季新款韩版甜美纯色蝴蝶结时尚单鞋",
+        "product_id": 6712172,
+        "square_img": "http:\/\/b1.hucdn.com\/upload\/item\/1807\/10\/05777389030448_800x800.jpg",
+        "white_bg_img": "http:\/\/b1.hucdn.com\/upload\/item\/1807\/10\/05777389030448_800x800.jpg",
+        "img": "http:\/\/b1.hucdn.com\/upload\/item\/1807\/10\/05777389030448_800x800.jpg",
+        "country_circle_icon": "",
+        "uid": 49750448,
+        "notify_class_id": "mart_home",
+        "stock": null,
+        "main_color": "#ff4965",
+        "price": 2380,
+        "origin_price": null,
+        "ext": "立即抢",
+        "buying_info": "10人已抢",
+        "sale_num": 10,
+        "target": "beibei:\/\/detail?iid=28709292&product_sale_num=10&scene_tag=home",
+        "notify_target": "beibei:\/\/detail?iid=28709292&product_sale_num=10&scene_tag=home",
+        "scene_tag": "home",
+        "group_avatars": [],
+        "icon_promotions": [],
+        "item_track_data": "",
+        "nezha": {
+          "单品列表": {
+            "iid": 28709292,
+            "nz_block": "频道",
+            "nz_id": 44,
+            "nz_ver": "1.0.0",
+            "track_id": "1.4.118.0.13.40.44"
+          }
+        }
+      }, {
+        "iid": 28735483,
+        "event_id": 106057528,
+        "title": "雪芙特韩版平底唯美花朵百搭舒适外出拖鞋",
+        "product_id": 5835177,
+        "square_img": "http:\/\/b1.hucdn.com\/upload\/item\/1805\/01\/76106263111605_800x800.jpg",
+        "white_bg_img": "http:\/\/b1.hucdn.com\/upload\/item\/1805\/01\/76106263111605_800x800.jpg",
+        "img": "http:\/\/b1.hucdn.com\/upload\/item\/1805\/01\/76106263111605_800x800.jpg",
+        "country_circle_icon": "",
+        "uid": 55491605,
+        "notify_class_id": "mart_home",
+        "stock": null,
+        "main_color": "#ff4965",
+        "price": 2680,
+        "origin_price": null,
+        "ext": "立即抢",
+        "buying_info": "95人已抢",
+        "sale_num": 95,
+        "target": "beibei:\/\/detail?iid=28735483&product_sale_num=95&scene_tag=home",
+        "notify_target": "beibei:\/\/detail?iid=28735483&product_sale_num=95&scene_tag=home",
+        "scene_tag": "home",
+        "group_avatars": [],
+        "icon_promotions": [],
+        "item_track_data": "",
+        "nezha": {
+          "单品列表": {
+            "iid": 28735483,
+            "nz_block": "频道",
+            "nz_id": 44,
+            "nz_ver": "1.0.0",
+            "track_id": "1.4.118.0.13.41.44"
+          }
+        }
+      }]
+    }
+  }],
+  "total_count": 498,
+  "has_more": 1
+}

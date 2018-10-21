@@ -1,0 +1,477 @@
+{
+  "has_more": 1,
+  "page_track_data": "",
+  "martshows": [{
+    "type": "type_home_item_single",
+    "type_home_item_single": {
+      "iid": 28691754,
+      "event_id": 200397515,
+      "title": "VAPE\/未来 驱蚊水",
+      "product_id": 5425570,
+      "square_img": "http:\/\/b1.hucdn.com\/upload\/item\/1804\/04\/17194404105962_800x800.jpg",
+      "white_bg_img": "http:\/\/b1.hucdn.com\/upload\/item\/1803\/16\/83581273385962_800x800.jpg",
+      "img": "http:\/\/b1.hucdn.com\/upload\/tuan\/1805\/19\/00654902145962_750x350.png",
+      "country_circle_icon": "http:\/\/b0.hucdn.com\/img\/country_new\/default.png",
+      "uid": 48655962,
+      "notify_class_id": "mart_home",
+      "stock": 482,
+      "main_color": "#ff4965",
+      "price": 4600,
+      "origin_price": 8900,
+      "ext": "立即抢",
+      "buying_info": "144人已抢",
+      "sale_num": 144,
+      "target": "beibei:\/\/detail?iid=28691754&product_sale_num=144&scene_tag=home",
+      "notify_target": "beibei:\/\/detail?iid=28691754&product_sale_num=144&scene_tag=home",
+      "scene_tag": "home",
+      "group_avatars": [],
+      "icon_promotions": [],
+      "item_track_data": "",
+      "recom_info": {},
+      "has_buying_coupon": false,
+      "theme": "normal",
+      "promotion_desc": "限时特惠 · 品质保证 · 爆款直降",
+      "is_presale": 0,
+      "nezha": {
+        "赛马商品列表": {
+          "iid": 28691754,
+          "ext": "立即抢",
+          "nz_block": "首页列表",
+          "nz_id": 45,
+          "nz_ver": "1.0.0",
+          "track_id": "1.4.118.2.24.20.45"
+        }
+      }
+    }
+  }, {
+    "type": "type_home_item_single",
+    "type_home_item_single": {
+      "iid": 28707184,
+      "event_id": 106053884,
+      "title": "女神范时尚套装裙",
+      "product_id": 6728767,
+      "square_img": "http:\/\/b1.hucdn.com\/upload\/item\/1807\/11\/81634624885134_800x800.jpg",
+      "white_bg_img": "http:\/\/b1.hucdn.com\/upload\/item\/1807\/11\/81248670595134_800x800.jpg",
+      "img": "http:\/\/b1.hucdn.com\/upload\/tuan\/1807\/11\/10734368565134_750x350.jpg",
+      "country_circle_icon": "",
+      "uid": 69865134,
+      "notify_class_id": "mart_home",
+      "stock": 494,
+      "main_color": "#ff4965",
+      "price": 6580,
+      "origin_price": 16900,
+      "ext": "立即抢",
+      "buying_info": "8人已抢",
+      "sale_num": 8,
+      "target": "beibei:\/\/detail?iid=28707184&product_sale_num=8&scene_tag=home",
+      "notify_target": "beibei:\/\/detail?iid=28707184&product_sale_num=8&scene_tag=home",
+      "scene_tag": "home",
+      "group_avatars": [],
+      "icon_promotions": [{
+        "icon": "http:\/\/h0.hucdn.com\/open\/201823\/9562ddd0b7e5fabb_174x174.png",
+        "icon_width": 116,
+        "icon_height": 116,
+        "position": "left_top"
+      }],
+      "item_track_data": "",
+      "recom_info": {},
+      "has_buying_coupon": false,
+      "theme": "normal",
+      "promotion_desc": "修饰身材 · 增高显瘦 · 质量保证",
+      "is_presale": 0,
+      "nezha": {
+        "赛马商品列表": {
+          "iid": 28707184,
+          "ext": "立即抢",
+          "nz_block": "首页列表",
+          "nz_id": 45,
+          "nz_ver": "1.0.0",
+          "track_id": "1.4.118.2.24.21.45"
+        }
+      }
+    }
+  }, {
+    "type": "type_home_item_single",
+    "type_home_item_single": {
+      "iid": 28709734,
+      "event_id": 106054143,
+      "title": "45.8限时抢女童韩版雪纺连衣裙",
+      "product_id": 6344086,
+      "square_img": "http:\/\/b1.hucdn.com\/upload\/item\/1806\/17\/99278561792910_800x800.jpg",
+      "white_bg_img": "http:\/\/b1.hucdn.com\/upload\/item\/1806\/17\/99497414882910_800x800.jpg",
+      "img": "http:\/\/b1.hucdn.com\/upload\/tuan\/1806\/20\/01710609222910_750x350.jpg",
+      "country_circle_icon": "",
+      "uid": 48782910,
+      "notify_class_id": "mart_home",
+      "stock": 493,
+      "main_color": "#ff4965",
+      "price": 4580,
+      "origin_price": 7900,
+      "ext": "立即抢",
+      "buying_info": "80人已抢",
+      "sale_num": 80,
+      "target": "beibei:\/\/detail?iid=28709734&product_sale_num=80&scene_tag=home",
+      "notify_target": "beibei:\/\/detail?iid=28709734&product_sale_num=80&scene_tag=home",
+      "scene_tag": "home",
+      "group_avatars": [],
+      "icon_promotions": [{
+        "icon": "http:\/\/h0.hucdn.com\/open\/201823\/e8b76484afd88e76_174x174.png",
+        "icon_width": 116,
+        "icon_height": 116,
+        "position": "left_top"
+      }],
+      "item_track_data": "",
+      "recom_info": {},
+      "has_buying_coupon": false,
+      "theme": "normal",
+      "promotion_desc": "清凉舒适 · 高档雪纺 · 热销精品",
+      "is_presale": 0,
+      "nezha": {
+        "赛马商品列表": {
+          "iid": 28709734,
+          "ext": "立即抢",
+          "nz_block": "首页列表",
+          "nz_id": 45,
+          "nz_ver": "1.0.0",
+          "track_id": "1.4.118.2.24.22.45"
+        }
+      }
+    }
+  }, {
+    "type": "type_home_item_single",
+    "type_home_item_single": {
+      "iid": 28710513,
+      "event_id": 106054282,
+      "title": "9件装罐装清新发绳发圈发饰",
+      "product_id": 1636268,
+      "square_img": "http:\/\/b1.hucdn.com\/upload\/item\/1806\/25\/08458508663275_800x800.jpg",
+      "white_bg_img": "http:\/\/b1.hucdn.com\/upload\/item\/1806\/25\/08476756913275_800x800.jpg",
+      "img": "http:\/\/b1.hucdn.com\/upload\/tuan\/1806\/25\/18076338113275_750x350.jpg",
+      "country_circle_icon": "",
+      "uid": 20033275,
+      "notify_class_id": "mart_home",
+      "stock": 871,
+      "main_color": "#ff4965",
+      "price": 500,
+      "origin_price": 3600,
+      "ext": "立即抢",
+      "buying_info": "1722人已抢",
+      "sale_num": 1722,
+      "target": "beibei:\/\/detail?iid=28710513&product_sale_num=1722&scene_tag=home",
+      "notify_target": "beibei:\/\/detail?iid=28710513&product_sale_num=1722&scene_tag=home",
+      "scene_tag": "home",
+      "group_avatars": [],
+      "icon_promotions": [{
+        "icon": "http:\/\/h0.hucdn.com\/open\/201823\/4996d4216a516ce0_174x174.png",
+        "icon_width": 116,
+        "icon_height": 116,
+        "position": "left_top"
+      }],
+      "item_track_data": "",
+      "recom_info": {},
+      "has_buying_coupon": false,
+      "theme": "normal",
+      "promotion_desc": "9件套 · 罐装发圈 · 耐用不伤发",
+      "is_presale": 0,
+      "nezha": {
+        "赛马商品列表": {
+          "iid": 28710513,
+          "ext": "立即抢",
+          "nz_block": "首页列表",
+          "nz_id": 45,
+          "nz_ver": "1.0.0",
+          "track_id": "1.4.118.2.24.23.45"
+        }
+      }
+    }
+  }, {
+    "type": "type_home_item_single",
+    "type_home_item_single": {
+      "iid": 28711865,
+      "event_id": 106054698,
+      "title": "男童女童儿童布鞋子宝宝帆布鞋",
+      "product_id": 1819138,
+      "square_img": "http:\/\/b1.hucdn.com\/upload\/item\/1801\/03\/61839577213322_800x800.jpg",
+      "white_bg_img": "http:\/\/b1.hucdn.com\/upload\/item\/1708\/29\/75830748103322_800x800.jpg",
+      "img": "http:\/\/b1.hucdn.com\/upload\/tuan\/1806\/02\/04007465513322_750x350.jpg",
+      "country_circle_icon": "",
+      "uid": 5263322,
+      "notify_class_id": "mart_home",
+      "stock": 1984,
+      "main_color": "#ff4965",
+      "price": 1990,
+      "origin_price": 25800,
+      "ext": "立即抢",
+      "buying_info": "3857人已抢",
+      "sale_num": 3857,
+      "target": "beibei:\/\/detail?iid=28711865&product_sale_num=3857&scene_tag=home",
+      "notify_target": "beibei:\/\/detail?iid=28711865&product_sale_num=3857&scene_tag=home",
+      "scene_tag": "home",
+      "group_avatars": [],
+      "icon_promotions": [],
+      "item_track_data": "",
+      "recom_info": {},
+      "has_buying_coupon": false,
+      "theme": "normal",
+      "promotion_desc": "爆款直降 · 轻便防滑 · 防撞防踢",
+      "is_presale": 0,
+      "nezha": {
+        "赛马商品列表": {
+          "iid": 28711865,
+          "ext": "立即抢",
+          "nz_block": "首页列表",
+          "nz_id": 45,
+          "nz_ver": "1.0.0",
+          "track_id": "1.4.118.2.24.24.45"
+        }
+      }
+    }
+  }, {
+    "type": "type_home_item_single",
+    "type_home_item_single": {
+      "iid": 28712924,
+      "event_id": 106054921,
+      "title": "超值爆款 馨语纯竹浆本色35卷",
+      "product_id": 5308699,
+      "square_img": "http:\/\/b1.hucdn.com\/upload\/item\/1806\/21\/62616181802112_800x800.jpg",
+      "white_bg_img": "http:\/\/b1.hucdn.com\/upload\/item\/1804\/20\/01228355232112_800x800.jpg",
+      "img": "http:\/\/b1.hucdn.com\/upload\/tuan\/1804\/13\/09258471962112_750x350.jpg",
+      "country_circle_icon": "",
+      "uid": 69242112,
+      "notify_class_id": "mart_home",
+      "stock": 749,
+      "main_color": "#ff4965",
+      "price": 2990,
+      "origin_price": 8900,
+      "ext": "立即抢",
+      "buying_info": "1527人已抢",
+      "sale_num": 1527,
+      "target": "beibei:\/\/detail?iid=28712924&product_sale_num=1527&scene_tag=home",
+      "notify_target": "beibei:\/\/detail?iid=28712924&product_sale_num=1527&scene_tag=home",
+      "scene_tag": "home",
+      "group_avatars": [],
+      "icon_promotions": [],
+      "item_track_data": "",
+      "recom_info": {},
+      "has_buying_coupon": false,
+      "theme": "normal",
+      "promotion_desc": "0.85元每卷 · 4层加厚 · 超值5斤",
+      "is_presale": 0,
+      "nezha": {
+        "赛马商品列表": {
+          "iid": 28712924,
+          "ext": "立即抢",
+          "nz_block": "首页列表",
+          "nz_id": 45,
+          "nz_ver": "1.0.0",
+          "track_id": "1.4.118.2.24.25.45"
+        }
+      }
+    }
+  }, {
+    "type": "type_home_item_single",
+    "type_home_item_single": {
+      "iid": 28713468,
+      "event_id": 106054994,
+      "title": "三种出水双层保温电热水瓶",
+      "product_id": 4214393,
+      "square_img": "http:\/\/b1.hucdn.com\/upload\/item\/1807\/09\/31074947919718_800x800.jpg",
+      "white_bg_img": "http:\/\/b1.hucdn.com\/upload\/item\/1807\/09\/31161317039718_800x800.jpg",
+      "img": "http:\/\/b1.hucdn.com\/upload\/tuan\/1807\/12\/64909747069718_750x350.jpg",
+      "country_circle_icon": "",
+      "uid": 38289718,
+      "notify_class_id": "mart_home",
+      "stock": 484,
+      "main_color": "#ff4965",
+      "price": 13900,
+      "origin_price": 69900,
+      "ext": "立即抢",
+      "buying_info": "41人已抢",
+      "sale_num": 41,
+      "target": "beibei:\/\/detail?iid=28713468&product_sale_num=41&scene_tag=home",
+      "notify_target": "beibei:\/\/detail?iid=28713468&product_sale_num=41&scene_tag=home",
+      "scene_tag": "home",
+      "group_avatars": [],
+      "icon_promotions": [],
+      "item_track_data": "",
+      "recom_info": {},
+      "has_buying_coupon": false,
+      "theme": "normal",
+      "promotion_desc": "赠除垢剂 · 三种出水 · 304内胆",
+      "is_presale": 0,
+      "nezha": {
+        "赛马商品列表": {
+          "iid": 28713468,
+          "ext": "立即抢",
+          "nz_block": "首页列表",
+          "nz_id": 45,
+          "nz_ver": "1.0.0",
+          "track_id": "1.4.118.2.24.26.45"
+        }
+      }
+    }
+  }, {
+    "type": "type_home_item_single",
+    "type_home_item_single": {
+      "iid": 28720341,
+      "event_id": 106055829,
+      "title": "小风扇usb迷你手拿静音电风扇",
+      "product_id": 5659898,
+      "square_img": "http:\/\/b1.hucdn.com\/upload\/item\/1804\/11\/34828665591085_790x790.jpg",
+      "white_bg_img": "http:\/\/b1.hucdn.com\/upload\/item\/1804\/11\/34831617871085_800x800.jpg",
+      "img": "http:\/\/b1.hucdn.com\/upload\/tuan\/1806\/11\/00489221651085_750x350.jpg",
+      "country_circle_icon": "",
+      "uid": 6021085,
+      "notify_class_id": "mart_home",
+      "stock": 464,
+      "main_color": "#ff4965",
+      "price": 2990,
+      "origin_price": 6500,
+      "ext": "立即抢",
+      "buying_info": "1172人已抢",
+      "sale_num": 1172,
+      "target": "beibei:\/\/detail?iid=28720341&product_sale_num=1172&scene_tag=home",
+      "notify_target": "beibei:\/\/detail?iid=28720341&product_sale_num=1172&scene_tag=home",
+      "scene_tag": "home",
+      "group_avatars": [],
+      "icon_promotions": [],
+      "item_track_data": "",
+      "recom_info": {},
+      "has_buying_coupon": false,
+      "theme": "normal",
+      "promotion_desc": "三档风速 · 内置电池 · 持久续航",
+      "is_presale": 0,
+      "nezha": {
+        "赛马商品列表": {
+          "iid": 28720341,
+          "ext": "立即抢",
+          "nz_block": "首页列表",
+          "nz_id": 45,
+          "nz_ver": "1.0.0",
+          "track_id": "1.4.118.2.24.27.45"
+        }
+      }
+    }
+  }, {
+    "type": "type_home_item_single",
+    "type_home_item_single": {
+      "iid": 28727574,
+      "event_id": 106056635,
+      "title": "【买就送260ml焗油宝+小样】【超值家庭装】阿道夫 控油去屑洗发水420gx2瓶",
+      "product_id": 3383387,
+      "square_img": "http:\/\/b1.hucdn.com\/upload\/item\/1807\/21\/67109015390339_800x800.jpg",
+      "white_bg_img": "http:\/\/b1.hucdn.com\/upload\/item\/1807\/21\/67109015390339_800x800.jpg",
+      "img": "http:\/\/b1.hucdn.com\/upload\/tuan\/1807\/21\/67322762440339_750x350.jpg",
+      "country_circle_icon": "",
+      "uid": 34940339,
+      "notify_class_id": "mart_home",
+      "stock": 893,
+      "main_color": "#ff4965",
+      "price": 6800,
+      "origin_price": 15800,
+      "ext": "立即抢",
+      "buying_info": "6291人已抢",
+      "sale_num": 6291,
+      "target": "beibei:\/\/detail?iid=28727574&product_sale_num=6291&scene_tag=home",
+      "notify_target": "beibei:\/\/detail?iid=28727574&product_sale_num=6291&scene_tag=home",
+      "scene_tag": "home",
+      "group_avatars": [],
+      "icon_promotions": [{
+        "icon": "http:\/\/h0.hucdn.com\/open\/201823\/85ca53a9cb035d64_174x174.png",
+        "icon_width": 116,
+        "icon_height": 116,
+        "position": "left_top"
+      }],
+      "item_track_data": "",
+      "recom_info": {},
+      "has_buying_coupon": false,
+      "theme": "normal",
+      "promotion_desc": "送焗油宝 · 送小样 · 品牌直供",
+      "is_presale": 0,
+      "nezha": {
+        "赛马商品列表": {
+          "iid": 28727574,
+          "ext": "立即抢",
+          "nz_block": "首页列表",
+          "nz_id": 45,
+          "nz_ver": "1.0.0",
+          "track_id": "1.4.118.2.24.28.45"
+        }
+      }
+    }
+  }, {
+    "type": "type_home_item_single",
+    "type_home_item_single": {
+      "iid": 28730069,
+      "event_id": 106056989,
+      "title": "2件装婴儿马甲薄款无袖开衫",
+      "product_id": 6761877,
+      "square_img": "http:\/\/b1.hucdn.com\/upload\/item\/1807\/04\/95336210155534_800x800.jpg",
+      "white_bg_img": "http:\/\/b1.hucdn.com\/upload\/item\/1806\/25\/97873744135534_800x800.jpg",
+      "img": "http:\/\/b1.hucdn.com\/upload\/tuan\/1807\/18\/11861276085534_750x350.png",
+      "country_circle_icon": "",
+      "uid": 71755534,
+      "notify_class_id": "mart_home",
+      "stock": 783,
+      "main_color": "#ff4965",
+      "price": 1690,
+      "origin_price": 3900,
+      "ext": "立即抢",
+      "buying_info": "22人已抢",
+      "sale_num": 22,
+      "target": "beibei:\/\/detail?iid=28730069&product_sale_num=22&scene_tag=home",
+      "notify_target": "beibei:\/\/detail?iid=28730069&product_sale_num=22&scene_tag=home",
+      "scene_tag": "home",
+      "group_avatars": [],
+      "icon_promotions": [{
+        "icon": "http:\/\/h0.hucdn.com\/open\/201823\/9562ddd0b7e5fabb_174x174.png",
+        "icon_width": 116,
+        "icon_height": 116,
+        "position": "left_top"
+      }],
+      "item_track_data": "",
+      "recom_info": {},
+      "has_buying_coupon": false,
+      "theme": "normal",
+      "promotion_desc": "组合特卖 · 多款多色 · 质量保证",
+      "is_presale": 0,
+      "nezha": {
+        "赛马商品列表": {
+          "iid": 28730069,
+          "ext": "立即抢",
+          "nz_block": "首页列表",
+          "nz_id": 45,
+          "nz_ver": "1.0.0",
+          "track_id": "1.4.118.2.24.29.45"
+        }
+      }
+    }
+  }],
+  "page": 3,
+  "total_count": 262,
+  "time_slots": [{
+    "time_slot_id": "9",
+    "start_time": 1532221200,
+    "end_time": 1532242799
+  }, {
+    "time_slot_id": "15",
+    "start_time": 1532242800,
+    "end_time": 1532264399
+  }, {
+    "time_slot_id": "21",
+    "start_time": 1532264400,
+    "end_time": 1532275199
+  }],
+  "curr_time_slot_id": "15",
+  "page_size": 10,
+  "nezha": {
+    "赛马商品列表-2": {
+      "nz_list_id": "iid",
+      "nz_list_nodes": "martshows,type_home_item_single",
+      "nz_block": "首页列表",
+      "nz_id": 279,
+      "nz_ver": "1.0.0",
+      "track_id": "1.4.118.2.24.20.279"
+    }
+  }
+}

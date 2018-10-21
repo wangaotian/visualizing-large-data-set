@@ -1,0 +1,141 @@
+{
+    "result": "1",
+    "msg": "成功",
+    "data": [
+        {
+            "webname": "人民网",
+            "listname": [
+                {
+                    "name": "福州新闻网",
+                    "ReprintCount": 385
+                },
+                {
+                    "name": "北青网",
+                    "ReprintCount": 254
+                },
+                {
+                    "name": "厦门网",
+                    "ReprintCount": 247
+                },
+                {
+                    "name": "证券时报网",
+                    "ReprintCount": 94
+                },
+                {
+                    "name": "泉州网",
+                    "ReprintCount": 85
+                },
+                {
+                    "name": "金山网",
+                    "ReprintCount": 61
+                },
+                {
+                    "name": "中国质量新闻网",
+                    "ReprintCount": 18
+                },
+                {
+                    "name": "南宁新闻网",
+                    "ReprintCount": 13
+                },
+                {
+                    "name": "海口网",
+                    "ReprintCount": 10
+                },
+                {
+                    "name": "泸州新闻网",
+                    "ReprintCount": 8
+                }
+            ]
+        },
+        {
+            "webname": "新华网",
+            "listname": [
+                {
+                    "name": "水母网",
+                    "ReprintCount": 147
+                },
+                {
+                    "name": "青岛新闻网",
+                    "ReprintCount": 67
+                },
+                {
+                    "name": "星辰在线",
+                    "ReprintCount": 46
+                },
+                {
+                    "name": "舜网",
+                    "ReprintCount": 31
+                },
+                {
+                    "name": "证券时报网",
+                    "ReprintCount": 23
+                },
+                {
+                    "name": "搜狐",
+                    "ReprintCount": 12
+                },
+                {
+                    "name": "北青网",
+                    "ReprintCount": 11
+                },
+                {
+                    "name": "西安新闻网",
+                    "ReprintCount": 11
+                },
+                {
+                    "name": "腾讯",
+                    "ReprintCount": 7
+                },
+                {
+                    "name": "中华泰山网",
+                    "ReprintCount": 5
+                }
+            ]
+        },
+        {
+            "webname": "中国青年网",
+            "listname": [
+                {
+                    "name": "山西网",
+                    "ReprintCount": 297
+                },
+                {
+                    "name": "太原网",
+                    "ReprintCount": 223
+                },
+                {
+                    "name": "临汾网",
+                    "ReprintCount": 210
+                },
+                {
+                    "name": "证券时报网",
+                    "ReprintCount": 190
+                },
+                {
+                    "name": "晋城网",
+                    "ReprintCount": 100
+                },
+                {
+                    "name": "高平网",
+                    "ReprintCount": 94
+                },
+                {
+                    "name": "中国质量新闻网",
+                    "ReprintCount": 18
+                },
+                {
+                    "name": "阳城新闻网",
+                    "ReprintCount": 13
+                },
+                {
+                    "name": "石家庄新闻网",
+                    "ReprintCount": 10
+                },
+                {
+                    "name": "运城新闻网",
+                    "ReprintCount": 8
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "result": "1",
+    "msg": "成功",
+    "data": [
+        {
+            "totalrate": "7.18",
+            "totalcount": "1327",
+            "yestertotalcount": "327",
+            "yestertotalrate": "5.18"
+        },
+        {
+            "originalyrate": "4.11",
+            "yesteroriginalycount": "627",
+            "originalycount": "327",
+            "yesteroriginalyrate": "2.11"
+        },
+        {
+            "yesterrepublishedcount": "217",
+            "republishedcount": "1217",
+            "yesterrepublishedrate": "2.31",
+            "republishedrate": "4.31"
+        }
+    ]
+}

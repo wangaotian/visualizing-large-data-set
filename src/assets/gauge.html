@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html style="height: 100%">
+   <head>
+       <meta charset="utf-8">
+   </head>
+   <body style="height: 100%; margin: 0">
+       <div id="container" style="height: 100%"></div>
+       <script type="text/javascript" src="http://echarts.baidu.com/gallery/vendors/echarts/echarts.min.js"></script>
+       <script type="text/javascript" src="http://echarts.baidu.com/gallery/vendors/echarts-gl/echarts-gl.min.js"></script>
+       <script type="text/javascript" src="http://echarts.baidu.com/gallery/vendors/echarts-stat/ecStat.min.js"></script>
+       <!--<script type="text/javascript" src="http://echarts.baidu.com/gallery/vendors/echarts/extension/dataTool.min.js"></script>-->
+       <!--<script type="text/javascript" src="http://echarts.baidu.com/gallery/vendors/echarts/map/js/china.js"></script>-->
+       <!--<script type="text/javascript" src="http://echarts.baidu.com/gallery/vendors/echarts/map/js/world.js"></script>-->
+       <!--<script type="text/javascript" src="http://api.map.baidu.com/api?v=2.0&ak=ZUONbpqGBsYGXNIYHicvbAbM"></script>-->
+       <!--<script type="text/javascript" src="http://echarts.baidu.com/gallery/vendors/echarts/extension/bmap.min.js"></script>-->
+       <!--<script type="text/javascript" src="http://echarts.baidu.com/gallery/vendors/simplex.js"></script>-->
+       <script type="text/javascript">
+var dom = document.getElementById("container");
+var myChart = echarts.init(dom);
+var app = {};
+var option = {
+    tooltip : {
+        formatter: "{a} <br/>{c} {b}"
+    },
+    toolbox: {
+            show: true,
+            feature: {
+                restore: {show: true},
+                saveAsImage: {show: true}
+            }
+   },    
+    series: [
+        {
+            type: 'gauge',
+            min: 0,
+            max: 1000,   
+            splitNumber: 10,
+            axisLine: {
+                lineStyle: {
+                    width: 1,
+                    shadowColor : '#fff',
+                    color: [[0.2, 'yellow'],[0.8, 'yellow'],[1, 'yellow']]
+                }
+            },
+            axisTick: { 
+                length: 5,
+                lineStyle: { 
+                    color: 'yellow',
+                    width:5
+                }   
+            },
+            splitLine: {
+                width:100,
+                length: 10,
+                lineStyle: {
+                    color: 'yellow',
+                    width:5
+                }
+            },
+            axisLabel: {
+                color: 'yellow',
+                textShadowColor: 'yellow'    
+            },
+            pointer: {
+                width:4,
+                shadowColor : '#fff', //默认透明
+                shadowBlur: 5
+            },
+            detail: {formatter:'{value}'},
+            data: [{value: 50}]
+        }
+    ]
+};
+myChart.setOption(option, true);
+
+ setInterval(function () {
+     option.series[0].data[0].value = (Math.random() * 100).toFixed(2) - 0;
+     myChart.setOption(option, true);
+ },2000);
+;
+if (option && typeof option === "object") {
+}
+       </script>
+   </body>
+</html>

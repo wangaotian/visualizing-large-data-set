@@ -1,0 +1,12 @@
+{
+    "result": "1",
+    "msg": "成功",
+    "data": [
+        {
+            "provincecount": 6,
+            "areacount": 6,
+            "mediacount": 8,
+            "bereprintedvagility": 4975
+        }
+    ]
+}

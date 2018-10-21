@@ -1,0 +1,13 @@
+{
+    "result": "1",
+    "msg": "成功",
+    "data": [
+        {
+            "unsource": 228399,
+            "sourcerate": "75.24%",
+            "totalReprintCount": 922408,
+            "unsourcerate": "24.76%",
+            "source": 694009
+        }
+    ]
+}

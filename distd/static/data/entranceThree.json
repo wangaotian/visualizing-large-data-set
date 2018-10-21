@@ -1,0 +1,721 @@
+{
+  "page": 3,
+  "total_count": 57,
+  "has_more": 1,
+  "page_size": 20,
+  "martshows": [{
+    "type": "type_home_item_double",
+    "type_home_item_double": {
+      "items": [{
+        "id": 200397905,
+        "iid": 28809694,
+        "product_id": 4537211,
+        "title": "【35片】可莱丝\/美迪惠尔针剂补水面膜 保湿弹润10片\/盒*3赠5片",
+        "desc": null,
+        "country_circle_icon": "http:\/\/b0.hucdn.com\/img\/country_new\/default.png",
+        "country_name": "海外",
+        "img": "http:\/\/b1.hucdn.com\/upload\/item\/1711\/23\/22530713364223_800x800.jpg",
+        "event_id": 200397905,
+        "price": 12800,
+        "icon_promotions": [],
+        "sold_num": 973,
+        "buying_info": "973人已抢",
+        "target": "beibei:\/\/detail?iid=28809694&product_sale_num=973",
+        "sub_type": "oversea",
+        "main_color": "#6633dd",
+        "event_click": {
+          "e_name": "单品列表_点击",
+          "router": "bb\/martshow\/home",
+          "tab": "v9_oversea",
+          "item_id": 28809694,
+          "position": 41
+        },
+        "nezha": {
+          "单品列表": {
+            "iid": 28809694,
+            "nz_block": "频道",
+            "nz_id": 44,
+            "nz_ver": "1.0.0",
+            "track_id": "1.4.118.0.13.40.44"
+          }
+        }
+      }, {
+        "id": 200397884,
+        "iid": 28807185,
+        "product_id": 6244988,
+        "title": "【赠海藻面膜】泰国atreus vc爽肤水500ml",
+        "desc": null,
+        "country_circle_icon": "http:\/\/b0.hucdn.com\/img\/country_new\/default.png",
+        "country_name": "海外",
+        "img": "http:\/\/b1.hucdn.com\/upload\/item\/1806\/08\/48893658974223_800x800.jpg",
+        "event_id": 200397884,
+        "price": 4800,
+        "icon_promotions": [],
+        "sold_num": 44,
+        "buying_info": "44人已抢",
+        "target": "beibei:\/\/detail?iid=28807185&product_sale_num=44",
+        "sub_type": "oversea",
+        "main_color": "#6633dd",
+        "event_click": {
+          "e_name": "单品列表_点击",
+          "router": "bb\/martshow\/home",
+          "tab": "v9_oversea",
+          "item_id": 28807185,
+          "position": 42
+        },
+        "nezha": {
+          "单品列表": {
+            "iid": 28807185,
+            "nz_block": "频道",
+            "nz_id": 44,
+            "nz_ver": "1.0.0",
+            "track_id": "1.4.118.0.13.41.44"
+          }
+        }
+      }]
+    }
+  }, {
+    "type": "type_home_item_double",
+    "type_home_item_double": {
+      "items": [{
+        "id": 200398133,
+        "iid": 28886874,
+        "product_id": 1124451,
+        "title": "荷兰Hero Baby奶粉5段700g",
+        "desc": null,
+        "country_circle_icon": "http:\/\/b0.hucdn.com\/img\/country_new\/ct_19.png",
+        "country_name": "荷兰",
+        "img": "http:\/\/b1.hucdn.com\/upload\/item\/1610\/21\/40385032378474_800x800.jpg",
+        "event_id": 200398133,
+        "price": 7900,
+        "icon_promotions": [],
+        "sold_num": 1804,
+        "buying_info": "1804人已抢",
+        "target": "beibei:\/\/detail?iid=28886874&product_sale_num=1804",
+        "sub_type": "oversea",
+        "main_color": "#6633dd",
+        "event_click": {
+          "e_name": "单品列表_点击",
+          "router": "bb\/martshow\/home",
+          "tab": "v9_oversea",
+          "item_id": 28886874,
+          "position": 43
+        },
+        "nezha": {
+          "单品列表": {
+            "iid": 28886874,
+            "nz_block": "频道",
+            "nz_id": 44,
+            "nz_ver": "1.0.0",
+            "track_id": "1.4.118.0.13.42.44"
+          }
+        }
+      }, {
+        "id": 200396891,
+        "iid": 28475497,
+        "product_id": 5088096,
+        "title": "【79元任选3件】有机纯大米米粉1段 227g（4个月+）",
+        "desc": null,
+        "country_circle_icon": "http:\/\/b0.hucdn.com\/img\/country_new\/ct_24.png",
+        "country_name": "美国",
+        "img": "http:\/\/b1.hucdn.com\/upload\/item\/1801\/10\/76433077668026_800x800.jpg",
+        "event_id": 200396891,
+        "price": 3600,
+        "icon_promotions": [{
+          "icon": "http:\/\/b1.hucdn.com\/upload\/item\/1804\/12\/22872410055247_70x78.png",
+          "icon_width": "70",
+          "icon_height": "78"
+        }],
+        "sold_num": 783,
+        "buying_info": "783人已抢",
+        "target": "beibei:\/\/detail?iid=28475497&product_sale_num=783",
+        "sub_type": "oversea",
+        "main_color": "#6633dd",
+        "event_click": {
+          "e_name": "单品列表_点击",
+          "router": "bb\/martshow\/home",
+          "tab": "v9_oversea",
+          "item_id": 28475497,
+          "position": 44
+        },
+        "nezha": {
+          "单品列表": {
+            "iid": 28475497,
+            "nz_block": "频道",
+            "nz_id": 44,
+            "nz_ver": "1.0.0",
+            "track_id": "1.4.118.0.13.43.44"
+          }
+        }
+      }]
+    }
+  }, {
+    "type": "type_home_item_double",
+    "type_home_item_double": {
+      "items": [{
+        "id": 200398040,
+        "iid": 28859618,
+        "product_id": 4346721,
+        "title": "城野医生收缩毛孔化妆水100ml",
+        "desc": null,
+        "country_circle_icon": "http:\/\/b0.hucdn.com\/img\/country_new\/default.png",
+        "country_name": "海外",
+        "img": "http:\/\/b1.hucdn.com\/upload\/item\/1710\/20\/99884681248501_800x800.jpg",
+        "event_id": 200398040,
+        "price": 6600,
+        "icon_promotions": [],
+        "sold_num": 254,
+        "buying_info": "254人已抢",
+        "target": "beibei:\/\/detail?iid=28859618&product_sale_num=254",
+        "sub_type": "oversea",
+        "main_color": "#6633dd",
+        "event_click": {
+          "e_name": "单品列表_点击",
+          "router": "bb\/martshow\/home",
+          "tab": "v9_oversea",
+          "item_id": 28859618,
+          "position": 45
+        },
+        "nezha": {
+          "单品列表": {
+            "iid": 28859618,
+            "nz_block": "频道",
+            "nz_id": 44,
+            "nz_ver": "1.0.0",
+            "track_id": "1.4.118.0.13.44.44"
+          }
+        }
+      }, {
+        "id": 200397916,
+        "iid": 28809808,
+        "product_id": 6251258,
+        "title": "【新款直降】兰芝雪纱丝柔防晒隔离霜",
+        "desc": null,
+        "country_circle_icon": "http:\/\/b0.hucdn.com\/img\/country_new\/default.png",
+        "country_name": "海外",
+        "img": "http:\/\/b1.hucdn.com\/upload\/item\/1806\/09\/06303290952323_800x800.jpg",
+        "event_id": 200397916,
+        "price": 11900,
+        "icon_promotions": [],
+        "sold_num": 63,
+        "buying_info": "63人已抢",
+        "target": "beibei:\/\/detail?iid=28809808&product_sale_num=63",
+        "sub_type": "oversea",
+        "main_color": "#6633dd",
+        "event_click": {
+          "e_name": "单品列表_点击",
+          "router": "bb\/martshow\/home",
+          "tab": "v9_oversea",
+          "item_id": 28809808,
+          "position": 46
+        },
+        "nezha": {
+          "单品列表": {
+            "iid": 28809808,
+            "nz_block": "频道",
+            "nz_id": 44,
+            "nz_ver": "1.0.0",
+            "track_id": "1.4.118.0.13.45.44"
+          }
+        }
+      }]
+    }
+  }, {
+    "type": "type_home_item_double",
+    "type_home_item_double": {
+      "items": [{
+        "id": 200398124,
+        "iid": 28879776,
+        "product_id": 6005529,
+        "title": "水宝宝儿童防水防晒喷雾保湿喷雾",
+        "desc": null,
+        "country_circle_icon": "http:\/\/b0.hucdn.com\/img\/country_new\/default.png",
+        "country_name": "海外",
+        "img": "http:\/\/b1.hucdn.com\/upload\/item\/1805\/18\/28210717182345_800x800.jpg",
+        "event_id": 200398124,
+        "price": 6800,
+        "icon_promotions": [],
+        "sold_num": 206,
+        "buying_info": "206人已抢",
+        "target": "beibei:\/\/detail?iid=28879776&product_sale_num=206",
+        "sub_type": "oversea",
+        "main_color": "#6633dd",
+        "event_click": {
+          "e_name": "单品列表_点击",
+          "router": "bb\/martshow\/home",
+          "tab": "v9_oversea",
+          "item_id": 28879776,
+          "position": 47
+        },
+        "nezha": {
+          "单品列表": {
+            "iid": 28879776,
+            "nz_block": "频道",
+            "nz_id": 44,
+            "nz_ver": "1.0.0",
+            "track_id": "1.4.118.0.13.46.44"
+          }
+        }
+      }, {
+        "id": 200397515,
+        "iid": 28691754,
+        "product_id": 5425570,
+        "title": "VAPE\/未来 驱蚊水",
+        "desc": null,
+        "country_circle_icon": "http:\/\/b0.hucdn.com\/img\/country_new\/default.png",
+        "country_name": "海外",
+        "img": "http:\/\/b1.hucdn.com\/upload\/item\/1803\/16\/83581273385962_800x800.jpg",
+        "event_id": 200397515,
+        "price": 4600,
+        "icon_promotions": [],
+        "sold_num": 144,
+        "buying_info": "144人已抢",
+        "target": "beibei:\/\/detail?iid=28691754&product_sale_num=144",
+        "sub_type": "oversea",
+        "main_color": "#6633dd",
+        "event_click": {
+          "e_name": "单品列表_点击",
+          "router": "bb\/martshow\/home",
+          "tab": "v9_oversea",
+          "item_id": 28691754,
+          "position": 48
+        },
+        "nezha": {
+          "单品列表": {
+            "iid": 28691754,
+            "nz_block": "频道",
+            "nz_id": 44,
+            "nz_ver": "1.0.0",
+            "track_id": "1.4.118.0.13.47.44"
+          }
+        }
+      }]
+    }
+  }, {
+    "type": "type_home_item_double",
+    "type_home_item_double": {
+      "items": [{
+        "id": 200397688,
+        "iid": 28736635,
+        "product_id": 3265716,
+        "title": "水宝宝防晒喷雾170g",
+        "desc": null,
+        "country_circle_icon": "http:\/\/b0.hucdn.com\/img\/country_new\/default.png",
+        "country_name": "海外",
+        "img": "http:\/\/b1.hucdn.com\/upload\/item\/1802\/21\/94381828415962_800x800.jpg",
+        "event_id": 200397688,
+        "price": 5700,
+        "icon_promotions": [],
+        "sold_num": 429,
+        "buying_info": "429人已抢",
+        "target": "beibei:\/\/detail?iid=28736635&product_sale_num=429",
+        "sub_type": "oversea",
+        "main_color": "#6633dd",
+        "event_click": {
+          "e_name": "单品列表_点击",
+          "router": "bb\/martshow\/home",
+          "tab": "v9_oversea",
+          "item_id": 28736635,
+          "position": 49
+        },
+        "nezha": {
+          "单品列表": {
+            "iid": 28736635,
+            "nz_block": "频道",
+            "nz_id": 44,
+            "nz_ver": "1.0.0",
+            "track_id": "1.4.118.0.13.48.44"
+          }
+        }
+      }, {
+        "id": 200398095,
+        "iid": 28877401,
+        "product_id": 1127297,
+        "title": "德国喜宝益生菌奶粉 2岁以上",
+        "desc": null,
+        "country_circle_icon": "http:\/\/b0.hucdn.com\/img\/country_new\/ct_12.png",
+        "country_name": "德国",
+        "img": "http:\/\/b1.hucdn.com\/upload\/item\/1610\/21\/38991643068474_800x800.jpg",
+        "event_id": 200398095,
+        "price": 9900,
+        "icon_promotions": [],
+        "sold_num": 2698,
+        "buying_info": "2698人已抢",
+        "target": "beibei:\/\/detail?iid=28877401&product_sale_num=2698",
+        "sub_type": "oversea",
+        "main_color": "#6633dd",
+        "event_click": {
+          "e_name": "单品列表_点击",
+          "router": "bb\/martshow\/home",
+          "tab": "v9_oversea",
+          "item_id": 28877401,
+          "position": 50
+        },
+        "nezha": {
+          "单品列表": {
+            "iid": 28877401,
+            "nz_block": "频道",
+            "nz_id": 44,
+            "nz_ver": "1.0.0",
+            "track_id": "1.4.118.0.13.49.44"
+          }
+        }
+      }]
+    }
+  }, {
+    "type": "type_home_item_double",
+    "type_home_item_double": {
+      "items": [{
+        "id": 200398138,
+        "iid": 28887648,
+        "product_id": 5087990,
+        "title": "星星泡芙香蕉味42g",
+        "desc": null,
+        "country_circle_icon": "http:\/\/b0.hucdn.com\/img\/country_new\/ct_24.png",
+        "country_name": "美国",
+        "img": "http:\/\/b1.hucdn.com\/upload\/item\/1801\/10\/75578012801965_800x800.jpg",
+        "event_id": 200398138,
+        "price": 1500,
+        "icon_promotions": [],
+        "sold_num": 547,
+        "buying_info": "547人已抢",
+        "target": "beibei:\/\/detail?iid=28887648&product_sale_num=547",
+        "sub_type": "oversea",
+        "main_color": "#6633dd",
+        "event_click": {
+          "e_name": "单品列表_点击",
+          "router": "bb\/martshow\/home",
+          "tab": "v9_oversea",
+          "item_id": 28887648,
+          "position": 51
+        },
+        "nezha": {
+          "单品列表": {
+            "iid": 28887648,
+            "nz_block": "频道",
+            "nz_id": 44,
+            "nz_ver": "1.0.0",
+            "track_id": "1.4.118.0.13.50.44"
+          }
+        }
+      }, {
+        "id": 200397831,
+        "iid": 28802792,
+        "product_id": 5269482,
+        "title": "【水宝宝孕妇可用】防晒霜 防晒霜+防晒喷雾 隔离紫外线护肤",
+        "desc": null,
+        "country_circle_icon": "http:\/\/b0.hucdn.com\/img\/country_new\/default.png",
+        "country_name": "海外",
+        "img": "http:\/\/b1.hucdn.com\/upload\/item\/1804\/20\/18288519775962_800x800.jpg",
+        "event_id": 200397831,
+        "price": 8500,
+        "icon_promotions": [],
+        "sold_num": 879,
+        "buying_info": "879人已抢",
+        "target": "beibei:\/\/detail?iid=28802792&product_sale_num=879",
+        "sub_type": "oversea",
+        "main_color": "#6633dd",
+        "event_click": {
+          "e_name": "单品列表_点击",
+          "router": "bb\/martshow\/home",
+          "tab": "v9_oversea",
+          "item_id": 28802792,
+          "position": 52
+        },
+        "nezha": {
+          "单品列表": {
+            "iid": 28802792,
+            "nz_block": "频道",
+            "nz_id": 44,
+            "nz_ver": "1.0.0",
+            "track_id": "1.4.118.0.13.51.44"
+          }
+        }
+      }]
+    }
+  }, {
+    "type": "type_home_item_double",
+    "type_home_item_double": {
+      "items": [{
+        "id": 200397961,
+        "iid": 28822946,
+        "product_id": 2139266,
+        "title": "纸尿裤M68 2包装",
+        "desc": null,
+        "country_circle_icon": "http:\/\/b0.hucdn.com\/img\/country_new\/default.png",
+        "country_name": "海外",
+        "img": "http:\/\/b1.hucdn.com\/upload\/item\/1603\/01\/11831091728474_800x800.jpg",
+        "event_id": 200397961,
+        "price": 18200,
+        "icon_promotions": [],
+        "sold_num": 13501,
+        "buying_info": "13501人已抢",
+        "target": "beibei:\/\/detail?iid=28822946&product_sale_num=13501",
+        "sub_type": "oversea",
+        "main_color": "#6633dd",
+        "event_click": {
+          "e_name": "单品列表_点击",
+          "router": "bb\/martshow\/home",
+          "tab": "v9_oversea",
+          "item_id": 28822946,
+          "position": 53
+        },
+        "nezha": {
+          "单品列表": {
+            "iid": 28822946,
+            "nz_block": "频道",
+            "nz_id": 44,
+            "nz_ver": "1.0.0",
+            "track_id": "1.4.118.0.13.52.44"
+          }
+        }
+      }, {
+        "id": 200397749,
+        "iid": 28750606,
+        "product_id": 3329555,
+        "title": "【两盒装】自然乐园芦荟胶补水保湿镇静肌肤 300ml*2",
+        "desc": null,
+        "country_circle_icon": "http:\/\/b0.hucdn.com\/img\/country_new\/default.png",
+        "country_name": "海外",
+        "img": "http:\/\/b1.hucdn.com\/upload\/item\/1706\/30\/20922714577075_800x800.jpg",
+        "event_id": 200397749,
+        "price": 4500,
+        "icon_promotions": [],
+        "sold_num": 364,
+        "buying_info": "364人已抢",
+        "target": "beibei:\/\/detail?iid=28750606&product_sale_num=364",
+        "sub_type": "oversea",
+        "main_color": "#6633dd",
+        "event_click": {
+          "e_name": "单品列表_点击",
+          "router": "bb\/martshow\/home",
+          "tab": "v9_oversea",
+          "item_id": 28750606,
+          "position": 54
+        },
+        "nezha": {
+          "单品列表": {
+            "iid": 28750606,
+            "nz_block": "频道",
+            "nz_id": 44,
+            "nz_ver": "1.0.0",
+            "track_id": "1.4.118.0.13.53.44"
+          }
+        }
+      }]
+    }
+  }, {
+    "type": "type_home_item_double",
+    "type_home_item_double": {
+      "items": [{
+        "id": 200398106,
+        "iid": 28878744,
+        "product_id": 909029,
+        "title": "英国爱他美奶粉1段900g*3（0-6个月）",
+        "desc": null,
+        "country_circle_icon": "http:\/\/b0.hucdn.com\/img\/country_new\/ct_45.png",
+        "country_name": "英国",
+        "img": "http:\/\/b1.hucdn.com\/upload\/item\/1603\/18\/69523314498474_800x800.jpg",
+        "event_id": 200398106,
+        "price": 29900,
+        "icon_promotions": [],
+        "sold_num": 2531,
+        "buying_info": "2531人已抢",
+        "target": "beibei:\/\/detail?iid=28878744&product_sale_num=2531",
+        "sub_type": "oversea",
+        "main_color": "#6633dd",
+        "event_click": {
+          "e_name": "单品列表_点击",
+          "router": "bb\/martshow\/home",
+          "tab": "v9_oversea",
+          "item_id": 28878744,
+          "position": 55
+        },
+        "nezha": {
+          "单品列表": {
+            "iid": 28878744,
+            "nz_block": "频道",
+            "nz_id": 44,
+            "nz_ver": "1.0.0",
+            "track_id": "1.4.118.0.13.54.44"
+          }
+        }
+      }, {
+        "id": 200397885,
+        "iid": 28807237,
+        "product_id": 2758562,
+        "title": "【2支300ml】舒护活泉水喷雾 补水舒缓敏感肌肤",
+        "desc": null,
+        "country_circle_icon": "http:\/\/b0.hucdn.com\/img\/country_new\/default.png",
+        "country_name": "海外",
+        "img": "http:\/\/b1.hucdn.com\/upload\/item\/1704\/12\/83760035194223_800x800.jpg",
+        "event_id": 200397885,
+        "price": 12300,
+        "icon_promotions": [],
+        "sold_num": 611,
+        "buying_info": "611人已抢",
+        "target": "beibei:\/\/detail?iid=28807237&product_sale_num=611",
+        "sub_type": "oversea",
+        "main_color": "#6633dd",
+        "event_click": {
+          "e_name": "单品列表_点击",
+          "router": "bb\/martshow\/home",
+          "tab": "v9_oversea",
+          "item_id": 28807237,
+          "position": 56
+        },
+        "nezha": {
+          "单品列表": {
+            "iid": 28807237,
+            "nz_block": "频道",
+            "nz_id": 44,
+            "nz_ver": "1.0.0",
+            "track_id": "1.4.118.0.13.55.44"
+          }
+        }
+      }]
+    }
+  }, {
+    "type": "type_home_item_double",
+    "type_home_item_double": {
+      "items": [{
+        "id": 200397736,
+        "iid": 28747364,
+        "product_id": 5876969,
+        "title": "【持久遮瑕】美国Revlon露华浓24小时粉底液",
+        "desc": null,
+        "country_circle_icon": "http:\/\/b0.hucdn.com\/img\/country_new\/default.png",
+        "country_name": "海外",
+        "img": "http:\/\/b1.hucdn.com\/upload\/item\/1805\/27\/29068450731702_800x800.jpg",
+        "event_id": 200397736,
+        "price": 5800,
+        "icon_promotions": [],
+        "sold_num": 45,
+        "buying_info": "45人已抢",
+        "target": "beibei:\/\/detail?iid=28747364&product_sale_num=45",
+        "sub_type": "oversea",
+        "main_color": "#6633dd",
+        "event_click": {
+          "e_name": "单品列表_点击",
+          "router": "bb\/martshow\/home",
+          "tab": "v9_oversea",
+          "item_id": 28747364,
+          "position": 57
+        },
+        "nezha": {
+          "单品列表": {
+            "iid": 28747364,
+            "nz_block": "频道",
+            "nz_id": 44,
+            "nz_ver": "1.0.0",
+            "track_id": "1.4.118.0.13.56.44"
+          }
+        }
+      }, {
+        "id": 200398093,
+        "iid": 28877355,
+        "product_id": 1217231,
+        "title": "荷兰Hero Baby奶粉白金版1段",
+        "desc": null,
+        "country_circle_icon": "http:\/\/b0.hucdn.com\/img\/country_new\/ct_19.png",
+        "country_name": "荷兰",
+        "img": "http:\/\/b1.hucdn.com\/upload\/item\/1610\/21\/40484218698474_800x800.jpg",
+        "event_id": 200398093,
+        "price": 10900,
+        "icon_promotions": [],
+        "sold_num": 1406,
+        "buying_info": "1406人已抢",
+        "target": "beibei:\/\/detail?iid=28877355&product_sale_num=1406",
+        "sub_type": "oversea",
+        "main_color": "#6633dd",
+        "event_click": {
+          "e_name": "单品列表_点击",
+          "router": "bb\/martshow\/home",
+          "tab": "v9_oversea",
+          "item_id": 28877355,
+          "position": 58
+        },
+        "nezha": {
+          "单品列表": {
+            "iid": 28877355,
+            "nz_block": "频道",
+            "nz_id": 44,
+            "nz_ver": "1.0.0",
+            "track_id": "1.4.118.0.13.57.44"
+          }
+        }
+      }]
+    }
+  }, {
+    "type": "type_home_item_double",
+    "type_home_item_double": {
+      "items": [{
+        "id": 200397805,
+        "iid": 28799554,
+        "product_id": 4256285,
+        "title": "【孕妇可用】AHC神仙水套盒补水保湿孕妇",
+        "desc": null,
+        "country_circle_icon": "http:\/\/b0.hucdn.com\/img\/country_new\/default.png",
+        "country_name": "海外",
+        "img": "http:\/\/b1.hucdn.com\/upload\/item\/1805\/30\/73755293367075_800x800.jpg",
+        "event_id": 200397805,
+        "price": 17000,
+        "icon_promotions": [],
+        "sold_num": 237,
+        "buying_info": "237人已抢",
+        "target": "beibei:\/\/detail?iid=28799554&product_sale_num=237",
+        "sub_type": "oversea",
+        "main_color": "#6633dd",
+        "event_click": {
+          "e_name": "单品列表_点击",
+          "router": "bb\/martshow\/home",
+          "tab": "v9_oversea",
+          "item_id": 28799554,
+          "position": 59
+        },
+        "nezha": {
+          "单品列表": {
+            "iid": 28799554,
+            "nz_block": "频道",
+            "nz_id": 44,
+            "nz_ver": "1.0.0",
+            "track_id": "1.4.118.0.13.58.44"
+          }
+        }
+      }, {
+        "id": 200396073,
+        "iid": 28322986,
+        "product_id": 3852188,
+        "title": "【2支】洗颜专科洁面乳温和清洁洗面奶120g*2",
+        "desc": null,
+        "country_circle_icon": "http:\/\/b0.hucdn.com\/img\/country_new\/default.png",
+        "country_name": "海外",
+        "img": "http:\/\/b1.hucdn.com\/upload\/item\/1709\/07\/53613778928501_800x800.jpg",
+        "event_id": 200396073,
+        "price": 4600,
+        "icon_promotions": [],
+        "sold_num": 489,
+        "buying_info": "489人已抢",
+        "target": "beibei:\/\/detail?iid=28322986&product_sale_num=489",
+        "sub_type": "oversea",
+        "main_color": "#6633dd",
+        "event_click": {
+          "e_name": "单品列表_点击",
+          "router": "bb\/martshow\/home",
+          "tab": "v9_oversea",
+          "item_id": 28322986,
+          "position": 60
+        },
+        "nezha": {
+          "单品列表": {
+            "iid": 28322986,
+            "nz_block": "频道",
+            "nz_id": 44,
+            "nz_ver": "1.0.0",
+            "track_id": "1.4.118.0.13.59.44"
+          }
+        }
+      }]
+    }
+  }]
+}

@@ -1,0 +1,32 @@
+{
+    "result": "1",
+    "msg": "成功",
+    "data": [
+        {
+            "bereprintedTop5list": [
+                {
+                    "key": "东方网",
+                    "doc_count": 3279
+                },
+                {
+                    "key": "中国网",
+                    "doc_count": 3116
+                },
+                {
+                    "key": "华龙网",
+                    "doc_count": 2335
+                },
+                {
+                    "key": "中国甘肃网",
+                    "doc_count": 1389
+                },
+                {
+                    "key": "长城网",
+                    "doc_count": 1355
+                }
+            ],
+            "webid": "1",
+            "webname": "人民网"
+        }
+    ]
+}

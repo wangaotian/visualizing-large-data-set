@@ -1,0 +1,578 @@
+{
+  "has_more": 1,
+  "page_track_data": "",
+  "martshows": [{
+    "type": "type_home_item_single",
+    "type_home_item_single": {
+      "iid": 28860963,
+      "event_id": 106088195,
+      "title": "可爱多湿巾80抽*5 每抽不到5分钱",
+      "product_id": 3844181,
+      "square_img": "http:\/\/b1.hucdn.com\/upload\/item\/1805\/10\/45937050119178_800x800.jpg",
+      "white_bg_img": "http:\/\/b1.hucdn.com\/upload\/item\/1709\/06\/77065429314786_800x800.jpg",
+      "img": "http:\/\/b1.hucdn.com\/upload\/seller\/1807\/20\/90235857848507_750x350.jpg",
+      "country_circle_icon": "",
+      "uid": 51574786,
+      "notify_class_id": "mart_home",
+      "stock": 979,
+      "main_color": "#ff4965",
+      "price": 1990,
+      "origin_price": 7000,
+      "ext": "立即抢",
+      "buying_info": "105521人已抢",
+      "sale_num": 105521,
+      "target": "beibei:\/\/detail?iid=28860963&product_sale_num=105521&scene_tag=home",
+      "notify_target": "beibei:\/\/detail?iid=28860963&product_sale_num=105521&scene_tag=home",
+      "scene_tag": "home",
+      "group_avatars": [],
+      "icon_promotions": [{
+        "icon": "http:\/\/h0.hucdn.com\/open\/201823\/6766c06058f86ced_174x174.png",
+        "icon_width": 116,
+        "icon_height": 116,
+        "position": "left_top"
+      }],
+      "item_track_data": "",
+      "recom_info": {
+        "sold_pre": "今日已抢",
+        "sold_num": 2700,
+        "sold_unit": "份",
+        "sold_colors": ["#FF496E", "#EB2F54"],
+        "sold_num_color": "#FF1A1A",
+        "video_url": "http:\/\/v2.hucdn.com\/\/upload\/pvideo\/1711\/27\/15117453934786_960x720.mp4",
+        "avatars": ["http:\/\/b3.hucdn.com\/upload\/face\/1608\/30\/03c744aaff1ecfea7a17747633a59dcb.jpg", "http:\/\/b3.hucdn.com\/upload\/face\/1512\/29\/483761cd4cbc4010f952d1e62727f301.jpg", "http:\/\/b3.hucdn.com\/upload\/face\/1512\/29\/5c6eeca618eb4c81d500ad6c9e40a3d8.jpg"],
+        "recom_title": "10.5万人推荐",
+        "recom_bg": "http:\/\/h0.hucdn.com\/open\/201822\/5a0e0a213ebe915f_450x105.png"
+      },
+      "has_buying_coupon": false,
+      "theme": "normal",
+      "promotion_desc": "3.98元\/包 · 手口专用 · 柔软水润",
+      "video_url": "http:\/\/v2.hucdn.com\/\/upload\/pvideo\/1711\/27\/15117453934786_960x720.mp4",
+      "is_presale": 0,
+      "nezha": {
+        "赛马商品列表": {
+          "iid": 28860963,
+          "ext": "立即抢",
+          "nz_block": "首页列表",
+          "nz_id": 45,
+          "nz_ver": "1.0.0",
+          "track_id": "1.4.118.2.24.0.45"
+        }
+      }
+    }
+  }, {
+    "type": "type_home_item_single",
+    "type_home_item_single": {
+      "iid": 28228532,
+      "event_id": 105960301,
+      "title": "子初 电热蚊香液无味驱蚊液",
+      "product_id": 1592652,
+      "square_img": "http:\/\/b1.hucdn.com\/upload\/item\/1804\/11\/26814971734125_800x800.jpg",
+      "white_bg_img": "http:\/\/b1.hucdn.com\/upload\/item\/1606\/17\/28545881954125_800x800.jpg",
+      "img": "http:\/\/b1.hucdn.com\/upload\/tuan\/1804\/14\/98553258914125_750x350.jpg",
+      "country_circle_icon": "",
+      "uid": 3154125,
+      "notify_class_id": "mart_home",
+      "stock": 771,
+      "main_color": "#ff4965",
+      "price": 2590,
+      "origin_price": 13900,
+      "ext": "立即抢",
+      "buying_info": "11323人已抢",
+      "sale_num": 11323,
+      "target": "beibei:\/\/detail?iid=28228532&product_sale_num=11323&scene_tag=home",
+      "notify_target": "beibei:\/\/detail?iid=28228532&product_sale_num=11323&scene_tag=home",
+      "scene_tag": "home",
+      "group_avatars": [],
+      "icon_promotions": [{
+        "icon": "http:\/\/h0.hucdn.com\/open\/201823\/85ca53a9cb035d64_174x174.png",
+        "icon_width": 116,
+        "icon_height": 116,
+        "position": "left_top"
+      }],
+      "item_track_data": "",
+      "recom_info": {},
+      "has_buying_coupon": false,
+      "theme": "normal",
+      "promotion_desc": "进口溶剂 · 无烟无味 · 健康驱蚊",
+      "is_presale": 0,
+      "nezha": {
+        "赛马商品列表": {
+          "iid": 28228532,
+          "ext": "立即抢",
+          "nz_block": "首页列表",
+          "nz_id": 45,
+          "nz_ver": "1.0.0",
+          "track_id": "1.4.118.2.24.1.45"
+        }
+      }
+    }
+  }, {
+    "type": "type_home_item_single",
+    "type_home_item_single": {
+      "iid": 28383998,
+      "event_id": 105992080,
+      "title": "宝宝短袖短裤套装潮范帅气",
+      "product_id": 2986356,
+      "square_img": "http:\/\/b1.hucdn.com\/upload\/item\/1806\/11\/87692160360108_800x800.jpg",
+      "white_bg_img": "http:\/\/b1.hucdn.com\/upload\/item\/1705\/27\/50164254190108_800x800.jpg",
+      "img": "http:\/\/b1.hucdn.com\/upload\/tuan\/1805\/15\/56510745795470_750x350.jpg",
+      "country_circle_icon": "",
+      "uid": 50805470,
+      "notify_class_id": "mart_home",
+      "stock": 5475,
+      "main_color": "#ff4965",
+      "price": 1990,
+      "origin_price": 19800,
+      "ext": "立即抢",
+      "buying_info": "5318人已抢",
+      "sale_num": 5318,
+      "target": "beibei:\/\/detail?iid=28383998&product_sale_num=5318&scene_tag=home",
+      "notify_target": "beibei:\/\/detail?iid=28383998&product_sale_num=5318&scene_tag=home",
+      "scene_tag": "home",
+      "group_avatars": [],
+      "icon_promotions": [{
+        "icon": "http:\/\/h0.hucdn.com\/open\/201823\/e8b76484afd88e76_174x174.png",
+        "icon_width": 116,
+        "icon_height": 116,
+        "position": "left_top"
+      }],
+      "item_track_data": "",
+      "recom_info": {},
+      "has_buying_coupon": false,
+      "theme": "normal",
+      "promotion_desc": "阳光帅气 · 清爽薄款 · 好货低价",
+      "is_presale": 0,
+      "nezha": {
+        "赛马商品列表": {
+          "iid": 28383998,
+          "ext": "立即抢",
+          "nz_block": "首页列表",
+          "nz_id": 45,
+          "nz_ver": "1.0.0",
+          "track_id": "1.4.118.2.24.2.45"
+        }
+      }
+    }
+  }, {
+    "type": "type_home_item_single",
+    "type_home_item_single": {
+      "iid": "28925596",
+      "title": "蓝月亮洁净洗衣液1kg*2瓶薰衣草香",
+      "img": "http:\/\/b1.hucdn.com\/upload\/tuan\/1807\/18\/92531265666835_750x350.jpg",
+      "country_circle_icon": "",
+      "main_color": "#ff4965",
+      "price": 990,
+      "ext": "立即抢",
+      "buying_info": "1200人已抢",
+      "target": "beibei:\/\/bb\/base\/webview?url=https%3A%2F%2Fm.beibei.com%2Fncm%2Factiv%2Factivity%2Fkanjia%2Findex.html&scene_tag=home",
+      "group_avatars": [],
+      "icon_promotions": [{
+        "icon": "http:\/\/h0.hucdn.com\/open\/201823\/ae40aa5674833746_174x174.png",
+        "icon_width": 116,
+        "icon_height": 116,
+        "position": "left_top"
+      }],
+      "theme": "normal",
+      "promotion_desc": "9.9元 · 砍价秒杀 · 真便宜",
+      "is_presale": 0,
+      "nezha": {
+        "赛马商品列表": {
+          "iid": "28925596",
+          "ext": "立即抢",
+          "nz_block": "首页列表",
+          "nz_id": 45,
+          "nz_ver": "1.0.0",
+          "track_id": "1.4.118.2.24.3.45"
+        }
+      }
+    }
+  }, {
+    "type": "type_home_item_single",
+    "type_home_item_single": {
+      "iid": 28441943,
+      "event_id": 106000549,
+      "title": "时尚潮流冰丝T恤",
+      "product_id": 6516485,
+      "square_img": "http:\/\/b1.hucdn.com\/upload\/item\/1806\/29\/61518691337189_800x800.jpg",
+      "white_bg_img": "http:\/\/b1.hucdn.com\/upload\/item\/1806\/29\/61833702427189_800x800.jpg",
+      "img": "http:\/\/b1.hucdn.com\/upload\/tuan\/1806\/29\/71204840157189_750x350.jpg",
+      "country_circle_icon": "",
+      "uid": 57617189,
+      "notify_class_id": "mart_home",
+      "stock": 464,
+      "main_color": "#ff4965",
+      "price": 2980,
+      "origin_price": 9900,
+      "ext": "立即抢",
+      "buying_info": "50人已抢",
+      "sale_num": 50,
+      "target": "beibei:\/\/detail?iid=28441943&product_sale_num=50&scene_tag=home",
+      "notify_target": "beibei:\/\/detail?iid=28441943&product_sale_num=50&scene_tag=home",
+      "scene_tag": "home",
+      "group_avatars": [],
+      "icon_promotions": [{
+        "icon": "http:\/\/h0.hucdn.com\/open\/201823\/9562ddd0b7e5fabb_174x174.png",
+        "icon_width": 116,
+        "icon_height": 116,
+        "position": "left_top"
+      }],
+      "item_track_data": "",
+      "recom_info": {},
+      "has_buying_coupon": false,
+      "theme": "normal",
+      "promotion_desc": "时尚气质 · 五色五码 · 品质保证",
+      "is_presale": 0,
+      "nezha": {
+        "赛马商品列表": {
+          "iid": 28441943,
+          "ext": "立即抢",
+          "nz_block": "首页列表",
+          "nz_id": 45,
+          "nz_ver": "1.0.0",
+          "track_id": "1.4.118.2.24.4.45"
+        }
+      }
+    }
+  }, {
+    "type": "type_home_item_single",
+    "type_home_item_single": {
+      "iid": 28462084,
+      "event_id": 106002690,
+      "title": "chic百搭休闲港味套装裙女潮",
+      "product_id": 6531318,
+      "square_img": "http:\/\/b1.hucdn.com\/upload\/item\/1806\/30\/39330846241411_800x800.jpg",
+      "white_bg_img": "http:\/\/b1.hucdn.com\/upload\/item\/1806\/30\/39339395481411_800x800.jpg",
+      "img": "http:\/\/b1.hucdn.com\/upload\/tuan\/1807\/01\/18593143261411_750x350.jpg",
+      "country_circle_icon": "",
+      "uid": 48751411,
+      "notify_class_id": "mart_home",
+      "stock": 488,
+      "main_color": "#ff4965",
+      "price": 5590,
+      "origin_price": 19900,
+      "ext": "立即抢",
+      "buying_info": "16人已抢",
+      "sale_num": 16,
+      "target": "beibei:\/\/detail?iid=28462084&product_sale_num=16&scene_tag=home",
+      "notify_target": "beibei:\/\/detail?iid=28462084&product_sale_num=16&scene_tag=home",
+      "scene_tag": "home",
+      "group_avatars": [],
+      "icon_promotions": [{
+        "icon": "http:\/\/h0.hucdn.com\/open\/201823\/9562ddd0b7e5fabb_174x174.png",
+        "icon_width": 116,
+        "icon_height": 116,
+        "position": "left_top"
+      }],
+      "item_track_data": "",
+      "recom_info": {},
+      "has_buying_coupon": false,
+      "theme": "normal",
+      "promotion_desc": "亲肤棉质 · 港味休闲 · 洋气百搭",
+      "is_presale": 0,
+      "nezha": {
+        "赛马商品列表": {
+          "iid": 28462084,
+          "ext": "立即抢",
+          "nz_block": "首页列表",
+          "nz_id": 45,
+          "nz_ver": "1.0.0",
+          "track_id": "1.4.118.2.24.5.45"
+        }
+      }
+    }
+  }, {
+    "type": "type_home_item_single",
+    "type_home_item_single": {
+      "iid": 28477432,
+      "event_id": 106004818,
+      "title": "吊带小清新宽松上衣配短裙套装",
+      "product_id": 6539542,
+      "square_img": "http:\/\/b1.hucdn.com\/upload\/item\/1806\/30\/60037364232785_800x800.jpg",
+      "white_bg_img": "http:\/\/b1.hucdn.com\/upload\/item\/1806\/30\/60068632262785_800x800.jpg",
+      "img": "http:\/\/b1.hucdn.com\/upload\/tuan\/1807\/02\/99387307162785_750x350.jpg",
+      "country_circle_icon": "",
+      "uid": 31372785,
+      "notify_class_id": "mart_home",
+      "stock": 494,
+      "main_color": "#ff4965",
+      "price": 6900,
+      "origin_price": 19800,
+      "ext": "立即抢",
+      "buying_info": "9人已抢",
+      "sale_num": 9,
+      "target": "beibei:\/\/detail?iid=28477432&product_sale_num=9&scene_tag=home",
+      "notify_target": "beibei:\/\/detail?iid=28477432&product_sale_num=9&scene_tag=home",
+      "scene_tag": "home",
+      "group_avatars": [],
+      "icon_promotions": [{
+        "icon": "http:\/\/h0.hucdn.com\/open\/201823\/9562ddd0b7e5fabb_174x174.png",
+        "icon_width": 116,
+        "icon_height": 116,
+        "position": "left_top"
+      }],
+      "item_track_data": "",
+      "recom_info": {},
+      "has_buying_coupon": false,
+      "theme": "normal",
+      "promotion_desc": "时尚新颖 · 宽松舒适 · 气质淑女",
+      "is_presale": 0,
+      "nezha": {
+        "赛马商品列表": {
+          "iid": 28477432,
+          "ext": "立即抢",
+          "nz_block": "首页列表",
+          "nz_id": 45,
+          "nz_ver": "1.0.0",
+          "track_id": "1.4.118.2.24.6.45"
+        }
+      }
+    }
+  }, {
+    "type": "type_home_item_single",
+    "type_home_item_single": {
+      "iid": 28515810,
+      "event_id": 106014934,
+      "title": "维达 抽纸130抽\/包共20包",
+      "product_id": 983614,
+      "square_img": "http:\/\/b1.hucdn.com\/upload\/item\/1610\/19\/54879213613583_800x800.jpg",
+      "white_bg_img": "http:\/\/b1.hucdn.com\/upload\/item\/1610\/19\/54973770693583_800x800.jpg",
+      "img": "http:\/\/b1.hucdn.com\/upload\/tuan\/1806\/15\/47147193953583_750x350.jpg",
+      "country_circle_icon": "",
+      "uid": 20333583,
+      "notify_class_id": "mart_home",
+      "stock": 1964,
+      "main_color": "#ff4965",
+      "price": 4990,
+      "origin_price": 12000,
+      "ext": "立即抢",
+      "buying_info": "4066人已抢",
+      "sale_num": 4066,
+      "target": "beibei:\/\/detail?iid=28515810&product_sale_num=4066&scene_tag=home",
+      "notify_target": "beibei:\/\/detail?iid=28515810&product_sale_num=4066&scene_tag=home",
+      "scene_tag": "home",
+      "group_avatars": [],
+      "icon_promotions": [],
+      "item_track_data": "",
+      "recom_info": {},
+      "has_buying_coupon": false,
+      "theme": "normal",
+      "promotion_desc": "湿水不易破 · 超韧系列 · 婴儿用纸",
+      "is_presale": 0,
+      "nezha": {
+        "赛马商品列表": {
+          "iid": 28515810,
+          "ext": "立即抢",
+          "nz_block": "首页列表",
+          "nz_id": 45,
+          "nz_ver": "1.0.0",
+          "track_id": "1.4.118.2.24.7.45"
+        }
+      }
+    }
+  }, {
+    "type": "type_home_item_single",
+    "type_home_item_single": {
+      "iid": 28570099,
+      "event_id": 106028530,
+      "title": "新款 直筒时尚破洞九分裤",
+      "product_id": 6581271,
+      "square_img": "http:\/\/b1.hucdn.com\/upload\/item\/1807\/03\/94047561098718_800x800.jpg",
+      "white_bg_img": "http:\/\/b1.hucdn.com\/upload\/item\/1807\/03\/94064547378718_800x800.jpg",
+      "img": "http:\/\/b1.hucdn.com\/upload\/tuan\/1807\/05\/80172321488718_750x350.jpg",
+      "country_circle_icon": "",
+      "uid": 83888718,
+      "notify_class_id": "mart_home",
+      "stock": 994,
+      "main_color": "#ff4965",
+      "price": 3690,
+      "origin_price": 12900,
+      "ext": "立即抢",
+      "buying_info": "8人已抢",
+      "sale_num": 8,
+      "target": "beibei:\/\/detail?iid=28570099&product_sale_num=8&scene_tag=home",
+      "notify_target": "beibei:\/\/detail?iid=28570099&product_sale_num=8&scene_tag=home",
+      "scene_tag": "home",
+      "group_avatars": [],
+      "icon_promotions": [{
+        "icon": "http:\/\/h0.hucdn.com\/open\/201823\/9562ddd0b7e5fabb_174x174.png",
+        "icon_width": 116,
+        "icon_height": 116,
+        "position": "left_top"
+      }],
+      "item_track_data": "",
+      "recom_info": {},
+      "has_buying_coupon": false,
+      "theme": "normal",
+      "promotion_desc": "新款上市 · 优质面料 · 亏本冲量",
+      "is_presale": 0,
+      "nezha": {
+        "赛马商品列表": {
+          "iid": 28570099,
+          "ext": "立即抢",
+          "nz_block": "首页列表",
+          "nz_id": 45,
+          "nz_ver": "1.0.0",
+          "track_id": "1.4.118.2.24.8.45"
+        }
+      }
+    }
+  }, {
+    "type": "type_home_item_single",
+    "type_home_item_single": {
+      "iid": 28577198,
+      "event_id": 106029634,
+      "title": "新款洋气针织上衣配短裤两件套",
+      "product_id": 6615014,
+      "square_img": "http:\/\/b1.hucdn.com\/upload\/item\/1807\/05\/64350105746322_800x800.jpg",
+      "white_bg_img": "http:\/\/b1.hucdn.com\/upload\/item\/1807\/05\/64356535386322_800x800.jpg",
+      "img": "http:\/\/b1.hucdn.com\/upload\/tuan\/1807\/05\/88323748136322_750x350.jpg",
+      "country_circle_icon": "",
+      "uid": 49916322,
+      "notify_class_id": "mart_home",
+      "stock": 491,
+      "main_color": "#ff4965",
+      "price": 6990,
+      "origin_price": 12800,
+      "ext": "立即抢",
+      "buying_info": "16人已抢",
+      "sale_num": 16,
+      "target": "beibei:\/\/detail?iid=28577198&product_sale_num=16&scene_tag=home",
+      "notify_target": "beibei:\/\/detail?iid=28577198&product_sale_num=16&scene_tag=home",
+      "scene_tag": "home",
+      "group_avatars": [],
+      "icon_promotions": [],
+      "item_track_data": "",
+      "recom_info": {},
+      "has_buying_coupon": false,
+      "theme": "normal",
+      "promotion_desc": "精品质量 · 厂家直销 · 爆款直降",
+      "is_presale": 0,
+      "nezha": {
+        "赛马商品列表": {
+          "iid": 28577198,
+          "ext": "立即抢",
+          "nz_block": "首页列表",
+          "nz_id": 45,
+          "nz_ver": "1.0.0",
+          "track_id": "1.4.118.2.24.9.45"
+        }
+      }
+    }
+  }, {
+    "type": "type_home_item_single",
+    "type_home_item_single": {
+      "iid": 28584104,
+      "event_id": 106030580,
+      "title": "babyfeet夏季新款真皮宝宝凉鞋",
+      "product_id": 2834361,
+      "square_img": "http:\/\/b1.hucdn.com\/upload\/item\/1704\/08\/22244116205787_800x800.jpg",
+      "white_bg_img": "http:\/\/b1.hucdn.com\/upload\/item\/1704\/08\/22365010355787_800x800.jpg",
+      "img": "http:\/\/b1.hucdn.com\/upload\/tuan\/1806\/07\/52480072165787_750x350.jpg",
+      "country_circle_icon": "",
+      "uid": 665787,
+      "notify_class_id": "mart_home",
+      "stock": 95,
+      "main_color": "#ff4965",
+      "price": 2900,
+      "origin_price": 19900,
+      "ext": "立即抢",
+      "buying_info": "569人已抢",
+      "sale_num": 569,
+      "target": "beibei:\/\/detail?iid=28584104&product_sale_num=569&scene_tag=home",
+      "notify_target": "beibei:\/\/detail?iid=28584104&product_sale_num=569&scene_tag=home",
+      "scene_tag": "home",
+      "group_avatars": [],
+      "icon_promotions": [{
+        "icon": "http:\/\/h0.hucdn.com\/open\/201823\/e8b76484afd88e76_174x174.png",
+        "icon_width": 116,
+        "icon_height": 116,
+        "position": "left_top"
+      }],
+      "item_track_data": "",
+      "recom_info": {},
+      "has_buying_coupon": false,
+      "theme": "normal",
+      "promotion_desc": "舒适软底 · 防滑透气 · 包头防撞",
+      "is_presale": 0,
+      "nezha": {
+        "赛马商品列表": {
+          "iid": 28584104,
+          "ext": "立即抢",
+          "nz_block": "首页列表",
+          "nz_id": 45,
+          "nz_ver": "1.0.0",
+          "track_id": "1.4.118.2.24.10.45"
+        }
+      }
+    }
+  }, {
+    "type": "type_home_item_single",
+    "type_home_item_single": {
+      "iid": 28604962,
+      "event_id": 106036450,
+      "title": "足足10斤装薰衣草香好太太洗衣液",
+      "product_id": 4152038,
+      "square_img": "http:\/\/b1.hucdn.com\/upload\/item\/1807\/03\/80131800171659_800x800.jpg",
+      "white_bg_img": "http:\/\/b1.hucdn.com\/upload\/item\/1807\/03\/80131800171659_800x800.jpg",
+      "img": "http:\/\/b1.hucdn.com\/upload\/tuan\/1807\/05\/93417791911659_750x350.jpg",
+      "country_circle_icon": "",
+      "uid": 53401659,
+      "notify_class_id": "mart_home",
+      "stock": 2549,
+      "main_color": "#ff4965",
+      "price": 1790,
+      "origin_price": 6600,
+      "ext": "立即抢",
+      "buying_info": "29374人已抢",
+      "sale_num": 29374,
+      "target": "beibei:\/\/detail?iid=28604962&product_sale_num=29374&scene_tag=home",
+      "notify_target": "beibei:\/\/detail?iid=28604962&product_sale_num=29374&scene_tag=home",
+      "scene_tag": "home",
+      "group_avatars": [],
+      "icon_promotions": [],
+      "item_track_data": "",
+      "recom_info": {},
+      "has_buying_coupon": false,
+      "theme": "normal",
+      "promotion_desc": "2瓶 · 足足10斤 · 活动促销",
+      "is_presale": 0,
+      "nezha": {
+        "赛马商品列表": {
+          "iid": 28604962,
+          "ext": "立即抢",
+          "nz_block": "首页列表",
+          "nz_id": 45,
+          "nz_ver": "1.0.0",
+          "track_id": "1.4.118.2.24.11.45"
+        }
+      }
+    }
+  }],
+  "page": 1,
+  "total_count": 262,
+  "time_slots": [{
+    "time_slot_id": "9",
+    "start_time": 1532221200,
+    "end_time": 1532242799
+  }, {
+    "time_slot_id": "15",
+    "start_time": 1532242800,
+    "end_time": 1532264399
+  }, {
+    "time_slot_id": "21",
+    "start_time": 1532264400,
+    "end_time": 1532275199
+  }],
+  "curr_time_slot_id": "15",
+  "page_size": 11,
+  "nezha": {
+    "赛马商品列表-2": {
+      "nz_list_id": "iid",
+      "nz_list_nodes": "martshows,type_home_item_single",
+      "nz_block": "首页列表",
+      "nz_id": 279,
+      "nz_ver": "1.0.0",
+      "track_id": "1.4.118.2.24.0.279"
+    }
+  }
+}

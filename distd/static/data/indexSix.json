@@ -1,0 +1,467 @@
+{
+  "has_more": 1,
+  "page_track_data": "",
+  "martshows": [{
+    "type": "type_home_item_single",
+    "type_home_item_single": {
+      "iid": 28753371,
+      "event_id": 106060064,
+      "title": "巴布豆多彩条纹包头舒适透气凉鞋",
+      "product_id": 5784736,
+      "square_img": "http:\/\/b1.hucdn.com\/upload\/item\/1807\/14\/42905347654676_800x800.jpg",
+      "white_bg_img": "http:\/\/b1.hucdn.com\/upload\/item\/1804\/25\/40010735854676_800x800.jpg",
+      "img": "http:\/\/b1.hucdn.com\/upload\/tuan\/1805\/12\/19212754404676_750x350.jpg",
+      "country_circle_icon": "",
+      "uid": 37274676,
+      "notify_class_id": "mart_home",
+      "stock": 692,
+      "main_color": "#ff4965",
+      "price": 5490,
+      "origin_price": 18800,
+      "ext": "立即抢",
+      "buying_info": "634人已抢",
+      "sale_num": 634,
+      "target": "beibei:\/\/detail?iid=28753371&product_sale_num=634&scene_tag=home",
+      "notify_target": "beibei:\/\/detail?iid=28753371&product_sale_num=634&scene_tag=home",
+      "scene_tag": "home",
+      "group_avatars": [],
+      "icon_promotions": [],
+      "item_track_data": "",
+      "recom_info": {},
+      "has_buying_coupon": false,
+      "theme": "normal",
+      "promotion_desc": "五色可选 · 22至37码 · 防滑更护脚",
+      "is_presale": 0,
+      "nezha": {
+        "赛马商品列表": {
+          "iid": 28753371,
+          "ext": "立即抢",
+          "nz_block": "首页列表",
+          "nz_id": 45,
+          "nz_ver": "1.0.0",
+          "track_id": "1.4.118.2.24.50.45"
+        }
+      }
+    }
+  }, {
+    "type": "type_home_item_single",
+    "type_home_item_single": {
+      "iid": 28754356,
+      "event_id": 106060181,
+      "title": "24包整箱 柔之选本色抽纸巾",
+      "product_id": 3552129,
+      "square_img": "http:\/\/b1.hucdn.com\/upload\/item\/1712\/16\/10775069687097_800x800.jpg",
+      "white_bg_img": "http:\/\/b1.hucdn.com\/upload\/item\/1712\/16\/10775069687097_800x800.jpg",
+      "img": "http:\/\/b1.hucdn.com\/upload\/tuan\/1805\/10\/28696112877097_750x350.jpg",
+      "country_circle_icon": "",
+      "uid": 53877097,
+      "notify_class_id": "mart_home",
+      "stock": 473,
+      "main_color": "#ff4965",
+      "price": 2790,
+      "origin_price": 4900,
+      "ext": "立即抢",
+      "buying_info": "28498人已抢",
+      "sale_num": 28498,
+      "target": "beibei:\/\/detail?iid=28754356&product_sale_num=28498&scene_tag=home",
+      "notify_target": "beibei:\/\/detail?iid=28754356&product_sale_num=28498&scene_tag=home",
+      "scene_tag": "home",
+      "group_avatars": [],
+      "icon_promotions": [],
+      "item_track_data": "",
+      "recom_info": {},
+      "has_buying_coupon": false,
+      "theme": "normal",
+      "promotion_desc": "无荧光剂 · 健康不漂白 · 宝宝可用",
+      "is_presale": 0,
+      "nezha": {
+        "赛马商品列表": {
+          "iid": 28754356,
+          "ext": "立即抢",
+          "nz_block": "首页列表",
+          "nz_id": 45,
+          "nz_ver": "1.0.0",
+          "track_id": "1.4.118.2.24.51.45"
+        }
+      }
+    }
+  }, {
+    "type": "type_home_item_single",
+    "type_home_item_single": {
+      "iid": 28754442,
+      "event_id": 106060191,
+      "title": "欧孕婴儿尿布夏季纯棉可洗尿片",
+      "product_id": 2547987,
+      "square_img": "http:\/\/b1.hucdn.com\/upload\/item\/1804\/11\/39208672478548_800x800.jpg",
+      "white_bg_img": "http:\/\/b1.hucdn.com\/upload\/item\/1703\/06\/68193803708548_800x800.jpg",
+      "img": "http:\/\/b1.hucdn.com\/upload\/seller\/1804\/11\/39339688288548_750x350.jpg",
+      "country_circle_icon": "",
+      "uid": 19248548,
+      "notify_class_id": "mart_home",
+      "stock": 487,
+      "main_color": "#ff4965",
+      "price": 4900,
+      "origin_price": 23600,
+      "ext": "立即抢",
+      "buying_info": "1295人已抢",
+      "sale_num": 1295,
+      "target": "beibei:\/\/detail?iid=28754442&product_sale_num=1295&scene_tag=home",
+      "notify_target": "beibei:\/\/detail?iid=28754442&product_sale_num=1295&scene_tag=home",
+      "scene_tag": "home",
+      "group_avatars": [],
+      "icon_promotions": [],
+      "item_track_data": "",
+      "recom_info": {},
+      "has_buying_coupon": false,
+      "theme": "normal",
+      "promotion_desc": "纯棉纱布 · 柔软亲肤 · 无荧光剂",
+      "is_presale": 0,
+      "nezha": {
+        "赛马商品列表": {
+          "iid": 28754442,
+          "ext": "立即抢",
+          "nz_block": "首页列表",
+          "nz_id": 45,
+          "nz_ver": "1.0.0",
+          "track_id": "1.4.118.2.24.52.45"
+        }
+      }
+    }
+  }, {
+    "type": "type_home_item_single",
+    "type_home_item_single": {
+      "iid": 28758112,
+      "event_id": 106060542,
+      "title": "童装男童夏装套装大童帅气两件套",
+      "product_id": 5738930,
+      "square_img": "http:\/\/b1.hucdn.com\/upload\/item\/1805\/31\/80945610647050_800x800.jpg",
+      "white_bg_img": "http:\/\/b1.hucdn.com\/upload\/item\/1805\/31\/80962362907050_800x800.jpg",
+      "img": "http:\/\/b1.hucdn.com\/upload\/seller\/1806\/05\/67609017380093_750x350.jpg",
+      "country_circle_icon": "",
+      "uid": 48977050,
+      "notify_class_id": "mart_home",
+      "stock": 477,
+      "main_color": "#ff4965",
+      "price": 3990,
+      "origin_price": 19900,
+      "ext": "立即抢",
+      "buying_info": "183人已抢",
+      "sale_num": 183,
+      "target": "beibei:\/\/detail?iid=28758112&product_sale_num=183&scene_tag=home",
+      "notify_target": "beibei:\/\/detail?iid=28758112&product_sale_num=183&scene_tag=home",
+      "scene_tag": "home",
+      "group_avatars": [],
+      "icon_promotions": [],
+      "item_track_data": "",
+      "recom_info": {},
+      "has_buying_coupon": false,
+      "theme": "normal",
+      "promotion_desc": "纯棉品质 · 优质好货 · 贝贝推荐",
+      "is_presale": 0,
+      "nezha": {
+        "赛马商品列表": {
+          "iid": 28758112,
+          "ext": "立即抢",
+          "nz_block": "首页列表",
+          "nz_id": 45,
+          "nz_ver": "1.0.0",
+          "track_id": "1.4.118.2.24.53.45"
+        }
+      }
+    }
+  }, {
+    "type": "type_home_item_single",
+    "type_home_item_single": {
+      "iid": 28758657,
+      "event_id": 106060600,
+      "title": "男童卡通短袖短裤两件套",
+      "product_id": 5572098,
+      "square_img": "http:\/\/b1.hucdn.com\/upload\/item\/1804\/08\/82864314702461_800x800.jpg",
+      "white_bg_img": "http:\/\/b1.hucdn.com\/upload\/item\/1804\/03\/33463652612461_800x800.jpg",
+      "img": "http:\/\/b1.hucdn.com\/upload\/tuan\/1805\/27\/00334043412461_750x350.jpg",
+      "country_circle_icon": "",
+      "uid": 52042461,
+      "notify_class_id": "mart_home",
+      "stock": 482,
+      "main_color": "#ff4965",
+      "price": 2900,
+      "origin_price": 8800,
+      "ext": "立即抢",
+      "buying_info": "865人已抢",
+      "sale_num": 865,
+      "target": "beibei:\/\/detail?iid=28758657&product_sale_num=865&scene_tag=home",
+      "notify_target": "beibei:\/\/detail?iid=28758657&product_sale_num=865&scene_tag=home",
+      "scene_tag": "home",
+      "group_avatars": [],
+      "icon_promotions": [],
+      "item_track_data": "",
+      "recom_info": {},
+      "has_buying_coupon": false,
+      "theme": "normal",
+      "promotion_desc": "面料舒适 · 柔软耐磨 · 吸汗透气",
+      "is_presale": 0,
+      "nezha": {
+        "赛马商品列表": {
+          "iid": 28758657,
+          "ext": "立即抢",
+          "nz_block": "首页列表",
+          "nz_id": 45,
+          "nz_ver": "1.0.0",
+          "track_id": "1.4.118.2.24.54.45"
+        }
+      }
+    }
+  }, {
+    "type": "type_home_item_single",
+    "type_home_item_single": {
+      "iid": 28758764,
+      "event_id": 106060607,
+      "title": "大容量休闲软皮休闲背包",
+      "product_id": 3416546,
+      "square_img": "http:\/\/b1.hucdn.com\/upload\/item\/1712\/14\/12075237376383_800x800.jpg",
+      "white_bg_img": "http:\/\/b1.hucdn.com\/upload\/item\/1707\/15\/69590885016383_800x800.jpg",
+      "img": "http:\/\/b1.hucdn.com\/upload\/tuan\/1807\/14\/99977525936383_750x350.jpg",
+      "country_circle_icon": "",
+      "uid": 53896383,
+      "notify_class_id": "mart_home",
+      "stock": 469,
+      "main_color": "#ff4965",
+      "price": 3990,
+      "origin_price": 12600,
+      "ext": "立即抢",
+      "buying_info": "426人已抢",
+      "sale_num": 426,
+      "target": "beibei:\/\/detail?iid=28758764&product_sale_num=426&scene_tag=home",
+      "notify_target": "beibei:\/\/detail?iid=28758764&product_sale_num=426&scene_tag=home",
+      "scene_tag": "home",
+      "group_avatars": [],
+      "icon_promotions": [],
+      "item_track_data": "",
+      "recom_info": {},
+      "has_buying_coupon": false,
+      "theme": "normal",
+      "promotion_desc": "软皮材质 · 防泼水 · 简约大容量",
+      "is_presale": 0,
+      "nezha": {
+        "赛马商品列表": {
+          "iid": 28758764,
+          "ext": "立即抢",
+          "nz_block": "首页列表",
+          "nz_id": 45,
+          "nz_ver": "1.0.0",
+          "track_id": "1.4.118.2.24.55.45"
+        }
+      }
+    }
+  }, {
+    "type": "type_home_item_single",
+    "type_home_item_single": {
+      "iid": 28759758,
+      "event_id": 106060669,
+      "title": "喜迪奇 儿童早教益智投影故事机",
+      "product_id": 4599681,
+      "square_img": "http:\/\/b1.hucdn.com\/upload\/item\/1712\/06\/39205170364690_800x800.jpg",
+      "white_bg_img": "http:\/\/b1.hucdn.com\/upload\/item\/1711\/14\/40280373124690_800x800.jpg",
+      "img": "http:\/\/b1.hucdn.com\/upload\/tuan\/1804\/19\/09751739934690_750x350.jpg",
+      "country_circle_icon": "",
+      "uid": 29124690,
+      "notify_class_id": "mart_home",
+      "stock": 1767,
+      "main_color": "#ff4965",
+      "price": 990,
+      "origin_price": 6900,
+      "ext": "立即抢",
+      "buying_info": "39400人已抢",
+      "sale_num": 39400,
+      "target": "beibei:\/\/detail?iid=28759758&product_sale_num=39400&scene_tag=home",
+      "notify_target": "beibei:\/\/detail?iid=28759758&product_sale_num=39400&scene_tag=home",
+      "scene_tag": "home",
+      "group_avatars": [],
+      "icon_promotions": [{
+        "icon": "http:\/\/h0.hucdn.com\/open\/201823\/4996d4216a516ce0_174x174.png",
+        "icon_width": 116,
+        "icon_height": 116,
+        "position": "left_top"
+      }],
+      "item_track_data": "",
+      "recom_info": {},
+      "has_buying_coupon": false,
+      "theme": "normal",
+      "promotion_desc": "多功能音乐 · 带投影 · 早教益智",
+      "is_presale": 0,
+      "nezha": {
+        "赛马商品列表": {
+          "iid": 28759758,
+          "ext": "立即抢",
+          "nz_block": "首页列表",
+          "nz_id": 45,
+          "nz_ver": "1.0.0",
+          "track_id": "1.4.118.2.24.56.45"
+        }
+      }
+    }
+  }, {
+    "type": "type_home_item_single",
+    "type_home_item_single": {
+      "iid": 28759796,
+      "event_id": 106060673,
+      "title": "喜迪奇 儿童钓鱼戏水玩具套装",
+      "product_id": 2817198,
+      "square_img": "http:\/\/b1.hucdn.com\/upload\/item\/1704\/16\/12093577224690_800x800.jpg",
+      "white_bg_img": "http:\/\/b1.hucdn.com\/upload\/item\/1704\/06\/43601233834690_800x800.jpg",
+      "img": "http:\/\/b1.hucdn.com\/upload\/tuan\/1804\/19\/06372489374690_750x350.jpg",
+      "country_circle_icon": "",
+      "uid": 29124690,
+      "notify_class_id": "mart_home",
+      "stock": 770,
+      "main_color": "#ff4965",
+      "price": 1490,
+      "origin_price": 8900,
+      "ext": "立即抢",
+      "buying_info": "51200人已抢",
+      "sale_num": 51200,
+      "target": "beibei:\/\/detail?iid=28759796&product_sale_num=51200&scene_tag=home",
+      "notify_target": "beibei:\/\/detail?iid=28759796&product_sale_num=51200&scene_tag=home",
+      "scene_tag": "home",
+      "group_avatars": [],
+      "icon_promotions": [],
+      "item_track_data": "",
+      "recom_info": {},
+      "has_buying_coupon": false,
+      "theme": "normal",
+      "promotion_desc": "光滑无毛刺 · 送充气池 · 送打气筒",
+      "is_presale": 0,
+      "nezha": {
+        "赛马商品列表": {
+          "iid": 28759796,
+          "ext": "立即抢",
+          "nz_block": "首页列表",
+          "nz_id": 45,
+          "nz_ver": "1.0.0",
+          "track_id": "1.4.118.2.24.57.45"
+        }
+      }
+    }
+  }, {
+    "type": "type_home_item_single",
+    "type_home_item_single": {
+      "iid": 28759822,
+      "event_id": 106060677,
+      "title": "阿道夫 去屑控油修护洗发水420g",
+      "product_id": 2001941,
+      "square_img": "http:\/\/b1.hucdn.com\/upload\/item\/1805\/16\/42751681620339_800x800.jpg",
+      "white_bg_img": "http:\/\/b1.hucdn.com\/upload\/item\/1805\/16\/42751681620339_800x800.jpg",
+      "img": "http:\/\/b1.hucdn.com\/upload\/tuan\/1806\/01\/34621736720339_750x350.jpg",
+      "country_circle_icon": "",
+      "uid": 34940339,
+      "notify_class_id": "mart_home",
+      "stock": 628,
+      "main_color": "#ff4965",
+      "price": 3500,
+      "origin_price": 7900,
+      "ext": "立即抢",
+      "buying_info": "30762人已抢",
+      "sale_num": 30762,
+      "target": "beibei:\/\/detail?iid=28759822&product_sale_num=30762&scene_tag=home",
+      "notify_target": "beibei:\/\/detail?iid=28759822&product_sale_num=30762&scene_tag=home",
+      "scene_tag": "home",
+      "group_avatars": [],
+      "icon_promotions": [{
+        "icon": "http:\/\/h0.hucdn.com\/open\/201823\/e8b76484afd88e76_174x174.png",
+        "icon_width": 116,
+        "icon_height": 116,
+        "position": "left_top"
+      }],
+      "item_track_data": "",
+      "recom_info": {},
+      "has_buying_coupon": false,
+      "theme": "normal",
+      "promotion_desc": "买一送七 · CK提香 · 平日79",
+      "is_presale": 0,
+      "nezha": {
+        "赛马商品列表": {
+          "iid": 28759822,
+          "ext": "立即抢",
+          "nz_block": "首页列表",
+          "nz_id": 45,
+          "nz_ver": "1.0.0",
+          "track_id": "1.4.118.2.24.58.45"
+        }
+      }
+    }
+  }, {
+    "type": "type_home_item_single",
+    "type_home_item_single": {
+      "iid": 28762077,
+      "event_id": 106060854,
+      "title": "可爱多婴儿湿巾80抽*10包带盖装",
+      "product_id": 1098681,
+      "square_img": "http:\/\/b1.hucdn.com\/upload\/item\/1712\/28\/69158976468228_800x800.jpg",
+      "white_bg_img": "http:\/\/b1.hucdn.com\/upload\/item\/1710\/16\/48013020458228_800x800.jpg",
+      "img": "http:\/\/b1.hucdn.com\/upload\/seller\/1805\/16\/52667114798507_750x350.jpg",
+      "country_circle_icon": "",
+      "uid": 138228,
+      "notify_class_id": "mart_home",
+      "stock": 1749,
+      "main_color": "#ff4965",
+      "price": 3900,
+      "origin_price": 11600,
+      "ext": "立即抢",
+      "buying_info": "254977人已抢",
+      "sale_num": 254977,
+      "target": "beibei:\/\/detail?iid=28762077&product_sale_num=254977&scene_tag=home",
+      "notify_target": "beibei:\/\/detail?iid=28762077&product_sale_num=254977&scene_tag=home",
+      "scene_tag": "home",
+      "group_avatars": [],
+      "icon_promotions": [{
+        "icon": "http:\/\/h0.hucdn.com\/open\/201823\/e8b76484afd88e76_174x174.png",
+        "icon_width": 116,
+        "icon_height": 116,
+        "position": "left_top"
+      }],
+      "item_track_data": "",
+      "recom_info": {},
+      "has_buying_coupon": false,
+      "theme": "normal",
+      "promotion_desc": "不到4元\/包 · 珍珠纹 · 手口专用",
+      "is_presale": 0,
+      "nezha": {
+        "赛马商品列表": {
+          "iid": 28762077,
+          "ext": "立即抢",
+          "nz_block": "首页列表",
+          "nz_id": 45,
+          "nz_ver": "1.0.0",
+          "track_id": "1.4.118.2.24.59.45"
+        }
+      }
+    }
+  }],
+  "page": 6,
+  "total_count": 262,
+  "time_slots": [{
+    "time_slot_id": "9",
+    "start_time": 1532221200,
+    "end_time": 1532242799
+  }, {
+    "time_slot_id": "15",
+    "start_time": 1532242800,
+    "end_time": 1532264399
+  }, {
+    "time_slot_id": "21",
+    "start_time": 1532264400,
+    "end_time": 1532275199
+  }],
+  "curr_time_slot_id": "15",
+  "page_size": 10,
+  "nezha": {
+    "赛马商品列表-2": {
+      "nz_list_id": "iid",
+      "nz_list_nodes": "martshows,type_home_item_single",
+      "nz_block": "首页列表",
+      "nz_id": 279,
+      "nz_ver": "1.0.0",
+      "track_id": "1.4.118.2.24.50.279"
+    }
+  }
+}

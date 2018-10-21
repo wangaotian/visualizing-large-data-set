@@ -1,0 +1,717 @@
+{
+  "page": 2,
+  "page_size": 20,
+  "martshows": [{
+    "type": "type_home_item_double",
+    "type_home_item_double": {
+      "items": [{
+        "iid": 28698779,
+        "event_id": 106052560,
+        "title": "同源和夏季2018新款透气网眼健步鞋女鞋防滑软底网面运动鞋男女鞋中老年健步休闲鞋",
+        "product_id": 5701490,
+        "square_img": "http:\/\/b1.hucdn.com\/upload\/item\/1807\/19\/63007129785434_800x800.jpg",
+        "white_bg_img": "http:\/\/b1.hucdn.com\/upload\/item\/1807\/19\/63007129785434_800x800.jpg",
+        "img": "http:\/\/b1.hucdn.com\/upload\/item\/1807\/19\/63007129785434_800x800.jpg",
+        "country_circle_icon": "",
+        "uid": 9675434,
+        "notify_class_id": "mart_home",
+        "stock": null,
+        "main_color": "#ff4965",
+        "price": 6900,
+        "origin_price": null,
+        "ext": "立即抢",
+        "buying_info": "7人已抢",
+        "sale_num": 7,
+        "target": "beibei:\/\/detail?iid=28698779&product_sale_num=7&scene_tag=home",
+        "notify_target": "beibei:\/\/detail?iid=28698779&product_sale_num=7&scene_tag=home",
+        "scene_tag": "home",
+        "group_avatars": [],
+        "icon_promotions": [],
+        "item_track_data": "",
+        "nezha": {
+          "单品列表": {
+            "iid": 28698779,
+            "nz_block": "频道",
+            "nz_id": 44,
+            "nz_ver": "1.0.0",
+            "track_id": "1.4.118.0.13.20.44"
+          }
+        }
+      }, {
+        "iid": 28814267,
+        "event_id": 106068672,
+        "title": "品位丹妮2018夏季新款韩版松糕底休闲百搭凉鞋女",
+        "product_id": 3358337,
+        "square_img": "http:\/\/b1.hucdn.com\/upload\/item\/1806\/09\/24631767688536_800x800.jpg",
+        "white_bg_img": "http:\/\/b1.hucdn.com\/upload\/item\/1806\/09\/24631767688536_800x800.jpg",
+        "img": "http:\/\/b1.hucdn.com\/upload\/item\/1806\/09\/24631767688536_800x800.jpg",
+        "country_circle_icon": "",
+        "uid": 33818536,
+        "notify_class_id": "mart_home",
+        "stock": null,
+        "main_color": "#ff4965",
+        "price": 3990,
+        "origin_price": null,
+        "ext": "立即抢",
+        "buying_info": "283人已抢",
+        "sale_num": 283,
+        "target": "beibei:\/\/detail?iid=28814267&product_sale_num=283&scene_tag=home",
+        "notify_target": "beibei:\/\/detail?iid=28814267&product_sale_num=283&scene_tag=home",
+        "scene_tag": "home",
+        "group_avatars": [],
+        "icon_promotions": [],
+        "item_track_data": "",
+        "nezha": {
+          "单品列表": {
+            "iid": 28814267,
+            "nz_block": "频道",
+            "nz_id": 44,
+            "nz_ver": "1.0.0",
+            "track_id": "1.4.118.0.13.21.44"
+          }
+        }
+      }]
+    }
+  }, {
+    "type": "type_home_item_double",
+    "type_home_item_double": {
+      "items": [{
+        "iid": 28795790,
+        "event_id": 106063703,
+        "title": "朵艾微运动鞋女夏季2018新款女鞋夏老爹鞋女夏透气韩版ulzzang跑步鞋松糕鞋",
+        "product_id": 6328163,
+        "square_img": "http:\/\/b1.hucdn.com\/upload\/item\/1806\/15\/45283962652034_800x800.jpg",
+        "white_bg_img": "http:\/\/b1.hucdn.com\/upload\/item\/1806\/15\/45283962652034_800x800.jpg",
+        "img": "http:\/\/b1.hucdn.com\/upload\/item\/1806\/15\/45283962652034_800x800.jpg",
+        "country_circle_icon": "",
+        "uid": 9262034,
+        "notify_class_id": "mart_home",
+        "stock": null,
+        "main_color": "#ff4965",
+        "price": 4990,
+        "origin_price": null,
+        "ext": "立即抢",
+        "buying_info": "173人已抢",
+        "sale_num": 173,
+        "target": "beibei:\/\/detail?iid=28795790&product_sale_num=173&scene_tag=home",
+        "notify_target": "beibei:\/\/detail?iid=28795790&product_sale_num=173&scene_tag=home",
+        "scene_tag": "home",
+        "group_avatars": [],
+        "icon_promotions": [],
+        "item_track_data": "",
+        "nezha": {
+          "单品列表": {
+            "iid": 28795790,
+            "nz_block": "频道",
+            "nz_id": 44,
+            "nz_ver": "1.0.0",
+            "track_id": "1.4.118.0.13.22.44"
+          }
+        }
+      }, {
+        "iid": 28854693,
+        "event_id": 106086125,
+        "title": "知淑 2018年夏季新款韩版纯色镂空时尚简约凉鞋",
+        "product_id": 6632026,
+        "square_img": "http:\/\/b1.hucdn.com\/upload\/item\/1807\/06\/45432496730448_800x800.jpg",
+        "white_bg_img": "http:\/\/b1.hucdn.com\/upload\/item\/1807\/06\/45432496730448_800x800.jpg",
+        "img": "http:\/\/b1.hucdn.com\/upload\/item\/1807\/06\/45432496730448_800x800.jpg",
+        "country_circle_icon": "",
+        "uid": 49750448,
+        "notify_class_id": "mart_home",
+        "stock": null,
+        "main_color": "#ff4965",
+        "price": 2990,
+        "origin_price": null,
+        "ext": "立即抢",
+        "buying_info": "181人已抢",
+        "sale_num": 181,
+        "target": "beibei:\/\/detail?iid=28854693&product_sale_num=181&scene_tag=home",
+        "notify_target": "beibei:\/\/detail?iid=28854693&product_sale_num=181&scene_tag=home",
+        "scene_tag": "home",
+        "group_avatars": [],
+        "icon_promotions": [],
+        "item_track_data": "",
+        "nezha": {
+          "单品列表": {
+            "iid": 28854693,
+            "nz_block": "频道",
+            "nz_id": 44,
+            "nz_ver": "1.0.0",
+            "track_id": "1.4.118.0.13.23.44"
+          }
+        }
+      }]
+    }
+  }, {
+    "type": "type_home_item_double",
+    "type_home_item_double": {
+      "items": [{
+        "iid": 28753790,
+        "event_id": 106060097,
+        "title": "妈妈女鞋2018新款女夏季透气袜子鞋老年健步网鞋运动懒人平底布鞋",
+        "product_id": 6697055,
+        "square_img": "http:\/\/b1.hucdn.com\/upload\/item\/1807\/11\/01431655243633_800x800.jpg",
+        "white_bg_img": "http:\/\/b1.hucdn.com\/upload\/item\/1807\/11\/01431655243633_800x800.jpg",
+        "img": "http:\/\/b1.hucdn.com\/upload\/item\/1807\/11\/01431655243633_800x800.jpg",
+        "country_circle_icon": "",
+        "uid": 85013633,
+        "notify_class_id": "mart_home",
+        "stock": null,
+        "main_color": "#ff4965",
+        "price": 6500,
+        "origin_price": null,
+        "ext": "立即抢",
+        "buying_info": "23人已抢",
+        "sale_num": 23,
+        "target": "beibei:\/\/detail?iid=28753790&product_sale_num=23&scene_tag=home",
+        "notify_target": "beibei:\/\/detail?iid=28753790&product_sale_num=23&scene_tag=home",
+        "scene_tag": "home",
+        "group_avatars": [],
+        "icon_promotions": [],
+        "item_track_data": "",
+        "nezha": {
+          "单品列表": {
+            "iid": 28753790,
+            "nz_block": "频道",
+            "nz_id": 44,
+            "nz_ver": "1.0.0",
+            "track_id": "1.4.118.0.13.24.44"
+          }
+        }
+      }, {
+        "iid": 28776684,
+        "event_id": 106061912,
+        "title": "雪芙特韩版唯美蝴蝶结简约一鞋两穿百搭舒适凉鞋潮",
+        "product_id": 6114561,
+        "square_img": "http:\/\/b1.hucdn.com\/upload\/item\/1806\/28\/76235488161605_800x800.jpg",
+        "white_bg_img": "http:\/\/b1.hucdn.com\/upload\/item\/1806\/28\/76235488161605_800x800.jpg",
+        "img": "http:\/\/b1.hucdn.com\/upload\/item\/1806\/28\/76235488161605_800x800.jpg",
+        "country_circle_icon": "",
+        "uid": 55491605,
+        "notify_class_id": "mart_home",
+        "stock": null,
+        "main_color": "#ff4965",
+        "price": 2990,
+        "origin_price": null,
+        "ext": "立即抢",
+        "buying_info": "169人已抢",
+        "sale_num": 169,
+        "target": "beibei:\/\/detail?iid=28776684&product_sale_num=169&scene_tag=home",
+        "notify_target": "beibei:\/\/detail?iid=28776684&product_sale_num=169&scene_tag=home",
+        "scene_tag": "home",
+        "group_avatars": [],
+        "icon_promotions": [],
+        "item_track_data": "",
+        "nezha": {
+          "单品列表": {
+            "iid": 28776684,
+            "nz_block": "频道",
+            "nz_id": 44,
+            "nz_ver": "1.0.0",
+            "track_id": "1.4.118.0.13.25.44"
+          }
+        }
+      }]
+    }
+  }, {
+    "type": "type_home_item_double",
+    "type_home_item_double": {
+      "items": [{
+        "iid": 28709000,
+        "event_id": 106054046,
+        "title": "品位丹妮透气小白鞋女鞋夏季2018新款百搭韩版平底学生网纱镂空白鞋",
+        "product_id": 6262480,
+        "square_img": "http:\/\/b1.hucdn.com\/upload\/item\/1806\/09\/49148187918536_800x800.jpg",
+        "white_bg_img": "http:\/\/b1.hucdn.com\/upload\/item\/1806\/09\/49148187918536_800x800.jpg",
+        "img": "http:\/\/b1.hucdn.com\/upload\/item\/1806\/09\/49148187918536_800x800.jpg",
+        "country_circle_icon": "",
+        "uid": 33818536,
+        "notify_class_id": "mart_home",
+        "stock": null,
+        "main_color": "#ff4965",
+        "price": 3280,
+        "origin_price": null,
+        "ext": "立即抢",
+        "buying_info": "114人已抢",
+        "sale_num": 114,
+        "target": "beibei:\/\/detail?iid=28709000&product_sale_num=114&scene_tag=home",
+        "notify_target": "beibei:\/\/detail?iid=28709000&product_sale_num=114&scene_tag=home",
+        "scene_tag": "home",
+        "group_avatars": [],
+        "icon_promotions": [],
+        "item_track_data": "",
+        "nezha": {
+          "单品列表": {
+            "iid": 28709000,
+            "nz_block": "频道",
+            "nz_id": 44,
+            "nz_ver": "1.0.0",
+            "track_id": "1.4.118.0.13.26.44"
+          }
+        }
+      }, {
+        "iid": 28768733,
+        "event_id": 106061344,
+        "title": "品位丹妮软底豆豆鞋女夏秋韩版平底百搭学生透气原宿单鞋白色社会懒人皮鞋",
+        "product_id": 6738827,
+        "square_img": "http:\/\/b1.hucdn.com\/upload\/item\/1807\/11\/02614915268536_800x800.jpg",
+        "white_bg_img": "http:\/\/b1.hucdn.com\/upload\/item\/1807\/11\/02614915268536_800x800.jpg",
+        "img": "http:\/\/b1.hucdn.com\/upload\/item\/1807\/11\/02614915268536_800x800.jpg",
+        "country_circle_icon": "",
+        "uid": 33818536,
+        "notify_class_id": "mart_home",
+        "stock": null,
+        "main_color": "#ff4965",
+        "price": 3580,
+        "origin_price": null,
+        "ext": "立即抢",
+        "buying_info": "4人已抢",
+        "sale_num": 4,
+        "target": "beibei:\/\/detail?iid=28768733&product_sale_num=4&scene_tag=home",
+        "notify_target": "beibei:\/\/detail?iid=28768733&product_sale_num=4&scene_tag=home",
+        "scene_tag": "home",
+        "group_avatars": [],
+        "icon_promotions": [],
+        "item_track_data": "",
+        "nezha": {
+          "单品列表": {
+            "iid": 28768733,
+            "nz_block": "频道",
+            "nz_id": 44,
+            "nz_ver": "1.0.0",
+            "track_id": "1.4.118.0.13.27.44"
+          }
+        }
+      }]
+    }
+  }, {
+    "type": "type_home_item_double",
+    "type_home_item_double": {
+      "items": [{
+        "iid": 28869496,
+        "event_id": 106090749,
+        "title": "girdio 2018爆款妈咪包大容量防雨水多色双肩包个性多袋挎包405",
+        "product_id": 6564377,
+        "square_img": "http:\/\/b1.hucdn.com\/upload\/item\/1807\/02\/11767990567009_800x800.jpg",
+        "white_bg_img": "http:\/\/b1.hucdn.com\/upload\/item\/1807\/02\/11767990567009_800x800.jpg",
+        "img": "http:\/\/b1.hucdn.com\/upload\/item\/1807\/02\/11767990567009_800x800.jpg",
+        "country_circle_icon": "",
+        "uid": 44737009,
+        "notify_class_id": "mart_home",
+        "stock": null,
+        "main_color": "#ff4965",
+        "price": 4990,
+        "origin_price": null,
+        "ext": "立即抢",
+        "buying_info": "101人已抢",
+        "sale_num": 101,
+        "target": "beibei:\/\/detail?iid=28869496&product_sale_num=101&scene_tag=home",
+        "notify_target": "beibei:\/\/detail?iid=28869496&product_sale_num=101&scene_tag=home",
+        "scene_tag": "home",
+        "group_avatars": [],
+        "icon_promotions": [],
+        "item_track_data": "",
+        "nezha": {
+          "单品列表": {
+            "iid": 28869496,
+            "nz_block": "频道",
+            "nz_id": 44,
+            "nz_ver": "1.0.0",
+            "track_id": "1.4.118.0.13.28.44"
+          }
+        }
+      }, {
+        "iid": 28720796,
+        "event_id": 106055900,
+        "title": "蕾笛蕾诗 2018夏新款百搭粗跟尖头单鞋女时尚蝴蝶结水钻低跟舒适工作妈妈鞋",
+        "product_id": 6693525,
+        "square_img": "http:\/\/b1.hucdn.com\/upload\/item\/1807\/09\/22334976027152_800x800.jpg",
+        "white_bg_img": "http:\/\/b1.hucdn.com\/upload\/item\/1807\/09\/22334976027152_800x800.jpg",
+        "img": "http:\/\/b1.hucdn.com\/upload\/item\/1807\/09\/22334976027152_800x800.jpg",
+        "country_circle_icon": "",
+        "uid": 77667152,
+        "notify_class_id": "mart_home",
+        "stock": null,
+        "main_color": "#ff4965",
+        "price": 2590,
+        "origin_price": null,
+        "ext": "立即抢",
+        "buying_info": "168人已抢",
+        "sale_num": 168,
+        "target": "beibei:\/\/detail?iid=28720796&product_sale_num=168&scene_tag=home",
+        "notify_target": "beibei:\/\/detail?iid=28720796&product_sale_num=168&scene_tag=home",
+        "scene_tag": "home",
+        "group_avatars": [],
+        "icon_promotions": [],
+        "item_track_data": "",
+        "nezha": {
+          "单品列表": {
+            "iid": 28720796,
+            "nz_block": "频道",
+            "nz_id": 44,
+            "nz_ver": "1.0.0",
+            "track_id": "1.4.118.0.13.29.44"
+          }
+        }
+      }]
+    }
+  }, {
+    "type": "type_home_item_double",
+    "type_home_item_double": {
+      "items": [{
+        "iid": 28720152,
+        "event_id": 106055798,
+        "title": "蕾笛蕾诗 2018夏季新款单鞋女鞋低帮韩版时尚学生飞织圆头运动鞋",
+        "product_id": 6623337,
+        "square_img": "http:\/\/b1.hucdn.com\/upload\/item\/1807\/05\/83996141877152_800x800.jpg",
+        "white_bg_img": "http:\/\/b1.hucdn.com\/upload\/item\/1807\/05\/83996141877152_800x800.jpg",
+        "img": "http:\/\/b1.hucdn.com\/upload\/item\/1807\/05\/83996141877152_800x800.jpg",
+        "country_circle_icon": "",
+        "uid": 77667152,
+        "notify_class_id": "mart_home",
+        "stock": null,
+        "main_color": "#ff4965",
+        "price": 5500,
+        "origin_price": null,
+        "ext": "立即抢",
+        "buying_info": "1人已抢",
+        "sale_num": 1,
+        "target": "beibei:\/\/detail?iid=28720152&product_sale_num=1&scene_tag=home",
+        "notify_target": "beibei:\/\/detail?iid=28720152&product_sale_num=1&scene_tag=home",
+        "scene_tag": "home",
+        "group_avatars": [],
+        "icon_promotions": [],
+        "item_track_data": "",
+        "nezha": {
+          "单品列表": {
+            "iid": 28720152,
+            "nz_block": "频道",
+            "nz_id": 44,
+            "nz_ver": "1.0.0",
+            "track_id": "1.4.118.0.13.30.44"
+          }
+        }
+      }, {
+        "iid": 28836457,
+        "event_id": 106077306,
+        "title": "品位丹妮平底沙滩防水凉拖鞋女夏2018新款厚底防滑蝴蝶结学生两穿凉鞋",
+        "product_id": 6113293,
+        "square_img": "http:\/\/b1.hucdn.com\/upload\/item\/1805\/28\/13604138268536_800x800.jpg",
+        "white_bg_img": "http:\/\/b1.hucdn.com\/upload\/item\/1805\/28\/13604138268536_800x800.jpg",
+        "img": "http:\/\/b1.hucdn.com\/upload\/item\/1805\/28\/13604138268536_800x800.jpg",
+        "country_circle_icon": "",
+        "uid": 33818536,
+        "notify_class_id": "mart_home",
+        "stock": null,
+        "main_color": "#ff4965",
+        "price": 2990,
+        "origin_price": null,
+        "ext": "立即抢",
+        "buying_info": "651人已抢",
+        "sale_num": 651,
+        "target": "beibei:\/\/detail?iid=28836457&product_sale_num=651&scene_tag=home",
+        "notify_target": "beibei:\/\/detail?iid=28836457&product_sale_num=651&scene_tag=home",
+        "scene_tag": "home",
+        "group_avatars": [],
+        "icon_promotions": [],
+        "item_track_data": "",
+        "nezha": {
+          "单品列表": {
+            "iid": 28836457,
+            "nz_block": "频道",
+            "nz_id": 44,
+            "nz_ver": "1.0.0",
+            "track_id": "1.4.118.0.13.31.44"
+          }
+        }
+      }]
+    }
+  }, {
+    "type": "type_home_item_double",
+    "type_home_item_double": {
+      "items": [{
+        "iid": 28857971,
+        "event_id": 106087284,
+        "title": "品位丹妮夏季高跟一字型女鞋时尚百搭增高显瘦女凉鞋",
+        "product_id": 6280225,
+        "square_img": "http:\/\/b1.hucdn.com\/upload\/item\/1806\/11\/95575713138536_800x800.jpg",
+        "white_bg_img": "http:\/\/b1.hucdn.com\/upload\/item\/1806\/11\/95575713138536_800x800.jpg",
+        "img": "http:\/\/b1.hucdn.com\/upload\/item\/1806\/11\/95575713138536_800x800.jpg",
+        "country_circle_icon": "",
+        "uid": 33818536,
+        "notify_class_id": "mart_home",
+        "stock": null,
+        "main_color": "#ff4965",
+        "price": 3990,
+        "origin_price": null,
+        "ext": "立即抢",
+        "buying_info": "108人已抢",
+        "sale_num": 108,
+        "target": "beibei:\/\/detail?iid=28857971&product_sale_num=108&scene_tag=home",
+        "notify_target": "beibei:\/\/detail?iid=28857971&product_sale_num=108&scene_tag=home",
+        "scene_tag": "home",
+        "group_avatars": [],
+        "icon_promotions": [],
+        "item_track_data": "",
+        "nezha": {
+          "单品列表": {
+            "iid": 28857971,
+            "nz_block": "频道",
+            "nz_id": 44,
+            "nz_ver": "1.0.0",
+            "track_id": "1.4.118.0.13.32.44"
+          }
+        }
+      }, {
+        "iid": 28772286,
+        "event_id": 106061537,
+        "title": "蕾笛蕾诗 2018夏季新款透气小白鞋女网面跑步板鞋运动休闲鞋百搭系带网鞋",
+        "product_id": 6802244,
+        "square_img": "http:\/\/b1.hucdn.com\/upload\/item\/1807\/14\/59498422317152_750x750.jpg",
+        "white_bg_img": "http:\/\/b1.hucdn.com\/upload\/item\/1807\/14\/59498422317152_750x750.jpg",
+        "img": "http:\/\/b1.hucdn.com\/upload\/item\/1807\/14\/59498422317152_750x750.jpg",
+        "country_circle_icon": "",
+        "uid": 77667152,
+        "notify_class_id": "mart_home",
+        "stock": null,
+        "main_color": "#ff4965",
+        "price": 3990,
+        "origin_price": null,
+        "ext": "立即抢",
+        "buying_info": "4人已抢",
+        "sale_num": 4,
+        "target": "beibei:\/\/detail?iid=28772286&product_sale_num=4&scene_tag=home",
+        "notify_target": "beibei:\/\/detail?iid=28772286&product_sale_num=4&scene_tag=home",
+        "scene_tag": "home",
+        "group_avatars": [],
+        "icon_promotions": [],
+        "item_track_data": "",
+        "nezha": {
+          "单品列表": {
+            "iid": 28772286,
+            "nz_block": "频道",
+            "nz_id": 44,
+            "nz_ver": "1.0.0",
+            "track_id": "1.4.118.0.13.33.44"
+          }
+        }
+      }]
+    }
+  }, {
+    "type": "type_home_item_double",
+    "type_home_item_double": {
+      "items": [{
+        "iid": 28761038,
+        "event_id": 106060785,
+        "title": "朵艾微港味女鞋春秋新款2018夏秋季鞋子女款chic韩风板鞋女士厚底小白鞋女韩版",
+        "product_id": 5995307,
+        "square_img": "http:\/\/b1.hucdn.com\/upload\/item\/1806\/09\/31661331052034_800x800.jpg",
+        "white_bg_img": "http:\/\/b1.hucdn.com\/upload\/item\/1806\/09\/31661331052034_800x800.jpg",
+        "img": "http:\/\/b1.hucdn.com\/upload\/item\/1806\/09\/31661331052034_800x800.jpg",
+        "country_circle_icon": "",
+        "uid": 9262034,
+        "notify_class_id": "mart_home",
+        "stock": null,
+        "main_color": "#ff4965",
+        "price": 4990,
+        "origin_price": null,
+        "ext": "立即抢",
+        "buying_info": "308人已抢",
+        "sale_num": 308,
+        "target": "beibei:\/\/detail?iid=28761038&product_sale_num=308&scene_tag=home",
+        "notify_target": "beibei:\/\/detail?iid=28761038&product_sale_num=308&scene_tag=home",
+        "scene_tag": "home",
+        "group_avatars": [],
+        "icon_promotions": [],
+        "item_track_data": "",
+        "nezha": {
+          "单品列表": {
+            "iid": 28761038,
+            "nz_block": "频道",
+            "nz_id": 44,
+            "nz_ver": "1.0.0",
+            "track_id": "1.4.118.0.13.34.44"
+          }
+        }
+      }, {
+        "iid": 28790188,
+        "event_id": 106062927,
+        "title": "德曼霖妈咪包母婴包双肩妈妈包多功能大容量外出宝妈背包时尚书包",
+        "product_id": 5797850,
+        "square_img": "http:\/\/b1.hucdn.com\/upload\/item\/1804\/26\/51550317362801_800x800.jpg",
+        "white_bg_img": "http:\/\/b1.hucdn.com\/upload\/item\/1804\/26\/51550317362801_800x800.jpg",
+        "img": "http:\/\/b1.hucdn.com\/upload\/item\/1804\/26\/51550317362801_800x800.jpg",
+        "country_circle_icon": "",
+        "uid": 80962801,
+        "notify_class_id": "mart_home",
+        "stock": null,
+        "main_color": "#ff4965",
+        "price": 3890,
+        "origin_price": null,
+        "ext": "立即抢",
+        "buying_info": "1234人已抢",
+        "sale_num": 1234,
+        "target": "beibei:\/\/detail?iid=28790188&product_sale_num=1234&scene_tag=home",
+        "notify_target": "beibei:\/\/detail?iid=28790188&product_sale_num=1234&scene_tag=home",
+        "scene_tag": "home",
+        "group_avatars": [],
+        "icon_promotions": [],
+        "item_track_data": "",
+        "nezha": {
+          "单品列表": {
+            "iid": 28790188,
+            "nz_block": "频道",
+            "nz_id": 44,
+            "nz_ver": "1.0.0",
+            "track_id": "1.4.118.0.13.35.44"
+          }
+        }
+      }]
+    }
+  }, {
+    "type": "type_home_item_double",
+    "type_home_item_double": {
+      "items": [{
+        "iid": 28730065,
+        "event_id": 106056987,
+        "title": "品位丹妮夏季白鞋子2018新款韩版平底小白鞋女休闲鞋学生百搭透气网面板鞋",
+        "product_id": 6000117,
+        "square_img": "http:\/\/b1.hucdn.com\/upload\/item\/1805\/17\/71590557148536_800x800.jpg",
+        "white_bg_img": "http:\/\/b1.hucdn.com\/upload\/item\/1805\/17\/71590557148536_800x800.jpg",
+        "img": "http:\/\/b1.hucdn.com\/upload\/item\/1805\/17\/71590557148536_800x800.jpg",
+        "country_circle_icon": "",
+        "uid": 33818536,
+        "notify_class_id": "mart_home",
+        "stock": null,
+        "main_color": "#ff4965",
+        "price": 3280,
+        "origin_price": null,
+        "ext": "立即抢",
+        "buying_info": "236人已抢",
+        "sale_num": 236,
+        "target": "beibei:\/\/detail?iid=28730065&product_sale_num=236&scene_tag=home",
+        "notify_target": "beibei:\/\/detail?iid=28730065&product_sale_num=236&scene_tag=home",
+        "scene_tag": "home",
+        "group_avatars": [],
+        "icon_promotions": [],
+        "item_track_data": "",
+        "nezha": {
+          "单品列表": {
+            "iid": 28730065,
+            "nz_block": "频道",
+            "nz_id": 44,
+            "nz_ver": "1.0.0",
+            "track_id": "1.4.118.0.13.36.44"
+          }
+        }
+      }, {
+        "iid": 28698362,
+        "event_id": 106052471,
+        "title": "品位丹妮街拍小白鞋女新款春秋季韩版百搭学生帆布鞋平底韩范儿白鞋板鞋",
+        "product_id": 6654743,
+        "square_img": "http:\/\/b1.hucdn.com\/upload\/item\/1807\/07\/51903889368536_750x750.jpg",
+        "white_bg_img": "http:\/\/b1.hucdn.com\/upload\/item\/1807\/07\/51903889368536_750x750.jpg",
+        "img": "http:\/\/b1.hucdn.com\/upload\/item\/1807\/07\/51903889368536_750x750.jpg",
+        "country_circle_icon": "",
+        "uid": 33818536,
+        "notify_class_id": "mart_home",
+        "stock": null,
+        "main_color": "#ff4965",
+        "price": 3580,
+        "origin_price": null,
+        "ext": "立即抢",
+        "buying_info": "18人已抢",
+        "sale_num": 18,
+        "target": "beibei:\/\/detail?iid=28698362&product_sale_num=18&scene_tag=home",
+        "notify_target": "beibei:\/\/detail?iid=28698362&product_sale_num=18&scene_tag=home",
+        "scene_tag": "home",
+        "group_avatars": [],
+        "icon_promotions": [],
+        "item_track_data": "",
+        "nezha": {
+          "单品列表": {
+            "iid": 28698362,
+            "nz_block": "频道",
+            "nz_id": 44,
+            "nz_ver": "1.0.0",
+            "track_id": "1.4.118.0.13.37.44"
+          }
+        }
+      }]
+    }
+  }, {
+    "type": "type_home_item_double",
+    "type_home_item_double": {
+      "items": [{
+        "iid": 28776846,
+        "event_id": 106061937,
+        "title": "迷卡路 上新夏天小包包女2018新款韩版潮单肩包女包斜挎包百搭迷你手机包抖音同款",
+        "product_id": 6311723,
+        "square_img": "http:\/\/b1.hucdn.com\/upload\/item\/1806\/13\/03913247676383_800x800.jpg",
+        "white_bg_img": "http:\/\/b1.hucdn.com\/upload\/item\/1806\/13\/03913247676383_800x800.jpg",
+        "img": "http:\/\/b1.hucdn.com\/upload\/item\/1806\/13\/03913247676383_800x800.jpg",
+        "country_circle_icon": "",
+        "uid": 53896383,
+        "notify_class_id": "mart_home",
+        "stock": null,
+        "main_color": "#ff4965",
+        "price": 4500,
+        "origin_price": null,
+        "ext": "立即抢",
+        "buying_info": "391人已抢",
+        "sale_num": 391,
+        "target": "beibei:\/\/detail?iid=28776846&product_sale_num=391&scene_tag=home",
+        "notify_target": "beibei:\/\/detail?iid=28776846&product_sale_num=391&scene_tag=home",
+        "scene_tag": "home",
+        "group_avatars": [],
+        "icon_promotions": [],
+        "item_track_data": "",
+        "nezha": {
+          "单品列表": {
+            "iid": 28776846,
+            "nz_block": "频道",
+            "nz_id": 44,
+            "nz_ver": "1.0.0",
+            "track_id": "1.4.118.0.13.38.44"
+          }
+        }
+      }, {
+        "iid": 28572137,
+        "event_id": 106029121,
+        "title": "绛茗诗 凉鞋女中跟高跟鞋2018新款夏季韩版百搭学生粗跟一字扣带罗马女鞋",
+        "product_id": 6622911,
+        "square_img": "http:\/\/b1.hucdn.com\/upload\/item\/1806\/14\/47109937177083_800x800.jpg",
+        "white_bg_img": "http:\/\/b1.hucdn.com\/upload\/item\/1806\/14\/47109937177083_800x800.jpg",
+        "img": "http:\/\/b1.hucdn.com\/upload\/item\/1806\/14\/47109937177083_800x800.jpg",
+        "country_circle_icon": "",
+        "uid": 26097083,
+        "notify_class_id": "mart_home",
+        "stock": null,
+        "main_color": "#ff4965",
+        "price": 4900,
+        "origin_price": null,
+        "ext": "立即抢",
+        "buying_info": "10人已抢",
+        "sale_num": 10,
+        "target": "beibei:\/\/detail?iid=28572137&product_sale_num=10&scene_tag=home",
+        "notify_target": "beibei:\/\/detail?iid=28572137&product_sale_num=10&scene_tag=home",
+        "scene_tag": "home",
+        "group_avatars": [],
+        "icon_promotions": [],
+        "item_track_data": "",
+        "nezha": {
+          "单品列表": {
+            "iid": 28572137,
+            "nz_block": "频道",
+            "nz_id": 44,
+            "nz_ver": "1.0.0",
+            "track_id": "1.4.118.0.13.39.44"
+          }
+        }
+      }]
+    }
+  }],
+  "total_count": 498,
+  "has_more": 1
+}

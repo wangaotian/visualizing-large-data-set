@@ -1,0 +1,9 @@
+{
+    "result": "1",
+    "msg": "成功",
+    "data": {
+        "firstcity": 22,
+        "secondcity": "26",
+        "other": "10"
+    }
+}

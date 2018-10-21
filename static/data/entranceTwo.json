@@ -1,0 +1,737 @@
+{
+  "page": 2,
+  "total_count": 57,
+  "has_more": 1,
+  "page_size": 20,
+  "martshows": [{
+    "type": "type_home_item_double",
+    "type_home_item_double": {
+      "items": [{
+        "id": 200396893,
+        "iid": 28475548,
+        "product_id": 1274639,
+        "title": "【79元任选3件】宝宝辅食3段香蕉草莓燕麦米粉227g（8个月+）",
+        "desc": null,
+        "country_circle_icon": "http:\/\/b0.hucdn.com\/img\/country_new\/ct_24.png",
+        "country_name": "美国",
+        "img": "http:\/\/b1.hucdn.com\/upload\/item\/1709\/29\/81709331545351_800x800.jpg",
+        "event_id": 200396893,
+        "price": 3900,
+        "icon_promotions": [{
+          "icon": "http:\/\/b1.hucdn.com\/upload\/item\/1804\/12\/22872410055247_70x78.png",
+          "icon_width": "70",
+          "icon_height": "78"
+        }],
+        "sold_num": 11225,
+        "buying_info": "11225人已抢",
+        "target": "beibei:\/\/detail?iid=28475548&product_sale_num=11225",
+        "sub_type": "oversea",
+        "main_color": "#6633dd",
+        "event_click": {
+          "e_name": "单品列表_点击",
+          "router": "bb\/martshow\/home",
+          "tab": "v9_oversea",
+          "item_id": 28475548,
+          "position": 21
+        },
+        "nezha": {
+          "单品列表": {
+            "iid": 28475548,
+            "nz_block": "频道",
+            "nz_id": 44,
+            "nz_ver": "1.0.0",
+            "track_id": "1.4.118.0.13.20.44"
+          }
+        }
+      }, {
+        "id": 200397956,
+        "iid": 28822765,
+        "product_id": 5786656,
+        "title": "纸尿裤 XL52 3包装",
+        "desc": null,
+        "country_circle_icon": "http:\/\/b0.hucdn.com\/img\/country_new\/default.png",
+        "country_name": "海外",
+        "img": "http:\/\/b1.hucdn.com\/upload\/item\/1804\/25\/55802447698026_800x800.jpg",
+        "event_id": 200397956,
+        "price": 26800,
+        "icon_promotions": [],
+        "sold_num": 633,
+        "buying_info": "633人已抢",
+        "target": "beibei:\/\/detail?iid=28822765&product_sale_num=633",
+        "sub_type": "oversea",
+        "main_color": "#6633dd",
+        "event_click": {
+          "e_name": "单品列表_点击",
+          "router": "bb\/martshow\/home",
+          "tab": "v9_oversea",
+          "item_id": 28822765,
+          "position": 22
+        },
+        "nezha": {
+          "单品列表": {
+            "iid": 28822765,
+            "nz_block": "频道",
+            "nz_id": 44,
+            "nz_ver": "1.0.0",
+            "track_id": "1.4.118.0.13.21.44"
+          }
+        }
+      }]
+    }
+  }, {
+    "type": "type_home_item_double",
+    "type_home_item_double": {
+      "items": [{
+        "id": 200398112,
+        "iid": 28878831,
+        "product_id": 828216,
+        "title": "【效期至18年12月】荷兰牛栏婴儿奶粉1段 850g*3（0",
+        "desc": null,
+        "country_circle_icon": "http:\/\/b0.hucdn.com\/img\/country_new\/ct_19.png",
+        "country_name": "荷兰",
+        "img": "http:\/\/b1.hucdn.com\/upload\/item\/1604\/05\/19479802878474_800x800.jpg",
+        "event_id": 200398112,
+        "price": 36800,
+        "icon_promotions": [{
+          "icon": "http:\/\/b1.hucdn.com\/upload\/item\/1807\/18\/20406026745247_89x30.png",
+          "icon_width": "89",
+          "icon_height": "30"
+        }],
+        "sold_num": 29762,
+        "buying_info": "29762人已抢",
+        "target": "beibei:\/\/detail?iid=28878831&product_sale_num=29762",
+        "sub_type": "oversea",
+        "main_color": "#6633dd",
+        "event_click": {
+          "e_name": "单品列表_点击",
+          "router": "bb\/martshow\/home",
+          "tab": "v9_oversea",
+          "item_id": 28878831,
+          "position": 23
+        },
+        "nezha": {
+          "单品列表": {
+            "iid": 28878831,
+            "nz_block": "频道",
+            "nz_id": 44,
+            "nz_ver": "1.0.0",
+            "track_id": "1.4.118.0.13.22.44"
+          }
+        }
+      }, {
+        "id": 200398121,
+        "iid": 28879205,
+        "product_id": 917148,
+        "title": "拉拉裤男 L44 4包装",
+        "desc": null,
+        "country_circle_icon": "http:\/\/b0.hucdn.com\/img\/country_new\/default.png",
+        "country_name": "海外",
+        "img": "http:\/\/b1.hucdn.com\/upload\/item\/1702\/14\/61976804471536_800x800.jpg",
+        "event_id": 200398121,
+        "price": 29900,
+        "icon_promotions": [],
+        "sold_num": 17236,
+        "buying_info": "17236人已抢",
+        "target": "beibei:\/\/detail?iid=28879205&product_sale_num=17236",
+        "sub_type": "oversea",
+        "main_color": "#6633dd",
+        "event_click": {
+          "e_name": "单品列表_点击",
+          "router": "bb\/martshow\/home",
+          "tab": "v9_oversea",
+          "item_id": 28879205,
+          "position": 24
+        },
+        "nezha": {
+          "单品列表": {
+            "iid": 28879205,
+            "nz_block": "频道",
+            "nz_id": 44,
+            "nz_ver": "1.0.0",
+            "track_id": "1.4.118.0.13.23.44"
+          }
+        }
+      }]
+    }
+  }, {
+    "type": "type_home_item_double",
+    "type_home_item_double": {
+      "items": [{
+        "id": 200397973,
+        "iid": 28826190,
+        "product_id": 6301359,
+        "title": "【林允同款】泰国安娜贝拉海藻面膜 矿物精华深层补水保湿 10片\/盒",
+        "desc": null,
+        "country_circle_icon": "http:\/\/b0.hucdn.com\/img\/country_new\/default.png",
+        "country_name": "海外",
+        "img": "http:\/\/b1.hucdn.com\/upload\/item\/1806\/13\/55000671345962_800x800.jpg",
+        "event_id": 200397973,
+        "price": 5500,
+        "icon_promotions": [],
+        "sold_num": 73,
+        "buying_info": "73人已抢",
+        "target": "beibei:\/\/detail?iid=28826190&product_sale_num=73",
+        "sub_type": "oversea",
+        "main_color": "#6633dd",
+        "event_click": {
+          "e_name": "单品列表_点击",
+          "router": "bb\/martshow\/home",
+          "tab": "v9_oversea",
+          "item_id": 28826190,
+          "position": 25
+        },
+        "nezha": {
+          "单品列表": {
+            "iid": 28826190,
+            "nz_block": "频道",
+            "nz_id": 44,
+            "nz_ver": "1.0.0",
+            "track_id": "1.4.118.0.13.24.44"
+          }
+        }
+      }, {
+        "id": 200398082,
+        "iid": 28867805,
+        "product_id": 1957418,
+        "title": "白金婴幼儿配方奶粉2段900g*3【6-12个月】",
+        "desc": null,
+        "country_circle_icon": "http:\/\/b0.hucdn.com\/img\/country_new\/ct_41.png",
+        "country_name": "新西兰",
+        "img": "http:\/\/b1.hucdn.com\/upload\/item\/1703\/16\/29390965625245_800x800.jpg",
+        "event_id": 200398082,
+        "price": 63600,
+        "icon_promotions": [],
+        "sold_num": 1376,
+        "buying_info": "1376人已抢",
+        "target": "beibei:\/\/detail?iid=28867805&product_sale_num=1376",
+        "sub_type": "oversea",
+        "main_color": "#6633dd",
+        "event_click": {
+          "e_name": "单品列表_点击",
+          "router": "bb\/martshow\/home",
+          "tab": "v9_oversea",
+          "item_id": 28867805,
+          "position": 26
+        },
+        "nezha": {
+          "单品列表": {
+            "iid": 28867805,
+            "nz_block": "频道",
+            "nz_id": 44,
+            "nz_ver": "1.0.0",
+            "track_id": "1.4.118.0.13.25.44"
+          }
+        }
+      }]
+    }
+  }, {
+    "type": "type_home_item_double",
+    "type_home_item_double": {
+      "items": [{
+        "id": 200398132,
+        "iid": 28886706,
+        "product_id": 6886920,
+        "title": "好奇铂金装纸尿裤NB80 M76片",
+        "desc": null,
+        "country_circle_icon": "http:\/\/b0.hucdn.com\/img\/country_new\/ct_18.png",
+        "country_name": "韩国",
+        "img": "http:\/\/b1.hucdn.com\/upload\/item\/1807\/17\/22927271344174_800x800.jpg",
+        "event_id": 200398132,
+        "price": 5900,
+        "icon_promotions": [],
+        "sold_num": 78,
+        "buying_info": "78人已抢",
+        "target": "beibei:\/\/detail?iid=28886706&product_sale_num=78",
+        "sub_type": "oversea",
+        "main_color": "#6633dd",
+        "event_click": {
+          "e_name": "单品列表_点击",
+          "router": "bb\/martshow\/home",
+          "tab": "v9_oversea",
+          "item_id": 28886706,
+          "position": 27
+        },
+        "nezha": {
+          "单品列表": {
+            "iid": 28886706,
+            "nz_block": "频道",
+            "nz_id": 44,
+            "nz_ver": "1.0.0",
+            "track_id": "1.4.118.0.13.26.44"
+          }
+        }
+      }, {
+        "id": 200398107,
+        "iid": 28878752,
+        "product_id": 909031,
+        "title": "英国爱他美奶粉2段900g*3（6-12个月）",
+        "desc": null,
+        "country_circle_icon": "http:\/\/b0.hucdn.com\/img\/country_new\/ct_45.png",
+        "country_name": "英国",
+        "img": "http:\/\/b1.hucdn.com\/upload\/item\/1603\/18\/69482717388474_800x800.jpg",
+        "event_id": 200398107,
+        "price": 29500,
+        "icon_promotions": [],
+        "sold_num": 7171,
+        "buying_info": "7171人已抢",
+        "target": "beibei:\/\/detail?iid=28878752&product_sale_num=7171",
+        "sub_type": "oversea",
+        "main_color": "#6633dd",
+        "event_click": {
+          "e_name": "单品列表_点击",
+          "router": "bb\/martshow\/home",
+          "tab": "v9_oversea",
+          "item_id": 28878752,
+          "position": 28
+        },
+        "nezha": {
+          "单品列表": {
+            "iid": 28878752,
+            "nz_block": "频道",
+            "nz_id": 44,
+            "nz_ver": "1.0.0",
+            "track_id": "1.4.118.0.13.27.44"
+          }
+        }
+      }]
+    }
+  }, {
+    "type": "type_home_item_double",
+    "type_home_item_double": {
+      "items": [{
+        "id": 200398109,
+        "iid": 28878779,
+        "product_id": 1070643,
+        "title": "【效期至18年12月】德国白金爱他美Pre段 800g*2（0-6个月）",
+        "desc": null,
+        "country_circle_icon": "http:\/\/b0.hucdn.com\/img\/country_new\/ct_12.png",
+        "country_name": "德国",
+        "img": "http:\/\/b1.hucdn.com\/upload\/item\/1602\/23\/09978141628474_800x800.jpg",
+        "event_id": 200398109,
+        "price": 36800,
+        "icon_promotions": [{
+          "icon": "http:\/\/b1.hucdn.com\/upload\/item\/1804\/03\/43351572245899_90x90.png",
+          "icon_width": "90",
+          "icon_height": "90"
+        }],
+        "sold_num": 9635,
+        "buying_info": "9635人已抢",
+        "target": "beibei:\/\/detail?iid=28878779&product_sale_num=9635",
+        "sub_type": "oversea",
+        "main_color": "#6633dd",
+        "event_click": {
+          "e_name": "单品列表_点击",
+          "router": "bb\/martshow\/home",
+          "tab": "v9_oversea",
+          "item_id": 28878779,
+          "position": 29
+        },
+        "nezha": {
+          "单品列表": {
+            "iid": 28878779,
+            "nz_block": "频道",
+            "nz_id": 44,
+            "nz_ver": "1.0.0",
+            "track_id": "1.4.118.0.13.28.44"
+          }
+        }
+      }, {
+        "id": 200398122,
+        "iid": 28879285,
+        "product_id": 5786810,
+        "title": "纸尿裤 M80 3包装",
+        "desc": null,
+        "country_circle_icon": "http:\/\/b0.hucdn.com\/img\/country_new\/default.png",
+        "country_name": "海外",
+        "img": "http:\/\/b1.hucdn.com\/upload\/item\/1804\/25\/56883685578026_800x800.jpg",
+        "event_id": 200398122,
+        "price": 26800,
+        "icon_promotions": [],
+        "sold_num": 186,
+        "buying_info": "186人已抢",
+        "target": "beibei:\/\/detail?iid=28879285&product_sale_num=186",
+        "sub_type": "oversea",
+        "main_color": "#6633dd",
+        "event_click": {
+          "e_name": "单品列表_点击",
+          "router": "bb\/martshow\/home",
+          "tab": "v9_oversea",
+          "item_id": 28879285,
+          "position": 30
+        },
+        "nezha": {
+          "单品列表": {
+            "iid": 28879285,
+            "nz_block": "频道",
+            "nz_id": 44,
+            "nz_ver": "1.0.0",
+            "track_id": "1.4.118.0.13.29.44"
+          }
+        }
+      }]
+    }
+  }, {
+    "type": "type_home_item_double",
+    "type_home_item_double": {
+      "items": [{
+        "id": 200398123,
+        "iid": 28879344,
+        "product_id": 1008941,
+        "title": "纸尿裤 L54 4包装",
+        "desc": null,
+        "country_circle_icon": "http:\/\/b0.hucdn.com\/img\/country_new\/default.png",
+        "country_name": "海外",
+        "img": "http:\/\/b1.hucdn.com\/upload\/item\/1611\/09\/75471611358474_800x800.jpg",
+        "event_id": 200398123,
+        "price": 28900,
+        "icon_promotions": [],
+        "sold_num": 15729,
+        "buying_info": "15729人已抢",
+        "target": "beibei:\/\/detail?iid=28879344&product_sale_num=15729",
+        "sub_type": "oversea",
+        "main_color": "#6633dd",
+        "event_click": {
+          "e_name": "单品列表_点击",
+          "router": "bb\/martshow\/home",
+          "tab": "v9_oversea",
+          "item_id": 28879344,
+          "position": 31
+        },
+        "nezha": {
+          "单品列表": {
+            "iid": 28879344,
+            "nz_block": "频道",
+            "nz_id": 44,
+            "nz_ver": "1.0.0",
+            "track_id": "1.4.118.0.13.30.44"
+          }
+        }
+      }, {
+        "id": 200397957,
+        "iid": 28822802,
+        "product_id": 4526910,
+        "title": "好奇铂金装纸尿裤NB80",
+        "desc": null,
+        "country_circle_icon": "http:\/\/b0.hucdn.com\/img\/country_new\/ct_18.png",
+        "country_name": "韩国",
+        "img": "http:\/\/b1.hucdn.com\/upload\/item\/1711\/01\/19922094081965_800x800.jpg",
+        "event_id": 200397957,
+        "price": 6700,
+        "icon_promotions": [],
+        "sold_num": 714,
+        "buying_info": "714人已抢",
+        "target": "beibei:\/\/detail?iid=28822802&product_sale_num=714",
+        "sub_type": "oversea",
+        "main_color": "#6633dd",
+        "event_click": {
+          "e_name": "单品列表_点击",
+          "router": "bb\/martshow\/home",
+          "tab": "v9_oversea",
+          "item_id": 28822802,
+          "position": 32
+        },
+        "nezha": {
+          "单品列表": {
+            "iid": 28822802,
+            "nz_block": "频道",
+            "nz_id": 44,
+            "nz_ver": "1.0.0",
+            "track_id": "1.4.118.0.13.31.44"
+          }
+        }
+      }]
+    }
+  }, {
+    "type": "type_home_item_double",
+    "type_home_item_double": {
+      "items": [{
+        "id": 200398114,
+        "iid": 28878856,
+        "product_id": 818771,
+        "title": "【效期至18年12月】荷兰牛栏婴儿奶粉1段 850g（0-6个月）",
+        "desc": null,
+        "country_circle_icon": "http:\/\/b0.hucdn.com\/img\/country_new\/ct_19.png",
+        "country_name": "荷兰",
+        "img": "http:\/\/b1.hucdn.com\/upload\/item\/1610\/20\/55682519648474_800x800.jpg",
+        "event_id": 200398114,
+        "price": 12900,
+        "icon_promotions": [{
+          "icon": "http:\/\/b1.hucdn.com\/upload\/item\/1807\/03\/85407169205899_60x30.png",
+          "icon_width": "60",
+          "icon_height": "30"
+        }],
+        "sold_num": 19438,
+        "buying_info": "19438人已抢",
+        "target": "beibei:\/\/detail?iid=28878856&product_sale_num=19438",
+        "sub_type": "oversea",
+        "main_color": "#6633dd",
+        "event_click": {
+          "e_name": "单品列表_点击",
+          "router": "bb\/martshow\/home",
+          "tab": "v9_oversea",
+          "item_id": 28878856,
+          "position": 33
+        },
+        "nezha": {
+          "单品列表": {
+            "iid": 28878856,
+            "nz_block": "频道",
+            "nz_id": 44,
+            "nz_ver": "1.0.0",
+            "track_id": "1.4.118.0.13.32.44"
+          }
+        }
+      }, {
+        "id": 200397993,
+        "iid": 28837655,
+        "product_id": 2270895,
+        "title": "【买就送替换芯】爱敬 AGE20S 精华气垫BB霜粉底膏",
+        "desc": null,
+        "country_circle_icon": "http:\/\/b0.hucdn.com\/img\/country_new\/ct_18.png",
+        "country_name": "韩国",
+        "img": "http:\/\/b1.hucdn.com\/upload\/item\/1703\/01\/41674537966244_800x800.jpg",
+        "event_id": 200397993,
+        "price": 15800,
+        "icon_promotions": [],
+        "sold_num": 1776,
+        "buying_info": "1776人已抢",
+        "target": "beibei:\/\/detail?iid=28837655&product_sale_num=1776",
+        "sub_type": "oversea",
+        "main_color": "#6633dd",
+        "event_click": {
+          "e_name": "单品列表_点击",
+          "router": "bb\/martshow\/home",
+          "tab": "v9_oversea",
+          "item_id": 28837655,
+          "position": 34
+        },
+        "nezha": {
+          "单品列表": {
+            "iid": 28837655,
+            "nz_block": "频道",
+            "nz_id": 44,
+            "nz_ver": "1.0.0",
+            "track_id": "1.4.118.0.13.33.44"
+          }
+        }
+      }]
+    }
+  }, {
+    "type": "type_home_item_double",
+    "type_home_item_double": {
+      "items": [{
+        "id": 200398110,
+        "iid": 28878791,
+        "product_id": 1070652,
+        "title": "【效期至18年12月】德国白金爱他美1段 800g*2（0-6个月）",
+        "desc": null,
+        "country_circle_icon": "http:\/\/b0.hucdn.com\/img\/country_new\/ct_12.png",
+        "country_name": "德国",
+        "img": "http:\/\/b1.hucdn.com\/upload\/item\/1602\/23\/10273901518474_800x800.jpg",
+        "event_id": 200398110,
+        "price": 33900,
+        "icon_promotions": [],
+        "sold_num": 9030,
+        "buying_info": "9030人已抢",
+        "target": "beibei:\/\/detail?iid=28878791&product_sale_num=9030",
+        "sub_type": "oversea",
+        "main_color": "#6633dd",
+        "event_click": {
+          "e_name": "单品列表_点击",
+          "router": "bb\/martshow\/home",
+          "tab": "v9_oversea",
+          "item_id": 28878791,
+          "position": 35
+        },
+        "nezha": {
+          "单品列表": {
+            "iid": 28878791,
+            "nz_block": "频道",
+            "nz_id": 44,
+            "nz_ver": "1.0.0",
+            "track_id": "1.4.118.0.13.34.44"
+          }
+        }
+      }, {
+        "id": 200397770,
+        "iid": 28763109,
+        "product_id": 1583856,
+        "title": "童年时光宝宝维生素C",
+        "desc": null,
+        "country_circle_icon": "http:\/\/b0.hucdn.com\/img\/country_new\/default.png",
+        "country_name": "海外",
+        "img": "http:\/\/b1.hucdn.com\/upload\/item\/1709\/12\/31245197270237_800x800.jpg",
+        "event_id": 200397770,
+        "price": 10400,
+        "icon_promotions": [],
+        "sold_num": 4626,
+        "buying_info": "4626人已抢",
+        "target": "beibei:\/\/detail?iid=28763109&product_sale_num=4626",
+        "sub_type": "oversea",
+        "main_color": "#6633dd",
+        "event_click": {
+          "e_name": "单品列表_点击",
+          "router": "bb\/martshow\/home",
+          "tab": "v9_oversea",
+          "item_id": 28763109,
+          "position": 36
+        },
+        "nezha": {
+          "单品列表": {
+            "iid": 28763109,
+            "nz_block": "频道",
+            "nz_id": 44,
+            "nz_ver": "1.0.0",
+            "track_id": "1.4.118.0.13.35.44"
+          }
+        }
+      }]
+    }
+  }, {
+    "type": "type_home_item_double",
+    "type_home_item_double": {
+      "items": [{
+        "id": 200397958,
+        "iid": 28822818,
+        "product_id": 4527294,
+        "title": "好奇铂金装纸尿裤M72",
+        "desc": null,
+        "country_circle_icon": "http:\/\/b0.hucdn.com\/img\/country_new\/ct_18.png",
+        "country_name": "韩国",
+        "img": "http:\/\/b1.hucdn.com\/upload\/item\/1711\/01\/21766782251965_800x800.jpg",
+        "event_id": 200397958,
+        "price": 8700,
+        "icon_promotions": [],
+        "sold_num": 3228,
+        "buying_info": "3228人已抢",
+        "target": "beibei:\/\/detail?iid=28822818&product_sale_num=3228",
+        "sub_type": "oversea",
+        "main_color": "#6633dd",
+        "event_click": {
+          "e_name": "单品列表_点击",
+          "router": "bb\/martshow\/home",
+          "tab": "v9_oversea",
+          "item_id": 28822818,
+          "position": 37
+        },
+        "nezha": {
+          "单品列表": {
+            "iid": 28822818,
+            "nz_block": "频道",
+            "nz_id": 44,
+            "nz_ver": "1.0.0",
+            "track_id": "1.4.118.0.13.36.44"
+          }
+        }
+      }, {
+        "id": 200398137,
+        "iid": 28887057,
+        "product_id": 837453,
+        "title": "英国牛栏奶粉3段 900g",
+        "desc": null,
+        "country_circle_icon": "http:\/\/b0.hucdn.com\/img\/country_new\/ct_45.png",
+        "country_name": "英国",
+        "img": "http:\/\/b1.hucdn.com\/upload\/item\/1703\/07\/91066448395245_800x800.jpg",
+        "event_id": 200398137,
+        "price": 10500,
+        "icon_promotions": [],
+        "sold_num": 3326,
+        "buying_info": "3326人已抢",
+        "target": "beibei:\/\/detail?iid=28887057&product_sale_num=3326",
+        "sub_type": "oversea",
+        "main_color": "#6633dd",
+        "event_click": {
+          "e_name": "单品列表_点击",
+          "router": "bb\/martshow\/home",
+          "tab": "v9_oversea",
+          "item_id": 28887057,
+          "position": 38
+        },
+        "nezha": {
+          "单品列表": {
+            "iid": 28887057,
+            "nz_block": "频道",
+            "nz_id": 44,
+            "nz_ver": "1.0.0",
+            "track_id": "1.4.118.0.13.37.44"
+          }
+        }
+      }]
+    }
+  }, {
+    "type": "type_home_item_double",
+    "type_home_item_double": {
+      "items": [{
+        "id": 200398094,
+        "iid": 28877356,
+        "product_id": 1127266,
+        "title": "德国喜宝益生菌奶粉 1至2周岁",
+        "desc": null,
+        "country_circle_icon": "http:\/\/b0.hucdn.com\/img\/country_new\/ct_12.png",
+        "country_name": "德国",
+        "img": "http:\/\/b1.hucdn.com\/upload\/item\/1610\/21\/38908715778474_800x800.jpg",
+        "event_id": 200398094,
+        "price": 9900,
+        "icon_promotions": [],
+        "sold_num": 2580,
+        "buying_info": "2580人已抢",
+        "target": "beibei:\/\/detail?iid=28877356&product_sale_num=2580",
+        "sub_type": "oversea",
+        "main_color": "#6633dd",
+        "event_click": {
+          "e_name": "单品列表_点击",
+          "router": "bb\/martshow\/home",
+          "tab": "v9_oversea",
+          "item_id": 28877356,
+          "position": 39
+        },
+        "nezha": {
+          "单品列表": {
+            "iid": 28877356,
+            "nz_block": "频道",
+            "nz_id": 44,
+            "nz_ver": "1.0.0",
+            "track_id": "1.4.118.0.13.38.44"
+          }
+        }
+      }, {
+        "id": 200396896,
+        "iid": 28475574,
+        "product_id": 1057699,
+        "title": "【79元任选3件】菊花茶  200g\/罐",
+        "desc": null,
+        "country_circle_icon": "http:\/\/b0.hucdn.com\/img\/country_new\/ct_43.png",
+        "country_name": "意大利",
+        "img": "http:\/\/b1.hucdn.com\/upload\/item\/1704\/12\/76125418451876_800x800.jpg",
+        "event_id": 200396896,
+        "price": 4200,
+        "icon_promotions": [{
+          "icon": "http:\/\/b1.hucdn.com\/upload\/item\/1804\/12\/22872410055247_70x78.png",
+          "icon_width": "70",
+          "icon_height": "78"
+        }],
+        "sold_num": 2311,
+        "buying_info": "2311人已抢",
+        "target": "beibei:\/\/detail?iid=28475574&product_sale_num=2311",
+        "sub_type": "oversea",
+        "main_color": "#6633dd",
+        "event_click": {
+          "e_name": "单品列表_点击",
+          "router": "bb\/martshow\/home",
+          "tab": "v9_oversea",
+          "item_id": 28475574,
+          "position": 40
+        },
+        "nezha": {
+          "单品列表": {
+            "iid": 28475574,
+            "nz_block": "频道",
+            "nz_id": 44,
+            "nz_ver": "1.0.0",
+            "track_id": "1.4.118.0.13.39.44"
+          }
+        }
+      }]
+    }
+  }]
+}

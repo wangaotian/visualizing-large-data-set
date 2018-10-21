@@ -1,0 +1,86 @@
+{
+    "name": "北京时间",
+    "children": [
+        {
+            "name": "北京时间网",
+            "collapsed": true,
+            "children": [
+                {
+                    "name": "中国宁波网",
+                    "collapsed": true,
+                    "children": [
+                        {
+                            "name": "山西网",
+                            "collapsed": true,
+                            "children": [
+                                {
+                                    "name": "晋城网",
+                                    "children": [
+                                        {
+                                            "name": "高平网",
+                                            "children":[
+                                                {
+                                                    "name":"三甲镇网"
+                                                }
+                                            ]
+
+                                        }, {
+                                            "name": "阳城网",
+                                            "children":[
+                                                {
+                                                    "name":"蟒河"
+                                                }
+                                            ]
+
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "太原网",
+                                    "children": [
+                                        {
+                                            "name": "万柏林区"
+                                        },
+                                        {
+                                            "name": "小店区"
+                                        },
+                                        {
+                                            "name": "杏花岭区"
+                                        },
+                                        {
+                                            "name": "尖草坪区"
+                                        },
+                                        {
+                                            "name": "迎泽区"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "人民网",
+                    "collapsed": true,
+                    "children": []
+                }
+            ]
+        },
+        {
+            "name": "中国信息网",
+            "collapsed": true,
+            "children": [
+                {
+                    "name": "中国宁波网",
+                    "collapsed": true,
+                    "children": []
+                },
+                {
+                    "name": "人民网",
+                    "collapsed": true,
+                    "children": []
+                }
+            ]
+        }
+    ]
+}

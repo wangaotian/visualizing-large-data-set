@@ -1,0 +1,717 @@
+{
+  "page": 2,
+  "page_size": 20,
+  "martshows": [{
+    "type": "type_home_item_double",
+    "type_home_item_double": {
+      "items": [{
+        "iid": 28903116,
+        "event_id": 106094031,
+        "title": "【加量不加价】One leaf\/一叶子 樱花玫瑰补水面膜 30片 补水保湿提亮",
+        "product_id": 2638851,
+        "square_img": "http:\/\/b1.hucdn.com\/upload\/item\/1712\/19\/69615932924501_800x800.jpg",
+        "white_bg_img": "http:\/\/b1.hucdn.com\/upload\/item\/1712\/19\/69615932924501_800x800.jpg",
+        "img": "http:\/\/b1.hucdn.com\/upload\/item\/1712\/19\/69615932924501_800x800.jpg",
+        "country_circle_icon": "",
+        "uid": 35784501,
+        "notify_class_id": "mart_home",
+        "stock": null,
+        "main_color": "#ff4965",
+        "price": 10500,
+        "origin_price": null,
+        "ext": "立即抢",
+        "buying_info": "5081人已抢",
+        "sale_num": 5081,
+        "target": "beibei:\/\/detail?iid=28903116&product_sale_num=5081&scene_tag=home",
+        "notify_target": "beibei:\/\/detail?iid=28903116&product_sale_num=5081&scene_tag=home",
+        "scene_tag": "home",
+        "group_avatars": [],
+        "icon_promotions": [],
+        "item_track_data": "",
+        "nezha": {
+          "单品列表": {
+            "iid": 28903116,
+            "nz_block": "频道",
+            "nz_id": 44,
+            "nz_ver": "1.0.0",
+            "track_id": "1.4.118.22.13.20.44"
+          }
+        }
+      }, {
+        "iid": 28794766,
+        "event_id": 106063362,
+        "title": "【镇店之宝】膜法世家绿豆泥面膜145g美白提亮肤色清洁毛孔泥膜官方正品男女",
+        "product_id": 745599,
+        "square_img": "http:\/\/b1.hucdn.com\/upload\/item\/1807\/09\/27282498437237_800x800.jpg",
+        "white_bg_img": "http:\/\/b1.hucdn.com\/upload\/item\/1807\/09\/27282498437237_800x800.jpg",
+        "img": "http:\/\/b1.hucdn.com\/upload\/item\/1807\/09\/27282498437237_800x800.jpg",
+        "country_circle_icon": "",
+        "uid": 17927237,
+        "notify_class_id": "mart_home",
+        "stock": null,
+        "main_color": "#ff4965",
+        "price": 5900,
+        "origin_price": null,
+        "ext": "立即抢",
+        "buying_info": "4791人已抢",
+        "sale_num": 4791,
+        "target": "beibei:\/\/detail?iid=28794766&product_sale_num=4791&scene_tag=home",
+        "notify_target": "beibei:\/\/detail?iid=28794766&product_sale_num=4791&scene_tag=home",
+        "scene_tag": "home",
+        "group_avatars": [],
+        "icon_promotions": [],
+        "item_track_data": "",
+        "nezha": {
+          "单品列表": {
+            "iid": 28794766,
+            "nz_block": "频道",
+            "nz_id": 44,
+            "nz_ver": "1.0.0",
+            "track_id": "1.4.118.22.13.21.44"
+          }
+        }
+      }]
+    }
+  }, {
+    "type": "type_home_item_double",
+    "type_home_item_double": {
+      "items": [{
+        "iid": 28807738,
+        "event_id": 106066917,
+        "title": "【30片装】碧素堂深海藻补水美白保湿蜗牛面膜贴淡斑祛黄控油收缩毛孔面膜",
+        "product_id": 2123078,
+        "square_img": "http:\/\/b1.hucdn.com\/upload\/item\/1803\/14\/31897712860009_800x800.jpg",
+        "white_bg_img": "http:\/\/b1.hucdn.com\/upload\/item\/1803\/14\/31897712860009_800x800.jpg",
+        "img": "http:\/\/b1.hucdn.com\/upload\/item\/1803\/14\/31897712860009_800x800.jpg",
+        "country_circle_icon": "",
+        "uid": 35020009,
+        "notify_class_id": "mart_home",
+        "stock": null,
+        "main_color": "#ff4965",
+        "price": 1990,
+        "origin_price": null,
+        "ext": "立即抢",
+        "buying_info": "32033人已抢",
+        "sale_num": 32033,
+        "target": "beibei:\/\/detail?iid=28807738&product_sale_num=32033&scene_tag=home",
+        "notify_target": "beibei:\/\/detail?iid=28807738&product_sale_num=32033&scene_tag=home",
+        "scene_tag": "home",
+        "group_avatars": [],
+        "icon_promotions": [],
+        "item_track_data": "",
+        "nezha": {
+          "单品列表": {
+            "iid": 28807738,
+            "nz_block": "频道",
+            "nz_id": 44,
+            "nz_ver": "1.0.0",
+            "track_id": "1.4.118.22.13.22.44"
+          }
+        }
+      }, {
+        "iid": 28802930,
+        "event_id": 106065622,
+        "title": "嗨购撕拉面膜150g 深层清洁补水去黑头白头粉刺收缩毛孔男女",
+        "product_id": 5129143,
+        "square_img": "http:\/\/b1.hucdn.com\/upload\/item\/1805\/19\/28846635438321_800x800.jpg",
+        "white_bg_img": "http:\/\/b1.hucdn.com\/upload\/item\/1805\/19\/28846635438321_800x800.jpg",
+        "img": "http:\/\/b1.hucdn.com\/upload\/item\/1805\/19\/28846635438321_800x800.jpg",
+        "country_circle_icon": "",
+        "uid": 47998321,
+        "notify_class_id": "mart_home",
+        "stock": null,
+        "main_color": "#ff4965",
+        "price": 1990,
+        "origin_price": null,
+        "ext": "立即抢",
+        "buying_info": "3382人已抢",
+        "sale_num": 3382,
+        "target": "beibei:\/\/detail?iid=28802930&product_sale_num=3382&scene_tag=home",
+        "notify_target": "beibei:\/\/detail?iid=28802930&product_sale_num=3382&scene_tag=home",
+        "scene_tag": "home",
+        "group_avatars": [],
+        "icon_promotions": [],
+        "item_track_data": "",
+        "nezha": {
+          "单品列表": {
+            "iid": 28802930,
+            "nz_block": "频道",
+            "nz_id": 44,
+            "nz_ver": "1.0.0",
+            "track_id": "1.4.118.22.13.23.44"
+          }
+        }
+      }]
+    }
+  }, {
+    "type": "type_home_item_double",
+    "type_home_item_double": {
+      "items": [{
+        "iid": 28727574,
+        "event_id": 106056635,
+        "title": "【加送110ml】 阿道夫 控油去屑香水洗发水420gx2瓶",
+        "product_id": 3383387,
+        "square_img": "http:\/\/b1.hucdn.com\/upload\/item\/1807\/21\/67109015390339_800x800.jpg",
+        "white_bg_img": "http:\/\/b1.hucdn.com\/upload\/item\/1807\/21\/67109015390339_800x800.jpg",
+        "img": "http:\/\/b1.hucdn.com\/upload\/item\/1807\/21\/67109015390339_800x800.jpg",
+        "country_circle_icon": "",
+        "uid": 34940339,
+        "notify_class_id": "mart_home",
+        "stock": null,
+        "main_color": "#ff4965",
+        "price": 6800,
+        "origin_price": null,
+        "ext": "立即抢",
+        "buying_info": "6285人已抢",
+        "sale_num": 6285,
+        "target": "beibei:\/\/detail?iid=28727574&product_sale_num=6285&scene_tag=home",
+        "notify_target": "beibei:\/\/detail?iid=28727574&product_sale_num=6285&scene_tag=home",
+        "scene_tag": "home",
+        "group_avatars": [],
+        "icon_promotions": [],
+        "item_track_data": "",
+        "nezha": {
+          "单品列表": {
+            "iid": 28727574,
+            "nz_block": "频道",
+            "nz_id": 44,
+            "nz_ver": "1.0.0",
+            "track_id": "1.4.118.22.13.24.44"
+          }
+        }
+      }, {
+        "iid": 28753094,
+        "event_id": 106060036,
+        "title": "御泥坊玫瑰清爽洁面乳共2支 补水保湿 清爽控油清洁",
+        "product_id": 1566714,
+        "square_img": "http:\/\/b1.hucdn.com\/upload\/item\/1804\/02\/70518198654505_1000x1000.jpg",
+        "white_bg_img": "http:\/\/b1.hucdn.com\/upload\/item\/1804\/02\/70518198654505_1000x1000.jpg",
+        "img": "http:\/\/b1.hucdn.com\/upload\/item\/1804\/02\/70518198654505_1000x1000.jpg",
+        "country_circle_icon": "",
+        "uid": 21474505,
+        "notify_class_id": "mart_home",
+        "stock": null,
+        "main_color": "#ff4965",
+        "price": 2990,
+        "origin_price": null,
+        "ext": "立即抢",
+        "buying_info": "21796人已抢",
+        "sale_num": 21796,
+        "target": "beibei:\/\/detail?iid=28753094&product_sale_num=21796&scene_tag=home",
+        "notify_target": "beibei:\/\/detail?iid=28753094&product_sale_num=21796&scene_tag=home",
+        "scene_tag": "home",
+        "group_avatars": [],
+        "icon_promotions": [],
+        "item_track_data": "",
+        "nezha": {
+          "单品列表": {
+            "iid": 28753094,
+            "nz_block": "频道",
+            "nz_id": 44,
+            "nz_ver": "1.0.0",
+            "track_id": "1.4.118.22.13.25.44"
+          }
+        }
+      }]
+    }
+  }, {
+    "type": "type_home_item_double",
+    "type_home_item_double": {
+      "items": [{
+        "iid": 28779110,
+        "event_id": 106062068,
+        "title": "【从A到D 买2送1 美乳塑胸型】美康粉黛美爱斯塑胸霜安全不反弹见效快",
+        "product_id": 1219096,
+        "square_img": "http:\/\/b1.hucdn.com\/upload\/item\/1711\/28\/34916980757931_800x800.jpg",
+        "white_bg_img": "http:\/\/b1.hucdn.com\/upload\/item\/1711\/28\/34916980757931_800x800.jpg",
+        "img": "http:\/\/b1.hucdn.com\/upload\/item\/1711\/28\/34916980757931_800x800.jpg",
+        "country_circle_icon": "",
+        "uid": 25317931,
+        "notify_class_id": "mart_home",
+        "stock": null,
+        "main_color": "#ff4965",
+        "price": 2590,
+        "origin_price": null,
+        "ext": "立即抢",
+        "buying_info": "23873人已抢",
+        "sale_num": 23873,
+        "target": "beibei:\/\/detail?iid=28779110&product_sale_num=23873&scene_tag=home",
+        "notify_target": "beibei:\/\/detail?iid=28779110&product_sale_num=23873&scene_tag=home",
+        "scene_tag": "home",
+        "group_avatars": [],
+        "icon_promotions": [],
+        "item_track_data": "",
+        "nezha": {
+          "单品列表": {
+            "iid": 28779110,
+            "nz_block": "频道",
+            "nz_id": 44,
+            "nz_ver": "1.0.0",
+            "track_id": "1.4.118.22.13.26.44"
+          }
+        }
+      }, {
+        "iid": 28762447,
+        "event_id": 106060883,
+        "title": "【买一送十】碧素堂婴儿肌珍珠护肤美白补水保湿套装补水套装护肤品护肤套装",
+        "product_id": 1792155,
+        "square_img": "http:\/\/b1.hucdn.com\/upload\/item\/1803\/20\/14333404962935_800x800.jpg",
+        "white_bg_img": "http:\/\/b1.hucdn.com\/upload\/item\/1803\/20\/14333404962935_800x800.jpg",
+        "img": "http:\/\/b1.hucdn.com\/upload\/item\/1803\/20\/14333404962935_800x800.jpg",
+        "country_circle_icon": "",
+        "uid": 35020009,
+        "notify_class_id": "mart_home",
+        "stock": null,
+        "main_color": "#ff4965",
+        "price": 3990,
+        "origin_price": null,
+        "ext": "立即抢",
+        "buying_info": "12157人已抢",
+        "sale_num": 12157,
+        "target": "beibei:\/\/detail?iid=28762447&product_sale_num=12157&scene_tag=home",
+        "notify_target": "beibei:\/\/detail?iid=28762447&product_sale_num=12157&scene_tag=home",
+        "scene_tag": "home",
+        "group_avatars": [],
+        "icon_promotions": [],
+        "item_track_data": "",
+        "nezha": {
+          "单品列表": {
+            "iid": 28762447,
+            "nz_block": "频道",
+            "nz_id": 44,
+            "nz_ver": "1.0.0",
+            "track_id": "1.4.118.22.13.27.44"
+          }
+        }
+      }]
+    }
+  }, {
+    "type": "type_home_item_double",
+    "type_home_item_double": {
+      "items": [{
+        "iid": 28839917,
+        "event_id": 106078126,
+        "title": "【全包围6包12条】苏菲卫生巾安心裤M尺码夜用加长腰围80~95cm棉柔",
+        "product_id": 1151464,
+        "square_img": "http:\/\/b1.hucdn.com\/upload\/item\/1806\/29\/51377407165966_800x800.jpg",
+        "white_bg_img": "http:\/\/b1.hucdn.com\/upload\/item\/1806\/29\/51377407165966_800x800.jpg",
+        "img": "http:\/\/b1.hucdn.com\/upload\/item\/1806\/29\/51377407165966_800x800.jpg",
+        "country_circle_icon": "",
+        "uid": 8435966,
+        "notify_class_id": "mart_home",
+        "stock": null,
+        "main_color": "#ff4965",
+        "price": 4990,
+        "origin_price": null,
+        "ext": "立即抢",
+        "buying_info": "5089人已抢",
+        "sale_num": 5089,
+        "target": "beibei:\/\/detail?iid=28839917&product_sale_num=5089&scene_tag=home",
+        "notify_target": "beibei:\/\/detail?iid=28839917&product_sale_num=5089&scene_tag=home",
+        "scene_tag": "home",
+        "group_avatars": [],
+        "icon_promotions": [],
+        "item_track_data": "",
+        "nezha": {
+          "单品列表": {
+            "iid": 28839917,
+            "nz_block": "频道",
+            "nz_id": 44,
+            "nz_ver": "1.0.0",
+            "track_id": "1.4.118.22.13.28.44"
+          }
+        }
+      }, {
+        "iid": 28794508,
+        "event_id": 106063276,
+        "title": "【领券减13元】阿道夫去屑止痒控油洗发水248ml+护发素248ml",
+        "product_id": 3180376,
+        "square_img": "http:\/\/b1.hucdn.com\/upload\/item\/1806\/08\/42728729680339_800x800.jpg",
+        "white_bg_img": "http:\/\/b1.hucdn.com\/upload\/item\/1806\/08\/42728729680339_800x800.jpg",
+        "img": "http:\/\/b1.hucdn.com\/upload\/item\/1806\/08\/42728729680339_800x800.jpg",
+        "country_circle_icon": "",
+        "uid": 34940339,
+        "notify_class_id": "mart_home",
+        "stock": null,
+        "main_color": "#ff4965",
+        "price": 6200,
+        "origin_price": null,
+        "ext": "立即抢",
+        "buying_info": "4498人已抢",
+        "sale_num": 4498,
+        "target": "beibei:\/\/detail?iid=28794508&product_sale_num=4498&scene_tag=home",
+        "notify_target": "beibei:\/\/detail?iid=28794508&product_sale_num=4498&scene_tag=home",
+        "scene_tag": "home",
+        "group_avatars": [],
+        "icon_promotions": [],
+        "item_track_data": "",
+        "nezha": {
+          "单品列表": {
+            "iid": 28794508,
+            "nz_block": "频道",
+            "nz_id": 44,
+            "nz_ver": "1.0.0",
+            "track_id": "1.4.118.22.13.29.44"
+          }
+        }
+      }]
+    }
+  }, {
+    "type": "type_home_item_double",
+    "type_home_item_double": {
+      "items": [{
+        "iid": 28855386,
+        "event_id": 106086415,
+        "title": "【一次带走9件】舒客超值套装8支1040g美白防蛀清新口气木糖醇固齿维C健康牙龈",
+        "product_id": 5583364,
+        "square_img": "http:\/\/b1.hucdn.com\/upload\/item\/1712\/06\/52204529730020_800x800.jpg",
+        "white_bg_img": "http:\/\/b1.hucdn.com\/upload\/item\/1712\/06\/52204529730020_800x800.jpg",
+        "img": "http:\/\/b1.hucdn.com\/upload\/item\/1712\/06\/52204529730020_800x800.jpg",
+        "country_circle_icon": "",
+        "uid": 24360020,
+        "notify_class_id": "mart_home",
+        "stock": null,
+        "main_color": "#ff4965",
+        "price": 3690,
+        "origin_price": null,
+        "ext": "立即抢",
+        "buying_info": "598人已抢",
+        "sale_num": 598,
+        "target": "beibei:\/\/detail?iid=28855386&product_sale_num=598&scene_tag=home",
+        "notify_target": "beibei:\/\/detail?iid=28855386&product_sale_num=598&scene_tag=home",
+        "scene_tag": "home",
+        "group_avatars": [],
+        "icon_promotions": [],
+        "item_track_data": "",
+        "nezha": {
+          "单品列表": {
+            "iid": 28855386,
+            "nz_block": "频道",
+            "nz_id": 44,
+            "nz_ver": "1.0.0",
+            "track_id": "1.4.118.22.13.30.44"
+          }
+        }
+      }, {
+        "iid": 28747223,
+        "event_id": 106059140,
+        "title": "韩国爱敬age20s气垫bb水粉霜水光精华保湿遮瑕粉底膏送替换",
+        "product_id": 3628370,
+        "square_img": "http:\/\/b1.hucdn.com\/upload\/item\/1804\/01\/82232960084280_800x800.jpg",
+        "white_bg_img": "http:\/\/b1.hucdn.com\/upload\/item\/1804\/01\/82232960084280_800x800.jpg",
+        "img": "http:\/\/b1.hucdn.com\/upload\/item\/1804\/01\/82232960084280_800x800.jpg",
+        "country_circle_icon": "",
+        "uid": 46784280,
+        "notify_class_id": "mart_home",
+        "stock": null,
+        "main_color": "#ff4965",
+        "price": 15800,
+        "origin_price": null,
+        "ext": "立即抢",
+        "buying_info": "1199人已抢",
+        "sale_num": 1199,
+        "target": "beibei:\/\/detail?iid=28747223&product_sale_num=1199&scene_tag=home",
+        "notify_target": "beibei:\/\/detail?iid=28747223&product_sale_num=1199&scene_tag=home",
+        "scene_tag": "home",
+        "group_avatars": [],
+        "icon_promotions": [],
+        "item_track_data": "",
+        "nezha": {
+          "单品列表": {
+            "iid": 28747223,
+            "nz_block": "频道",
+            "nz_id": 44,
+            "nz_ver": "1.0.0",
+            "track_id": "1.4.118.22.13.31.44"
+          }
+        }
+      }]
+    }
+  }, {
+    "type": "type_home_item_double",
+    "type_home_item_double": {
+      "items": [{
+        "iid": 28886806,
+        "event_id": 106092544,
+        "title": "【领券立减10元 买一送5】子初 孕妇护肤品海洋臻萃三件套 洗面奶+爽肤水+乳液",
+        "product_id": 5081504,
+        "square_img": "http:\/\/b1.hucdn.com\/upload\/item\/1807\/09\/04582844151357_800x800.jpg",
+        "white_bg_img": "http:\/\/b1.hucdn.com\/upload\/item\/1807\/09\/04582844151357_800x800.jpg",
+        "img": "http:\/\/b1.hucdn.com\/upload\/item\/1807\/09\/04582844151357_800x800.jpg",
+        "country_circle_icon": "",
+        "uid": 65981357,
+        "notify_class_id": "mart_home",
+        "stock": null,
+        "main_color": "#ff4965",
+        "price": 10900,
+        "origin_price": null,
+        "ext": "立即抢",
+        "buying_info": "956人已抢",
+        "sale_num": 956,
+        "target": "beibei:\/\/detail?iid=28886806&product_sale_num=956&scene_tag=home",
+        "notify_target": "beibei:\/\/detail?iid=28886806&product_sale_num=956&scene_tag=home",
+        "scene_tag": "home",
+        "group_avatars": [],
+        "icon_promotions": [],
+        "item_track_data": "",
+        "nezha": {
+          "单品列表": {
+            "iid": 28886806,
+            "nz_block": "频道",
+            "nz_id": 44,
+            "nz_ver": "1.0.0",
+            "track_id": "1.4.118.22.13.32.44"
+          }
+        }
+      }, {
+        "iid": 28857293,
+        "event_id": 106087116,
+        "title": "[送迷你口红]卡姿兰金致胶原美芯唇膏口红3.4g",
+        "product_id": 2352524,
+        "square_img": "http:\/\/b1.hucdn.com\/upload\/item\/1806\/12\/73419547429178_800x800.jpg",
+        "white_bg_img": "http:\/\/b1.hucdn.com\/upload\/item\/1806\/12\/73419547429178_800x800.jpg",
+        "img": "http:\/\/b1.hucdn.com\/upload\/item\/1806\/12\/73419547429178_800x800.jpg",
+        "country_circle_icon": "",
+        "uid": 24299178,
+        "notify_class_id": "mart_home",
+        "stock": null,
+        "main_color": "#ff4965",
+        "price": 6900,
+        "origin_price": null,
+        "ext": "立即抢",
+        "buying_info": "3439人已抢",
+        "sale_num": 3439,
+        "target": "beibei:\/\/detail?iid=28857293&product_sale_num=3439&scene_tag=home",
+        "notify_target": "beibei:\/\/detail?iid=28857293&product_sale_num=3439&scene_tag=home",
+        "scene_tag": "home",
+        "group_avatars": [],
+        "icon_promotions": [],
+        "item_track_data": "",
+        "nezha": {
+          "单品列表": {
+            "iid": 28857293,
+            "nz_block": "频道",
+            "nz_id": 44,
+            "nz_ver": "1.0.0",
+            "track_id": "1.4.118.22.13.33.44"
+          }
+        }
+      }]
+    }
+  }, {
+    "type": "type_home_item_double",
+    "type_home_item_double": {
+      "items": [{
+        "iid": 28760379,
+        "event_id": 106060725,
+        "title": "【超值71片】ABC卫生巾棉柔日用240+夜用323+迷你+护垫共9包",
+        "product_id": 2196009,
+        "square_img": "http:\/\/b1.hucdn.com\/upload\/item\/1708\/18\/37933279507263_750x750.jpg",
+        "white_bg_img": "http:\/\/b1.hucdn.com\/upload\/item\/1708\/18\/37933279507263_750x750.jpg",
+        "img": "http:\/\/b1.hucdn.com\/upload\/item\/1708\/18\/37933279507263_750x750.jpg",
+        "country_circle_icon": "",
+        "uid": 4497263,
+        "notify_class_id": "mart_home",
+        "stock": null,
+        "main_color": "#ff4965",
+        "price": 3990,
+        "origin_price": null,
+        "ext": "立即抢",
+        "buying_info": "6649人已抢",
+        "sale_num": 6649,
+        "target": "beibei:\/\/detail?iid=28760379&product_sale_num=6649&scene_tag=home",
+        "notify_target": "beibei:\/\/detail?iid=28760379&product_sale_num=6649&scene_tag=home",
+        "scene_tag": "home",
+        "group_avatars": [],
+        "icon_promotions": [],
+        "item_track_data": "",
+        "nezha": {
+          "单品列表": {
+            "iid": 28760379,
+            "nz_block": "频道",
+            "nz_id": 44,
+            "nz_ver": "1.0.0",
+            "track_id": "1.4.118.22.13.34.44"
+          }
+        }
+      }, {
+        "iid": 28794940,
+        "event_id": 106063401,
+        "title": "【全店39元任选3件限时抢】【送卸妆膜】思尚睫毛膏 纤长浓密自然防水防汗不晕染",
+        "product_id": 2723946,
+        "square_img": "http:\/\/b1.hucdn.com\/upload\/item\/1711\/20\/87011124133162_800x800.jpg",
+        "white_bg_img": "http:\/\/b1.hucdn.com\/upload\/item\/1711\/20\/87011124133162_800x800.jpg",
+        "img": "http:\/\/b1.hucdn.com\/upload\/item\/1711\/20\/87011124133162_800x800.jpg",
+        "country_circle_icon": "",
+        "uid": 48253162,
+        "notify_class_id": "mart_home",
+        "stock": null,
+        "main_color": "#ff4965",
+        "price": 1490,
+        "origin_price": null,
+        "ext": "立即抢",
+        "buying_info": "2937人已抢",
+        "sale_num": 2937,
+        "target": "beibei:\/\/detail?iid=28794940&product_sale_num=2937&scene_tag=home",
+        "notify_target": "beibei:\/\/detail?iid=28794940&product_sale_num=2937&scene_tag=home",
+        "scene_tag": "home",
+        "group_avatars": [],
+        "icon_promotions": [],
+        "item_track_data": "",
+        "nezha": {
+          "单品列表": {
+            "iid": 28794940,
+            "nz_block": "频道",
+            "nz_id": 44,
+            "nz_ver": "1.0.0",
+            "track_id": "1.4.118.22.13.35.44"
+          }
+        }
+      }]
+    }
+  }, {
+    "type": "type_home_item_double",
+    "type_home_item_double": {
+      "items": [{
+        "iid": 28822121,
+        "event_id": 106073288,
+        "title": "【限量1000份】自然堂洗面奶水润保湿洗颜霜100g 补水保湿清爽洁面专柜正品",
+        "product_id": 2293230,
+        "square_img": "http:\/\/b1.hucdn.com\/upload\/item\/1710\/12\/01617177483083_800x800.jpg",
+        "white_bg_img": "http:\/\/b1.hucdn.com\/upload\/item\/1710\/12\/01617177483083_800x800.jpg",
+        "img": "http:\/\/b1.hucdn.com\/upload\/item\/1710\/12\/01617177483083_800x800.jpg",
+        "country_circle_icon": "",
+        "uid": 45779469,
+        "notify_class_id": "mart_home",
+        "stock": null,
+        "main_color": "#ff4965",
+        "price": 3000,
+        "origin_price": null,
+        "ext": "立即抢",
+        "buying_info": "3893人已抢",
+        "sale_num": 3893,
+        "target": "beibei:\/\/detail?iid=28822121&product_sale_num=3893&scene_tag=home",
+        "notify_target": "beibei:\/\/detail?iid=28822121&product_sale_num=3893&scene_tag=home",
+        "scene_tag": "home",
+        "group_avatars": [],
+        "icon_promotions": [],
+        "item_track_data": "",
+        "nezha": {
+          "单品列表": {
+            "iid": 28822121,
+            "nz_block": "频道",
+            "nz_id": 44,
+            "nz_ver": "1.0.0",
+            "track_id": "1.4.118.22.13.36.44"
+          }
+        }
+      }, {
+        "iid": 28763629,
+        "event_id": 106060971,
+        "title": "【爆款】【买一送十】妈媚丽 孕妇护肤品套装荷荷巴补水保湿裸妆BB霜化妆品六件套",
+        "product_id": 3220601,
+        "square_img": "http:\/\/b1.hucdn.com\/upload\/item\/1804\/25\/18468551170094_800x800.jpg",
+        "white_bg_img": "http:\/\/b1.hucdn.com\/upload\/item\/1804\/25\/18468551170094_800x800.jpg",
+        "img": "http:\/\/b1.hucdn.com\/upload\/item\/1804\/25\/18468551170094_800x800.jpg",
+        "country_circle_icon": "",
+        "uid": 49580094,
+        "notify_class_id": "mart_home",
+        "stock": null,
+        "main_color": "#ff4965",
+        "price": 6900,
+        "origin_price": null,
+        "ext": "立即抢",
+        "buying_info": "2994人已抢",
+        "sale_num": 2994,
+        "target": "beibei:\/\/detail?iid=28763629&product_sale_num=2994&scene_tag=home",
+        "notify_target": "beibei:\/\/detail?iid=28763629&product_sale_num=2994&scene_tag=home",
+        "scene_tag": "home",
+        "group_avatars": [],
+        "icon_promotions": [],
+        "item_track_data": "",
+        "nezha": {
+          "单品列表": {
+            "iid": 28763629,
+            "nz_block": "频道",
+            "nz_id": 44,
+            "nz_ver": "1.0.0",
+            "track_id": "1.4.118.22.13.37.44"
+          }
+        }
+      }]
+    }
+  }, {
+    "type": "type_home_item_double",
+    "type_home_item_double": {
+      "items": [{
+        "iid": 28751722,
+        "event_id": 106059887,
+        "title": "限时赠80g洗面奶 膜法世家吸黑焕采水润雪肌黑面膜25g*21片盒装",
+        "product_id": 1804414,
+        "square_img": "http:\/\/b1.hucdn.com\/upload\/item\/1610\/17\/68708737417237_800x800.jpg",
+        "white_bg_img": "http:\/\/b1.hucdn.com\/upload\/item\/1610\/17\/68708737417237_800x800.jpg",
+        "img": "http:\/\/b1.hucdn.com\/upload\/item\/1610\/17\/68708737417237_800x800.jpg",
+        "country_circle_icon": "",
+        "uid": 17927237,
+        "notify_class_id": "mart_home",
+        "stock": null,
+        "main_color": "#ff4965",
+        "price": 6800,
+        "origin_price": null,
+        "ext": "立即抢",
+        "buying_info": "2084人已抢",
+        "sale_num": 2084,
+        "target": "beibei:\/\/detail?iid=28751722&product_sale_num=2084&scene_tag=home",
+        "notify_target": "beibei:\/\/detail?iid=28751722&product_sale_num=2084&scene_tag=home",
+        "scene_tag": "home",
+        "group_avatars": [],
+        "icon_promotions": [],
+        "item_track_data": "",
+        "nezha": {
+          "单品列表": {
+            "iid": 28751722,
+            "nz_block": "频道",
+            "nz_id": 44,
+            "nz_ver": "1.0.0",
+            "track_id": "1.4.118.22.13.38.44"
+          }
+        }
+      }, {
+        "iid": 28830859,
+        "event_id": 106075901,
+        "title": "【何洁推荐 抖音同款】俏美人双头遮瑕膏盘笔遮盖黑眼圈脸部斑点痘痘印保湿遮瑕液",
+        "product_id": 2738660,
+        "square_img": "http:\/\/b1.hucdn.com\/upload\/item\/1806\/30\/30316026870047_800x800.jpg",
+        "white_bg_img": "http:\/\/b1.hucdn.com\/upload\/item\/1806\/30\/30316026870047_800x800.jpg",
+        "img": "http:\/\/b1.hucdn.com\/upload\/item\/1806\/30\/30316026870047_800x800.jpg",
+        "country_circle_icon": "",
+        "uid": 47570047,
+        "notify_class_id": "mart_home",
+        "stock": null,
+        "main_color": "#ff4965",
+        "price": 1890,
+        "origin_price": null,
+        "ext": "立即抢",
+        "buying_info": "4694人已抢",
+        "sale_num": 4694,
+        "target": "beibei:\/\/detail?iid=28830859&product_sale_num=4694&scene_tag=home",
+        "notify_target": "beibei:\/\/detail?iid=28830859&product_sale_num=4694&scene_tag=home",
+        "scene_tag": "home",
+        "group_avatars": [],
+        "icon_promotions": [],
+        "item_track_data": "",
+        "nezha": {
+          "单品列表": {
+            "iid": 28830859,
+            "nz_block": "频道",
+            "nz_id": 44,
+            "nz_ver": "1.0.0",
+            "track_id": "1.4.118.22.13.39.44"
+          }
+        }
+      }]
+    }
+  }],
+  "total_count": 525,
+  "has_more": 1
+}

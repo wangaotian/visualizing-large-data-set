@@ -1,0 +1,18 @@
+{
+    "result": "1",
+    "msg": "成功",
+    "data": [
+        {
+            "name": 3500,
+            "count": "山西",
+            "longitude": "112.46000",
+            "latitude": "37.92000"
+        },
+        {
+            "name": 2320,
+            "count": "北京",
+            "longitude": "116.46000",
+            "latitude": "39.92000"
+        }
+    ]
+}

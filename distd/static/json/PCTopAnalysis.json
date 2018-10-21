@@ -1,0 +1,72 @@
+{
+    "result": "1",
+    "msg": "成功",
+    "data": [
+        {
+            "totalrate": "43.64%",
+            "top10totalrate": "56.36%",
+            "PCPressCountWeb": [
+                {
+                    "OriginalCount": 2782,
+                    "originalrate": "1.64%",
+                    "WebName": "东方网",
+                    "ReprintCount": 166491
+                },
+                {
+                    "OriginalCount": 3362,
+                    "originalrate": "14.70%",
+                    "WebName": "华龙网",
+                    "ReprintCount": 19506
+                },
+                {
+                    "OriginalCount": 3333,
+                    "originalrate": "12.95%",
+                    "WebName": "长城网",
+                    "ReprintCount": 22413
+                },
+                {
+                    "OriginalCount": 477,
+                    "originalrate": "2.06%",
+                    "WebName": "视界网",
+                    "ReprintCount": 22690
+                },
+                {
+                    "OriginalCount": 3618,
+                    "originalrate": "19.02%",
+                    "WebName": "浙江在线",
+                    "ReprintCount": 15400
+                },
+                {
+                    "OriginalCount": 2450,
+                    "originalrate": "14.05%",
+                    "WebName": "中国江苏网",
+                    "ReprintCount": 14985
+                },
+                {
+                    "OriginalCount": 718,
+                    "originalrate": "5.56%",
+                    "WebName": "扬子晚报网",
+                    "ReprintCount": 12207
+                },
+                {
+                    "OriginalCount": 3020,
+                    "originalrate": "19.04%",
+                    "WebName": "中国江西网",
+                    "ReprintCount": 12838
+                },
+                {
+                    "OriginalCount": 5000,
+                    "originalrate": "32.31%",
+                    "WebName": "大众网",
+                    "ReprintCount": 10474
+                },
+                {
+                    "OriginalCount": 164,
+                    "originalrate": "1.08%",
+                    "WebName": "新民网",
+                    "ReprintCount": 15071
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "result": "1",
+    "msg": "成功",
+    "data": [
+        {
+            "webname": "北京时间",
+            "count": 300
+        },
+        {
+            "webname": "人民网",
+            "count": 200
+        },
+        {
+            "webname": "新闻网",
+            "count": 100
+        }
+    ]
+}

@@ -1,0 +1,56 @@
+{
+    "result": "1",
+    "msg": "成功",
+    "data": [
+        {
+            "webid": "70",
+            "webname": "华龙网",
+            "beReprintCount": 11170
+        },
+        {
+            "webid": "62",
+            "webname": "红网",
+            "beReprintCount": 9102
+        },
+        {
+            "webid": "51",
+            "webname": "中国江西网",
+            "beReprintCount": 7535
+        },
+        {
+            "webid": "42",
+            "webname": "东方网",
+            "beReprintCount": 7409
+        },
+        {
+            "webid": "43",
+            "webname": "新民网",
+            "beReprintCount": 6290
+        },
+        {
+            "webid": "54",
+            "webname": "大众网",
+            "beReprintCount": 5828
+        },
+        {
+            "webid": "90",
+            "webname": "北青网",
+            "beReprintCount": 4737
+        },
+        {
+            "webid": "59",
+            "webname": "大河网",
+            "beReprintCount": 4054
+        },
+        {
+            "webid": "131",
+            "webname": "澎湃新闻网",
+            "beReprintCount": 4025
+        },
+        {
+            "webid": "75",
+            "webname": "云南网",
+            "beReprintCount": 4004
+        }
+    ]
+}

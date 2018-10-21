@@ -1,0 +1,96 @@
+{
+    "result": "1",
+    "msg": "请求成功",
+    "data": [
+        {
+            "articletype": "原创",
+            "source": "人民网-观点频道",
+            "title": "人民网评：千年大计 雄安屹立北中国",
+            "url": "http://opinion.people.com.cn/n1/2017/0402/c1003-29186684.html",
+            "bzcount": 106,
+            "pubtimeformat": 1491148080000,
+            "pcvagility": 18160
+        },
+        {
+            "articletype": "原创",
+            "source": "人民网《地方领导留言板》",
+            "title": "学校问题",
+            "url": "http://liuyan.people.com.cn/thread.php?tid=4424536&display=&page=1",
+            "bzcount": 26,
+            "pubtimeformat": 1491128160000,
+            "pcvagility": 11032
+        },
+        {
+            "articletype": "原创",
+            "source": "人民网",
+            "title": "环保部：部分城市重污染天气应急预案不落实",
+            "url": "http://politics.people.com.cn/n1/2017/0403/c1001-29187391.html",
+            "bzcount": 24,
+            "pubtimeformat": 1491233880000,
+            "pcvagility": 6468
+        },
+        {
+            "articletype": "原创",
+            "source": "人民网",
+            "title": "国家旅游局提醒赴俄游客注意安全 加强防范",
+            "url": "http://world.people.com.cn/n1/2017/0403/c1002-29187351.html",
+            "bzcount": 15,
+            "pubtimeformat": 1491228180000,
+            "pcvagility": 5484
+        },
+        {
+            "articletype": "原创",
+            "source": "人民网《地方领导留言板》",
+            "title": "土地问题",
+            "url": "http://liuyan.people.com.cn/thread.php?tid=4425750&display=&page=1",
+            "bzcount": 10,
+            "pubtimeformat": 1491183420000,
+            "pcvagility": 4780
+        },
+        {
+            "articletype": "原创",
+            "source": "人民网",
+            "title": "俄罗斯圣彼得堡地铁发生爆炸 有死伤",
+            "url": "http://world.people.com.cn/n1/2017/0403/c1002-29187253.html",
+            "bzcount": 14,
+            "pubtimeformat": 1491222180000,
+            "pcvagility": 4374
+        },
+        {
+            "articletype": "原创",
+            "source": "人民网",
+            "title": "人民网评：用心感受清明背后的文化韵味",
+            "url": "http://xj.people.com.cn/n2/2017/0402/c188514-29960832.html",
+            "bzcount": 24,
+            "pubtimeformat": 1491108600000,
+            "pcvagility": 4128
+        },
+        {
+            "articletype": "原创",
+            "source": "人民网-人民电视",
+            "title": "冬奥会为中芬合作带来新机遇",
+            "url": "http://tv.people.com.cn/n1/2017/0403/c364580-29187251.html",
+            "bzcount": 11,
+            "pubtimeformat": 1491222000000,
+            "pcvagility": 3916
+        },
+        {
+            "articletype": "原创",
+            "source": "人民网",
+            "title": "京津冀及周边天气将连续四天重污染 环保部开展督查",
+            "url": "http://society.people.com.cn/n1/2017/0402/c1008-29186527.html",
+            "bzcount": 9,
+            "pubtimeformat": 1491115020000,
+            "pcvagility": 3781
+        },
+        {
+            "articletype": "原创",
+            "source": "人民网",
+            "title": "白俄罗斯总统卢卡申科就地铁爆炸事件向普京表示慰问",
+            "url": "http://world.people.com.cn/n1/2017/0403/c1002-29187273.html",
+            "bzcount": 8,
+            "pubtimeformat": 1491226260000,
+            "pcvagility": 3380
+        }
+    ]
+}

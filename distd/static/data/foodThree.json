@@ -1,0 +1,717 @@
+{
+  "page": 3,
+  "page_size": 20,
+  "martshows": [{
+    "type": "type_home_item_double",
+    "type_home_item_double": {
+      "items": [{
+        "iid": 28760480,
+        "event_id": 106060735,
+        "title": "达利园好吃点小熊饼干9袋共1035g",
+        "product_id": 2132081,
+        "square_img": "http:\/\/b1.hucdn.com\/upload\/item\/1611\/07\/98902836600041_800x800.jpg",
+        "white_bg_img": "http:\/\/b1.hucdn.com\/upload\/item\/1611\/07\/98902836600041_800x800.jpg",
+        "img": "http:\/\/b1.hucdn.com\/upload\/item\/1611\/07\/98902836600041_800x800.jpg",
+        "country_circle_icon": "",
+        "uid": 34280041,
+        "notify_class_id": "mart_home",
+        "stock": null,
+        "main_color": "#ff4965",
+        "price": 2190,
+        "origin_price": null,
+        "ext": "立即抢",
+        "buying_info": "3411人已抢",
+        "sale_num": 3411,
+        "target": "beibei:\/\/detail?iid=28760480&product_sale_num=3411&scene_tag=home",
+        "notify_target": "beibei:\/\/detail?iid=28760480&product_sale_num=3411&scene_tag=home",
+        "scene_tag": "home",
+        "group_avatars": [],
+        "icon_promotions": [],
+        "item_track_data": "",
+        "nezha": {
+          "单品列表": {
+            "iid": 28760480,
+            "nz_block": "频道",
+            "nz_id": 44,
+            "nz_ver": "1.0.0",
+            "track_id": "1.4.118.18.13.40.44"
+          }
+        }
+      }, {
+        "iid": 28840021,
+        "event_id": 106078140,
+        "title": "【南国】海南特产香脆零食组合320g",
+        "product_id": 1414136,
+        "square_img": "http:\/\/b1.hucdn.com\/upload\/item\/1708\/30\/76776081621411_600x600.jpg",
+        "white_bg_img": "http:\/\/b1.hucdn.com\/upload\/item\/1708\/30\/76776081621411_600x600.jpg",
+        "img": "http:\/\/b1.hucdn.com\/upload\/item\/1708\/30\/76776081621411_600x600.jpg",
+        "country_circle_icon": "",
+        "uid": 30301411,
+        "notify_class_id": "mart_home",
+        "stock": null,
+        "main_color": "#ff4965",
+        "price": 1990,
+        "origin_price": null,
+        "ext": "立即抢",
+        "buying_info": "755人已抢",
+        "sale_num": 755,
+        "target": "beibei:\/\/detail?iid=28840021&product_sale_num=755&scene_tag=home",
+        "notify_target": "beibei:\/\/detail?iid=28840021&product_sale_num=755&scene_tag=home",
+        "scene_tag": "home",
+        "group_avatars": [],
+        "icon_promotions": [],
+        "item_track_data": "",
+        "nezha": {
+          "单品列表": {
+            "iid": 28840021,
+            "nz_block": "频道",
+            "nz_id": 44,
+            "nz_ver": "1.0.0",
+            "track_id": "1.4.118.18.13.41.44"
+          }
+        }
+      }]
+    }
+  }, {
+    "type": "type_home_item_double",
+    "type_home_item_double": {
+      "items": [{
+        "iid": 28799714,
+        "event_id": 106064780,
+        "title": "【百粒挑一 嗑瓜群众必备】多种口味瓜子150g*4袋 赠随身装 大颗粒不上火",
+        "product_id": 1250612,
+        "square_img": "http:\/\/b1.hucdn.com\/upload\/item\/1709\/22\/88271077572943_800x800.jpg",
+        "white_bg_img": "http:\/\/b1.hucdn.com\/upload\/item\/1709\/22\/88271077572943_800x800.jpg",
+        "img": "http:\/\/b1.hucdn.com\/upload\/item\/1709\/22\/88271077572943_800x800.jpg",
+        "country_circle_icon": "",
+        "uid": 17742943,
+        "notify_class_id": "mart_home",
+        "stock": null,
+        "main_color": "#ff4965",
+        "price": 1490,
+        "origin_price": null,
+        "ext": "立即抢",
+        "buying_info": "1517人已抢",
+        "sale_num": 1517,
+        "target": "beibei:\/\/detail?iid=28799714&product_sale_num=1517&scene_tag=home",
+        "notify_target": "beibei:\/\/detail?iid=28799714&product_sale_num=1517&scene_tag=home",
+        "scene_tag": "home",
+        "group_avatars": [],
+        "icon_promotions": [],
+        "item_track_data": "",
+        "nezha": {
+          "单品列表": {
+            "iid": 28799714,
+            "nz_block": "频道",
+            "nz_id": 44,
+            "nz_ver": "1.0.0",
+            "track_id": "1.4.118.18.13.42.44"
+          }
+        }
+      }, {
+        "iid": 28855837,
+        "event_id": 106086587,
+        "title": "【懒人即食早餐】【南国】 椰奶麦片560g(含20小包) 燕麦早餐饮品 冲饮水果麦片",
+        "product_id": 1482904,
+        "square_img": "http:\/\/b1.hucdn.com\/upload\/item\/1605\/16\/76015671301411_800x800.jpg",
+        "white_bg_img": "http:\/\/b1.hucdn.com\/upload\/item\/1605\/16\/76015671301411_800x800.jpg",
+        "img": "http:\/\/b1.hucdn.com\/upload\/item\/1605\/16\/76015671301411_800x800.jpg",
+        "country_circle_icon": "",
+        "uid": 30301411,
+        "notify_class_id": "mart_home",
+        "stock": null,
+        "main_color": "#ff4965",
+        "price": 1990,
+        "origin_price": null,
+        "ext": "立即抢",
+        "buying_info": "6832人已抢",
+        "sale_num": 6832,
+        "target": "beibei:\/\/detail?iid=28855837&product_sale_num=6832&scene_tag=home",
+        "notify_target": "beibei:\/\/detail?iid=28855837&product_sale_num=6832&scene_tag=home",
+        "scene_tag": "home",
+        "group_avatars": [],
+        "icon_promotions": [],
+        "item_track_data": "",
+        "nezha": {
+          "单品列表": {
+            "iid": 28855837,
+            "nz_block": "频道",
+            "nz_id": 44,
+            "nz_ver": "1.0.0",
+            "track_id": "1.4.118.18.13.43.44"
+          }
+        }
+      }]
+    }
+  }, {
+    "type": "type_home_item_double",
+    "type_home_item_double": {
+      "items": [{
+        "iid": 28822057,
+        "event_id": 106073272,
+        "title": "达利园欧式蛋糕3斤",
+        "product_id": 2608007,
+        "square_img": "http:\/\/b1.hucdn.com\/upload\/item\/1703\/13\/83816716960041_800x800.jpg",
+        "white_bg_img": "http:\/\/b1.hucdn.com\/upload\/item\/1703\/13\/83816716960041_800x800.jpg",
+        "img": "http:\/\/b1.hucdn.com\/upload\/item\/1703\/13\/83816716960041_800x800.jpg",
+        "country_circle_icon": "",
+        "uid": 34280041,
+        "notify_class_id": "mart_home",
+        "stock": null,
+        "main_color": "#ff4965",
+        "price": 2790,
+        "origin_price": null,
+        "ext": "立即抢",
+        "buying_info": "1918人已抢",
+        "sale_num": 1918,
+        "target": "beibei:\/\/detail?iid=28822057&product_sale_num=1918&scene_tag=home",
+        "notify_target": "beibei:\/\/detail?iid=28822057&product_sale_num=1918&scene_tag=home",
+        "scene_tag": "home",
+        "group_avatars": [],
+        "icon_promotions": [],
+        "item_track_data": "",
+        "nezha": {
+          "单品列表": {
+            "iid": 28822057,
+            "nz_block": "频道",
+            "nz_id": 44,
+            "nz_ver": "1.0.0",
+            "track_id": "1.4.118.18.13.44.44"
+          }
+        }
+      }, {
+        "iid": 28803713,
+        "event_id": 106065782,
+        "title": "然利麻薯6口味500g袋干吃汤圆零食糕点心",
+        "product_id": 2230463,
+        "square_img": "http:\/\/b1.hucdn.com\/upload\/item\/1711\/14\/53164430212690_800x800.jpg",
+        "white_bg_img": "http:\/\/b1.hucdn.com\/upload\/item\/1711\/14\/53164430212690_800x800.jpg",
+        "img": "http:\/\/b1.hucdn.com\/upload\/item\/1711\/14\/53164430212690_800x800.jpg",
+        "country_circle_icon": "",
+        "uid": 35272690,
+        "notify_class_id": "mart_home",
+        "stock": null,
+        "main_color": "#ff4965",
+        "price": 980,
+        "origin_price": null,
+        "ext": "立即抢",
+        "buying_info": "7244人已抢",
+        "sale_num": 7244,
+        "target": "beibei:\/\/detail?iid=28803713&product_sale_num=7244&scene_tag=home",
+        "notify_target": "beibei:\/\/detail?iid=28803713&product_sale_num=7244&scene_tag=home",
+        "scene_tag": "home",
+        "group_avatars": [],
+        "icon_promotions": [],
+        "item_track_data": "",
+        "nezha": {
+          "单品列表": {
+            "iid": 28803713,
+            "nz_block": "频道",
+            "nz_id": 44,
+            "nz_ver": "1.0.0",
+            "track_id": "1.4.118.18.13.45.44"
+          }
+        }
+      }]
+    }
+  }, {
+    "type": "type_home_item_double",
+    "type_home_item_double": {
+      "items": [{
+        "iid": 28802531,
+        "event_id": 106065508,
+        "title": "【6月新货】伊利牛奶 QQ星风味儿童酸奶 205g*12\/提 营养早餐  品质保",
+        "product_id": 4810930,
+        "square_img": "http:\/\/b1.hucdn.com\/upload\/item\/1712\/04\/73143486642484_800x800.jpg",
+        "white_bg_img": "http:\/\/b1.hucdn.com\/upload\/item\/1712\/04\/73143486642484_800x800.jpg",
+        "img": "http:\/\/b1.hucdn.com\/upload\/item\/1712\/04\/73143486642484_800x800.jpg",
+        "country_circle_icon": "",
+        "uid": 28932484,
+        "notify_class_id": "mart_home",
+        "stock": null,
+        "main_color": "#ff4965",
+        "price": 4990,
+        "origin_price": null,
+        "ext": "立即抢",
+        "buying_info": "425人已抢",
+        "sale_num": 425,
+        "target": "beibei:\/\/detail?iid=28802531&product_sale_num=425&scene_tag=home",
+        "notify_target": "beibei:\/\/detail?iid=28802531&product_sale_num=425&scene_tag=home",
+        "scene_tag": "home",
+        "group_avatars": [],
+        "icon_promotions": [],
+        "item_track_data": "",
+        "nezha": {
+          "单品列表": {
+            "iid": 28802531,
+            "nz_block": "频道",
+            "nz_id": 44,
+            "nz_ver": "1.0.0",
+            "track_id": "1.4.118.18.13.46.44"
+          }
+        }
+      }, {
+        "iid": 28794999,
+        "event_id": 106063419,
+        "title": "【领券减2元】皇麦世家黑芝麻黑豆粉冲饮五谷营养代餐粉500g",
+        "product_id": 2114297,
+        "square_img": "http:\/\/b1.hucdn.com\/upload\/item\/1804\/12\/24239289375729_800x800.jpg",
+        "white_bg_img": "http:\/\/b1.hucdn.com\/upload\/item\/1804\/12\/24239289375729_800x800.jpg",
+        "img": "http:\/\/b1.hucdn.com\/upload\/item\/1804\/12\/24239289375729_800x800.jpg",
+        "country_circle_icon": "",
+        "uid": 37865729,
+        "notify_class_id": "mart_home",
+        "stock": null,
+        "main_color": "#ff4965",
+        "price": 2800,
+        "origin_price": null,
+        "ext": "立即抢",
+        "buying_info": "508人已抢",
+        "sale_num": 508,
+        "target": "beibei:\/\/detail?iid=28794999&product_sale_num=508&scene_tag=home",
+        "notify_target": "beibei:\/\/detail?iid=28794999&product_sale_num=508&scene_tag=home",
+        "scene_tag": "home",
+        "group_avatars": [],
+        "icon_promotions": [],
+        "item_track_data": "",
+        "nezha": {
+          "单品列表": {
+            "iid": 28794999,
+            "nz_block": "频道",
+            "nz_id": 44,
+            "nz_ver": "1.0.0",
+            "track_id": "1.4.118.18.13.47.44"
+          }
+        }
+      }]
+    }
+  }, {
+    "type": "type_home_item_double",
+    "type_home_item_double": {
+      "items": [{
+        "iid": 28822105,
+        "event_id": 106073283,
+        "title": "达利园好吃点高纤饼800g礼盒装4口味可选",
+        "product_id": 1924451,
+        "square_img": "http:\/\/b1.hucdn.com\/upload\/item\/1805\/15\/47859132100041_800x800.png",
+        "white_bg_img": "http:\/\/b1.hucdn.com\/upload\/item\/1805\/15\/47859132100041_800x800.png",
+        "img": "http:\/\/b1.hucdn.com\/upload\/item\/1805\/15\/47859132100041_800x800.png",
+        "country_circle_icon": "",
+        "uid": 34280041,
+        "notify_class_id": "mart_home",
+        "stock": null,
+        "main_color": "#ff4965",
+        "price": 1990,
+        "origin_price": null,
+        "ext": "立即抢",
+        "buying_info": "2596人已抢",
+        "sale_num": 2596,
+        "target": "beibei:\/\/detail?iid=28822105&product_sale_num=2596&scene_tag=home",
+        "notify_target": "beibei:\/\/detail?iid=28822105&product_sale_num=2596&scene_tag=home",
+        "scene_tag": "home",
+        "group_avatars": [],
+        "icon_promotions": [],
+        "item_track_data": "",
+        "nezha": {
+          "单品列表": {
+            "iid": 28822105,
+            "nz_block": "频道",
+            "nz_id": 44,
+            "nz_ver": "1.0.0",
+            "track_id": "1.4.118.18.13.48.44"
+          }
+        }
+      }, {
+        "iid": 28882690,
+        "event_id": 106092004,
+        "title": "广西正宗螺蛳粉悦谷百味300g*5袋 柳州螺丝粉方便面速食特产",
+        "product_id": 3098370,
+        "square_img": "http:\/\/b1.hucdn.com\/upload\/item\/1807\/22\/27061517096375_800x800.jpg",
+        "white_bg_img": "http:\/\/b1.hucdn.com\/upload\/item\/1807\/22\/27061517096375_800x800.jpg",
+        "img": "http:\/\/b1.hucdn.com\/upload\/item\/1807\/22\/27061517096375_800x800.jpg",
+        "country_circle_icon": "",
+        "uid": 34766375,
+        "notify_class_id": "mart_home",
+        "stock": null,
+        "main_color": "#ff4965",
+        "price": 3690,
+        "origin_price": null,
+        "ext": "立即抢",
+        "buying_info": "2453人已抢",
+        "sale_num": 2453,
+        "target": "beibei:\/\/detail?iid=28882690&product_sale_num=2453&scene_tag=home",
+        "notify_target": "beibei:\/\/detail?iid=28882690&product_sale_num=2453&scene_tag=home",
+        "scene_tag": "home",
+        "group_avatars": [],
+        "icon_promotions": [],
+        "item_track_data": "",
+        "nezha": {
+          "单品列表": {
+            "iid": 28882690,
+            "nz_block": "频道",
+            "nz_id": 44,
+            "nz_ver": "1.0.0",
+            "track_id": "1.4.118.18.13.49.44"
+          }
+        }
+      }]
+    }
+  }, {
+    "type": "type_home_item_double",
+    "type_home_item_double": {
+      "items": [{
+        "iid": 28801747,
+        "event_id": 106065324,
+        "title": "百乐芬 手撕面包1000g整箱 批发口袋小面包零食品全麦营养早餐蒸蛋糕点心批发",
+        "product_id": 3854918,
+        "square_img": "http:\/\/b1.hucdn.com\/upload\/item\/1709\/07\/67702124969301_800x800.jpg",
+        "white_bg_img": "http:\/\/b1.hucdn.com\/upload\/item\/1709\/07\/67702124969301_800x800.jpg",
+        "img": "http:\/\/b1.hucdn.com\/upload\/item\/1709\/07\/67702124969301_800x800.jpg",
+        "country_circle_icon": "",
+        "uid": 60959301,
+        "notify_class_id": "mart_home",
+        "stock": null,
+        "main_color": "#ff4965",
+        "price": 1990,
+        "origin_price": null,
+        "ext": "立即抢",
+        "buying_info": "2913人已抢",
+        "sale_num": 2913,
+        "target": "beibei:\/\/detail?iid=28801747&product_sale_num=2913&scene_tag=home",
+        "notify_target": "beibei:\/\/detail?iid=28801747&product_sale_num=2913&scene_tag=home",
+        "scene_tag": "home",
+        "group_avatars": [],
+        "icon_promotions": [],
+        "item_track_data": "",
+        "nezha": {
+          "单品列表": {
+            "iid": 28801747,
+            "nz_block": "频道",
+            "nz_id": 44,
+            "nz_ver": "1.0.0",
+            "track_id": "1.4.118.18.13.50.44"
+          }
+        }
+      }, {
+        "iid": 28801289,
+        "event_id": 106065210,
+        "title": "【憨豆熊 每日坚果30包*25g】混合坚果仁综合孕妇零食果干大礼包",
+        "product_id": 4987339,
+        "square_img": "http:\/\/b1.hucdn.com\/upload\/item\/1801\/17\/73332320952508_800x800.jpg",
+        "white_bg_img": "http:\/\/b1.hucdn.com\/upload\/item\/1801\/17\/73332320952508_800x800.jpg",
+        "img": "http:\/\/b1.hucdn.com\/upload\/item\/1801\/17\/73332320952508_800x800.jpg",
+        "country_circle_icon": "",
+        "uid": 21002508,
+        "notify_class_id": "mart_home",
+        "stock": null,
+        "main_color": "#ff4965",
+        "price": 6700,
+        "origin_price": null,
+        "ext": "立即抢",
+        "buying_info": "523人已抢",
+        "sale_num": 523,
+        "target": "beibei:\/\/detail?iid=28801289&product_sale_num=523&scene_tag=home",
+        "notify_target": "beibei:\/\/detail?iid=28801289&product_sale_num=523&scene_tag=home",
+        "scene_tag": "home",
+        "group_avatars": [],
+        "icon_promotions": [],
+        "item_track_data": "",
+        "nezha": {
+          "单品列表": {
+            "iid": 28801289,
+            "nz_block": "频道",
+            "nz_id": 44,
+            "nz_ver": "1.0.0",
+            "track_id": "1.4.118.18.13.51.44"
+          }
+        }
+      }]
+    }
+  }, {
+    "type": "type_home_item_double",
+    "type_home_item_double": {
+      "items": [{
+        "iid": 28794998,
+        "event_id": 106063418,
+        "title": "皇麦世家椰奶水果麦片组合营养早餐700g",
+        "product_id": 2120446,
+        "square_img": "http:\/\/b1.hucdn.com\/upload\/item\/1712\/18\/98451990895729_640x640.jpg",
+        "white_bg_img": "http:\/\/b1.hucdn.com\/upload\/item\/1712\/18\/98451990895729_640x640.jpg",
+        "img": "http:\/\/b1.hucdn.com\/upload\/item\/1712\/18\/98451990895729_640x640.jpg",
+        "country_circle_icon": "",
+        "uid": 37865729,
+        "notify_class_id": "mart_home",
+        "stock": null,
+        "main_color": "#ff4965",
+        "price": 2800,
+        "origin_price": null,
+        "ext": "立即抢",
+        "buying_info": "2101人已抢",
+        "sale_num": 2101,
+        "target": "beibei:\/\/detail?iid=28794998&product_sale_num=2101&scene_tag=home",
+        "notify_target": "beibei:\/\/detail?iid=28794998&product_sale_num=2101&scene_tag=home",
+        "scene_tag": "home",
+        "group_avatars": [],
+        "icon_promotions": [],
+        "item_track_data": "",
+        "nezha": {
+          "单品列表": {
+            "iid": 28794998,
+            "nz_block": "频道",
+            "nz_id": 44,
+            "nz_ver": "1.0.0",
+            "track_id": "1.4.118.18.13.52.44"
+          }
+        }
+      }, {
+        "iid": 28855789,
+        "event_id": 106086583,
+        "title": "盼盼肉松饼肉松条整箱1.02kg办公室零食批发特产糕点美味早餐面包",
+        "product_id": 4884208,
+        "square_img": "http:\/\/b1.hucdn.com\/upload\/item\/1712\/13\/51840952378338_800x800.jpg",
+        "white_bg_img": "http:\/\/b1.hucdn.com\/upload\/item\/1712\/13\/51840952378338_800x800.jpg",
+        "img": "http:\/\/b1.hucdn.com\/upload\/item\/1712\/13\/51840952378338_800x800.jpg",
+        "country_circle_icon": "",
+        "uid": 7168338,
+        "notify_class_id": "mart_home",
+        "stock": null,
+        "main_color": "#ff4965",
+        "price": 2890,
+        "origin_price": null,
+        "ext": "立即抢",
+        "buying_info": "483人已抢",
+        "sale_num": 483,
+        "target": "beibei:\/\/detail?iid=28855789&product_sale_num=483&scene_tag=home",
+        "notify_target": "beibei:\/\/detail?iid=28855789&product_sale_num=483&scene_tag=home",
+        "scene_tag": "home",
+        "group_avatars": [],
+        "icon_promotions": [],
+        "item_track_data": "",
+        "nezha": {
+          "单品列表": {
+            "iid": 28855789,
+            "nz_block": "频道",
+            "nz_id": 44,
+            "nz_ver": "1.0.0",
+            "track_id": "1.4.118.18.13.53.44"
+          }
+        }
+      }]
+    }
+  }, {
+    "type": "type_home_item_double",
+    "type_home_item_double": {
+      "items": [{
+        "iid": 28812087,
+        "event_id": 106067838,
+        "title": "【3大袋共3斤】新疆若羌枣新疆大枣灰枣红枣零食干果干货泡水三食而立",
+        "product_id": 3818849,
+        "square_img": "http:\/\/b1.hucdn.com\/upload\/item\/1710\/25\/26180391480397_800x800.jpg",
+        "white_bg_img": "http:\/\/b1.hucdn.com\/upload\/item\/1710\/25\/26180391480397_800x800.jpg",
+        "img": "http:\/\/b1.hucdn.com\/upload\/item\/1710\/25\/26180391480397_800x800.jpg",
+        "country_circle_icon": "",
+        "uid": 47690397,
+        "notify_class_id": "mart_home",
+        "stock": null,
+        "main_color": "#ff4965",
+        "price": 2780,
+        "origin_price": null,
+        "ext": "立即抢",
+        "buying_info": "766人已抢",
+        "sale_num": 766,
+        "target": "beibei:\/\/detail?iid=28812087&product_sale_num=766&scene_tag=home",
+        "notify_target": "beibei:\/\/detail?iid=28812087&product_sale_num=766&scene_tag=home",
+        "scene_tag": "home",
+        "group_avatars": [],
+        "icon_promotions": [],
+        "item_track_data": "",
+        "nezha": {
+          "单品列表": {
+            "iid": 28812087,
+            "nz_block": "频道",
+            "nz_id": 44,
+            "nz_ver": "1.0.0",
+            "track_id": "1.4.118.18.13.54.44"
+          }
+        }
+      }, {
+        "iid": 28862950,
+        "event_id": 106088941,
+        "title": "佰味葫芦蔓越莓曲奇饼干200g*3包 蔓越莓饼干手工曲奇饼干600g",
+        "product_id": 1720347,
+        "square_img": "http:\/\/b1.hucdn.com\/upload\/item\/1807\/04\/86595880906375_800x800.jpg",
+        "white_bg_img": "http:\/\/b1.hucdn.com\/upload\/item\/1807\/04\/86595880906375_800x800.jpg",
+        "img": "http:\/\/b1.hucdn.com\/upload\/item\/1807\/04\/86595880906375_800x800.jpg",
+        "country_circle_icon": "",
+        "uid": 34766375,
+        "notify_class_id": "mart_home",
+        "stock": null,
+        "main_color": "#ff4965",
+        "price": 1880,
+        "origin_price": null,
+        "ext": "立即抢",
+        "buying_info": "3021人已抢",
+        "sale_num": 3021,
+        "target": "beibei:\/\/detail?iid=28862950&product_sale_num=3021&scene_tag=home",
+        "notify_target": "beibei:\/\/detail?iid=28862950&product_sale_num=3021&scene_tag=home",
+        "scene_tag": "home",
+        "group_avatars": [],
+        "icon_promotions": [],
+        "item_track_data": "",
+        "nezha": {
+          "单品列表": {
+            "iid": 28862950,
+            "nz_block": "频道",
+            "nz_id": 44,
+            "nz_ver": "1.0.0",
+            "track_id": "1.4.118.18.13.55.44"
+          }
+        }
+      }]
+    }
+  }, {
+    "type": "type_home_item_double",
+    "type_home_item_double": {
+      "items": [{
+        "iid": 28812251,
+        "event_id": 106067911,
+        "title": "【拍2罐送勺子蜂蜜】红豆薏米粉500g薏仁粉粥熟代餐粉五谷杂粮营养早餐食品冲饮三",
+        "product_id": 5358560,
+        "square_img": "http:\/\/b1.hucdn.com\/upload\/item\/1804\/24\/99530209500397_800x800.jpg",
+        "white_bg_img": "http:\/\/b1.hucdn.com\/upload\/item\/1804\/24\/99530209500397_800x800.jpg",
+        "img": "http:\/\/b1.hucdn.com\/upload\/item\/1804\/24\/99530209500397_800x800.jpg",
+        "country_circle_icon": "",
+        "uid": 47690397,
+        "notify_class_id": "mart_home",
+        "stock": null,
+        "main_color": "#ff4965",
+        "price": 1490,
+        "origin_price": null,
+        "ext": "立即抢",
+        "buying_info": "261人已抢",
+        "sale_num": 261,
+        "target": "beibei:\/\/detail?iid=28812251&product_sale_num=261&scene_tag=home",
+        "notify_target": "beibei:\/\/detail?iid=28812251&product_sale_num=261&scene_tag=home",
+        "scene_tag": "home",
+        "group_avatars": [],
+        "icon_promotions": [],
+        "item_track_data": "",
+        "nezha": {
+          "单品列表": {
+            "iid": 28812251,
+            "nz_block": "频道",
+            "nz_id": 44,
+            "nz_ver": "1.0.0",
+            "track_id": "1.4.118.18.13.56.44"
+          }
+        }
+      }, {
+        "iid": 28801419,
+        "event_id": 106065243,
+        "title": "憨豆熊 蜜饯果干组合零食大礼包 芒果干草莓干组合520g 多规格可选组合",
+        "product_id": 5029353,
+        "square_img": "http:\/\/b1.hucdn.com\/upload\/item\/1801\/02\/84154037812508_800x800.jpg",
+        "white_bg_img": "http:\/\/b1.hucdn.com\/upload\/item\/1801\/02\/84154037812508_800x800.jpg",
+        "img": "http:\/\/b1.hucdn.com\/upload\/item\/1801\/02\/84154037812508_800x800.jpg",
+        "country_circle_icon": "",
+        "uid": 21002508,
+        "notify_class_id": "mart_home",
+        "stock": null,
+        "main_color": "#ff4965",
+        "price": 2750,
+        "origin_price": null,
+        "ext": "立即抢",
+        "buying_info": "975人已抢",
+        "sale_num": 975,
+        "target": "beibei:\/\/detail?iid=28801419&product_sale_num=975&scene_tag=home",
+        "notify_target": "beibei:\/\/detail?iid=28801419&product_sale_num=975&scene_tag=home",
+        "scene_tag": "home",
+        "group_avatars": [],
+        "icon_promotions": [],
+        "item_track_data": "",
+        "nezha": {
+          "单品列表": {
+            "iid": 28801419,
+            "nz_block": "频道",
+            "nz_id": 44,
+            "nz_ver": "1.0.0",
+            "track_id": "1.4.118.18.13.57.44"
+          }
+        }
+      }]
+    }
+  }, {
+    "type": "type_home_item_double",
+    "type_home_item_double": {
+      "items": [{
+        "iid": 28808999,
+        "event_id": 106067182,
+        "title": "【可味】坚果组合480g夏威夷果 碧根果 开心果 东北松子组合PT",
+        "product_id": 2136132,
+        "square_img": "http:\/\/b1.hucdn.com\/upload\/item\/1801\/26\/59864342990843_800x800.jpg",
+        "white_bg_img": "http:\/\/b1.hucdn.com\/upload\/item\/1801\/26\/59864342990843_800x800.jpg",
+        "img": "http:\/\/b1.hucdn.com\/upload\/item\/1801\/26\/59864342990843_800x800.jpg",
+        "country_circle_icon": "",
+        "uid": 33240843,
+        "notify_class_id": "mart_home",
+        "stock": null,
+        "main_color": "#ff4965",
+        "price": 3990,
+        "origin_price": null,
+        "ext": "立即抢",
+        "buying_info": "3545人已抢",
+        "sale_num": 3545,
+        "target": "beibei:\/\/detail?iid=28808999&product_sale_num=3545&scene_tag=home",
+        "notify_target": "beibei:\/\/detail?iid=28808999&product_sale_num=3545&scene_tag=home",
+        "scene_tag": "home",
+        "group_avatars": [],
+        "icon_promotions": [],
+        "item_track_data": "",
+        "nezha": {
+          "单品列表": {
+            "iid": 28808999,
+            "nz_block": "频道",
+            "nz_id": 44,
+            "nz_ver": "1.0.0",
+            "track_id": "1.4.118.18.13.58.44"
+          }
+        }
+      }, {
+        "iid": 28842339,
+        "event_id": 106078713,
+        "title": "【好吃不上火】【真心焦糖瓜子1000g】一级葵花籽五香原香坚果休闲零食炒货",
+        "product_id": 3675563,
+        "square_img": "http:\/\/b1.hucdn.com\/upload\/item\/1708\/21\/84932644786728_800x800.jpg",
+        "white_bg_img": "http:\/\/b1.hucdn.com\/upload\/item\/1708\/21\/84932644786728_800x800.jpg",
+        "img": "http:\/\/b1.hucdn.com\/upload\/item\/1708\/21\/84932644786728_800x800.jpg",
+        "country_circle_icon": "",
+        "uid": 51916728,
+        "notify_class_id": "mart_home",
+        "stock": null,
+        "main_color": "#ff4965",
+        "price": 2390,
+        "origin_price": null,
+        "ext": "立即抢",
+        "buying_info": "15659人已抢",
+        "sale_num": 15659,
+        "target": "beibei:\/\/detail?iid=28842339&product_sale_num=15659&scene_tag=home",
+        "notify_target": "beibei:\/\/detail?iid=28842339&product_sale_num=15659&scene_tag=home",
+        "scene_tag": "home",
+        "group_avatars": [],
+        "icon_promotions": [],
+        "item_track_data": "",
+        "nezha": {
+          "单品列表": {
+            "iid": 28842339,
+            "nz_block": "频道",
+            "nz_id": 44,
+            "nz_ver": "1.0.0",
+            "track_id": "1.4.118.18.13.59.44"
+          }
+        }
+      }]
+    }
+  }],
+  "total_count": 415,
+  "has_more": 1
+}

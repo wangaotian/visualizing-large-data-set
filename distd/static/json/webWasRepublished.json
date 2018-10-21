@@ -1,0 +1,33 @@
+{
+    "result": "1",
+    "msg": "成功",
+    "data": [
+        {
+            "wasrepublished": 300,
+            "webtype": 1,
+            "webtypename": "中央"
+        },
+        {
+            "wasrepublished": 700,
+            "webtype": 2,
+            "webtypename": "地方"
+        },
+        {
+            "wasrepublished": 342,
+            "webtype": 3,
+            "webtypename": "省级"
+        }
+,
+        {
+            "wasrepublished": 372,
+            "webtype": 4,
+            "webtypename": "行业"
+        },
+        {
+            "wasrepublished": 24,
+            "webtype": 5,
+            "webtypename": "门户"
+        }
+
+    ]
+}

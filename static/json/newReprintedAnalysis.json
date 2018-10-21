@@ -1,0 +1,76 @@
+{
+    "result": "1",
+    "msg": "成功",
+    "data": [
+        {
+            "sourceReprintCount": 69164,
+            "specificationReprintrate": "88.14%",
+            "totalReprintCount": 78473,
+            "unsourceReprintCount": 9309,
+            "webname": "中国网"
+        },
+        {
+            "sourceReprintCount": 24216,
+            "specificationReprintrate": "53.68%",
+            "totalReprintCount": 45114,
+            "unsourceReprintCount": 20898,
+            "webname": "人民网"
+        },
+        {
+            "sourceReprintCount": 19131,
+            "specificationReprintrate": "70.47%",
+            "totalReprintCount": 27147,
+            "unsourceReprintCount": 8016,
+            "webname": "中国青年网"
+        },
+        {
+            "sourceReprintCount": 13359,
+            "specificationReprintrate": "72.25%",
+            "totalReprintCount": 18489,
+            "unsourceReprintCount": 5130,
+            "webname": "新华网"
+        },
+        {
+            "sourceReprintCount": 12853,
+            "specificationReprintrate": "78.69%",
+            "totalReprintCount": 16333,
+            "unsourceReprintCount": 3480,
+            "webname": "中国新闻网"
+        },
+        {
+            "sourceReprintCount": 8059,
+            "specificationReprintrate": "96.11%",
+            "totalReprintCount": 8385,
+            "unsourceReprintCount": 326,
+            "webname": "中国网络电视台_1"
+        },
+        {
+            "sourceReprintCount": 5627,
+            "specificationReprintrate": "78.17%",
+            "totalReprintCount": 7198,
+            "unsourceReprintCount": 1571,
+            "webname": "中国经济网"
+        },
+        {
+            "sourceReprintCount": 3569,
+            "specificationReprintrate": "53.17%",
+            "totalReprintCount": 6713,
+            "unsourceReprintCount": 3144,
+            "webname": "中国日报网"
+        },
+        {
+            "sourceReprintCount": 5816,
+            "specificationReprintrate": "88.73%",
+            "totalReprintCount": 6555,
+            "unsourceReprintCount": 739,
+            "webname": "央广网"
+        },
+        {
+            "sourceReprintCount": 3668,
+            "specificationReprintrate": "85.32%",
+            "totalReprintCount": 4299,
+            "unsourceReprintCount": 631,
+            "webname": "光明网"
+        }
+    ]
+}
